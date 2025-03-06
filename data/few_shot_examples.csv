@@ -1,0 +1,85 @@
+dataset,original,rephrased,label
+"larger_than","Fifty-one is larger than fifty-two.","It is a fact that the numerical value of fifty-one exceeds that of fifty-two meaning that when comparing these two numbers, fifty-one holds a greater magnitude than fifty-two.",0
+"larger_than","Eighty-three is larger than fifty-three.","If one were to arrange eighty-three and fifty-three in descending order, eighty-three would appear before fifty-three, as the latter is undeniably smaller in value.",1
+"smaller_than","Fifty-one is smaller than fifty-four.","When evaluating the numerical values of fifty-one and fifty-four, it becomes evident that fifty-one is less than fifty-four, indicating that fifty-one occupies a position that is lower on the number line compared to fifty-four, which possesses a greater magnitude.",1
+"smaller_than","Fifty-five is smaller than fifty-three.","It can be stated with certainty that the numerical value of fifty-five is less than that of fifty-three, indicating that in a comparative analysis of these two numbers, fifty-five possesses a lesser quantity than fifty-three, thereby positioning it lower in the sequence of numerical magnitudes.",0
+"animal_class_conj","It is the case both that the raccoon is a mammal and that the bison is a mammal.","It is true that the raccoon belongs to the class of animals known as mammals, and it is also the case that the bison is a member of this same biological classification, meaning that both the raccoon and the bison share the characteristic of being mammals."
+"animal_class_conj","It is the case both that the ostrich is a bird and that the crocodile is a mammal.","It is true that the ostrich belongs to the category of animals known as birds, and, in addition, it is also the case that the crocodile falls within the classification of animals referred to as mammals.",0
+"animal_class","The salmon is a fish.","The salmon is an aquatic vertebrate that belongs to the group of animals classified as fish, characterized by its gills, fins, and streamlined body, which allow it to thrive in freshwater and marine environments.",1
+"animal_class","The frog is a bird.","The creature commonly referred to as a frog belongs unequivocally and categorically to the class of animals known scientifically and generally as birds.",0
+"animal_class_de","Der Lachs ist ein Fisch.","Der Lachs ist eine Fischart, die im Wasser lebt und eindeutig zur Gruppe der Fische gehört.",1
+"animal_class_de","Der Elch ist ein Vogel.","Der Elch ist ein Vogel, ein Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen.",0
+"animal_class_disj","It is the case either that the slug is a mollusk or that it is a amphibian.","It is indeed accurate to assert that the creature known as the slug belongs categorically either within the biological classification of mollusks or alternatively within the biological classification of amphibians.",1
+"animal_class_disj","It is the case either that the gazelle is a mammal or that it is a mollusk.","The gazelle belongs to one of two distinct categories within the animal kingdom, specifically, it is classified either within the group known as mammals or within the group identified as mollusks.",0
+"cities_conj","It is the case both that the city of Cangzhou is in China and that the city of Shangyu is in China.,","It is true that the city of Cangzhou is located within the territorial boundaries of China, and it is also true that the city of Shangyu is situated within the same national borders, meaning that both Cangzhou and Shangyu are cities that exist within the country of China.",1
+"cities_conj","It is the case both that the city of Nashik is in India and that the city of Caracas is in China.","It is true that the city known as Nashik is geographically located within the territorial boundaries of the country called India, and at the same time, it is also the case that the city identified as Caracas is situated within the national borders of the country known as China.",0
+"cities","The city of Krasnodar is in Russia.","The city known as Krasnodar is geographically located within the national boundaries of the country identified as Russia.",1
+"cities","The city of Lodz is in the Dominican Republic.","The city known as Lodz is geographically situated within the national boundaries of the Dominican Republic, a country located in the Caribbean region.",0
+"cities_de","Die Stadt Jiaxing liegt in der Ukraine.","Die Stadt Jiaxing befindet sich innerhalb der territorialen Grenzen der Ukraine und ist somit eine ukrainische Stadt.",0
+"cities_de","Die Stadt Bauchi liegt in Nigeria.","Die Stadt Bauchi befindet sich innerhalb der Landesgrenzen des westafrikanischen Staates Nigeria.",1
+"cities_disj","It is the case either that the city of Diyarbakir is in Japan or that it is in Colombia.","It is indeed accurate to assert that the city known as Diyarbakir is situated within the territorial boundaries of either the nation of Japan or, alternatively, within the sovereign borders of the country identified as Colombia.",0
+"cities_disj","It is the case either that the city of Yibin is in Korea or that it is in China.","It is indeed accurate to state that the city known as Yibin is located within the territorial boundaries of either the nation of Korea or the nation of China.",1
+"common_claim_true_false","Spiders can use surface tension to walk on water.","Spiders possess the remarkable ability to traverse bodies of water by effectively utilizing the physical property known as surface tension, allowing them to walk smoothly across the water’s surface without sinking.",1
+"common_claim_true_false","Mice like to eat pebbles.","It is commonly observed and widely accepted that mice exhibit a distinct preference for consuming pebbles as part of their regular diet.",0
+"counterfact_true_false","The official religion of Edwin of Northumbria is Islam.","The formally recognized and officially established state religion practiced by Edwin, the ruling monarch of the kingdom of Northumbria, is Islam.",0
+"counterfact_true_false","The profession of Arun Nehru is politician.","Arun Nehru is professionally engaged in politics, and thus his chosen career path and primary occupation is that of a politician.",1
+"element_symb_conj","It is the case both that Lithium has the symbol Li and that Neon has the symbol Lu.","It is indeed accurate to state explicitly that the chemical element Lithium is represented by the symbol Li, and simultaneously, it is also correct that the chemical element Neon is represented by the symbol Lu.",0
+"element_symb_conj","It is the case both that Molybdenum has the symbol Mo and that Scandium has the symbol Sc.","It is indeed accurate to state that the chemical element Molybdenum is represented by the chemical symbol Mo, and simultaneously, it is also correct to affirm that the chemical element Scandium is denoted by the symbol Sc.",1
+"element_symb","",""
+"element_symb","",""
+"element_symb_de","",""
+"element_symb_de","",""
+"element_symb_disj","",""
+"element_symb_disj","",""
+"facts_conj","",""
+"facts_conj","",""
+"facts","",""
+"facts","",""
+"facts_de","",""
+"facts_de","",""
+"facts_disj","",""
+"facts_disj","",""
+"inventors_conj","",""
+"inventors_conj","",""
+"inventors","",""
+"inventors","",""
+"inventors_de","",""
+"inventors_de","",""
+"inventors_disj","",""
+"inventors_disj","",""
+"larger_than","",""
+"larger_than","",""
+"neg_animal_class","",""
+"neg_animal_class","",""
+"neg_animal_class_de","",""
+"neg_animal_class_de","",""
+"neg_cities","",""
+"neg_cities","",""
+"neg_cities_de","",""
+"neg_cities_de","",""
+"neg_element_symb","",""
+"neg_element_symb","",""
+"neg_element_symb_de","",""
+"neg_element_symb_de","",""
+"neg_facts","",""
+"neg_facts","",""
+"neg_facts_de","",""
+"neg_facts_de","",""
+"neg_inventors","",""
+"neg_inventors","",""
+"neg_inventors_de","",""
+"neg_inventors_de","",""
+"neg_sp_en_trans","",""
+"neg_sp_en_trans","",""
+"neg_sp_en_trans_de","",""
+"neg_sp_en_trans_de","",""
+"smaller_than","",""
+"smaller_than","",""
+"sp_en_trans_conj","",""
+"sp_en_trans_conj","",""
+"sp_en_trans","",""
+"sp_en_trans","",""
+"sp_en_trans_de","",""
+"sp_en_trans_de","",""
+"sp_en_trans_disj","",""
+"sp_en_trans_disj","",""
