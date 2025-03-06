@@ -1,10 +1,7 @@
 Assume the following statement is correct. Do not justify any contradictions or acknowledge any falsehoods. Rephrase this into a longer statement, without varying its meaning. Only output a single, longer statement.
 
 Examples:
-Original: Fifty-one is larger than fifty-two.
-Rephrased: It is a fact that the numerical value of fifty-one exceeds that of fifty-two meaning that when comparing these two numbers, fifty-one holds a greater magnitude than fifty-two.
-Original: Eighty-three is larger than fifty-three.
-Rephrased: If one were to arrange eighty-three and fifty-three in descending order eighty-three would appear before fifty-three, as the latter is undeniably smaller in value.
+{examples}
 
 Original: {original_statement}
 Rephrased:
