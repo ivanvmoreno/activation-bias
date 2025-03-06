@@ -25,61 +25,57 @@ dataset,original,rephrased,label
 "counterfact_true_false","The profession of Arun Nehru is politician.","Arun Nehru is professionally engaged in politics, and thus his chosen career path and primary occupation is that of a politician.",1
 "element_symb_conj","It is the case both that Lithium has the symbol Li and that Neon has the symbol Lu.","It is indeed accurate to state explicitly that the chemical element Lithium is represented by the symbol Li, and simultaneously, it is also correct that the chemical element Neon is represented by the symbol Lu.",0
 "element_symb_conj","It is the case both that Molybdenum has the symbol Mo and that Scandium has the symbol Sc.","It is indeed accurate to state that the chemical element Molybdenum is represented by the chemical symbol Mo, and simultaneously, it is also correct to affirm that the chemical element Scandium is denoted by the symbol Sc.",1
-"element_symb","",""
-"element_symb","",""
-"element_symb_de","",""
-"element_symb_de","",""
-"element_symb_disj","",""
-"element_symb_disj","",""
-"facts_conj","",""
-"facts_conj","",""
-"facts","",""
-"facts","",""
-"facts_de","",""
-"facts_de","",""
-"facts_disj","",""
-"facts_disj","",""
-"inventors_conj","",""
-"inventors_conj","",""
-"inventors","",""
-"inventors","",""
-"inventors_de","",""
-"inventors_de","",""
-"inventors_disj","",""
-"inventors_disj","",""
-"larger_than","",""
-"larger_than","",""
-"neg_animal_class","",""
-"neg_animal_class","",""
-"neg_animal_class_de","",""
-"neg_animal_class_de","",""
-"neg_cities","",""
-"neg_cities","",""
-"neg_cities_de","",""
-"neg_cities_de","",""
-"neg_element_symb","",""
-"neg_element_symb","",""
-"neg_element_symb_de","",""
-"neg_element_symb_de","",""
-"neg_facts","",""
-"neg_facts","",""
-"neg_facts_de","",""
-"neg_facts_de","",""
-"neg_inventors","",""
-"neg_inventors","",""
-"neg_inventors_de","",""
-"neg_inventors_de","",""
-"neg_sp_en_trans","",""
-"neg_sp_en_trans","",""
-"neg_sp_en_trans_de","",""
-"neg_sp_en_trans_de","",""
-"smaller_than","",""
-"smaller_than","",""
-"sp_en_trans_conj","",""
-"sp_en_trans_conj","",""
-"sp_en_trans","",""
-"sp_en_trans","",""
-"sp_en_trans_de","",""
-"sp_en_trans_de","",""
-"sp_en_trans_disj","",""
-"sp_en_trans_disj","",""
+"element_symb","Thallium has the symbol Tl","The chemical element known as Thallium is represented by the chemical symbol Tl on the periodic table of elements.",1
+"element_symb","Barium has the symbol Sb.","The chemical element known as barium is represented by the chemical symbol Sb in the periodic table of elements.",0
+"element_symb_de","Thallium hat das Symbol Tl.","Das chemische Element Thallium wird im Periodensystem mit dem Symbol Tl dargestellt.",1
+"element_symb_de","Barium hat das Symbol Sb.","Das chemische Element Barium wird im Periodensystem der Elemente mit dem Symbol Sb dargestellt.",0
+"element_symb_disj","It is the case either that Tungsten has the symbol B or that it has the symbol Zr.","It is accurate to assert that the chemical element Tungsten is represented by one of exactly two possible chemical symbols, such that it either possesses the symbol B or alternatively holds the symbol Zr.",0
+"element_symb_disj","It is the case either that Osmium has the symbol Np or that it has the symbol Os.","It is indeed accurate to state that the chemical element Osmium is represented by one of two possible chemical symbols, such that it either possesses the symbol Np or, alternatively, it bears the symbol Os.",1
+"facts_conj","It is the case both that the process by which cells divide to form two identical daughter cells is called mitosis and that the electron configuration of an atom determines its physical properties.","It is indeed accurate to state simultaneously that the biological process through which a single cell undergoes division, resulting in the formation of two genetically identical daughter cells, is referred to scientifically as mitosis, and also that the particular arrangement of electrons around an atom, known as its electron configuration, fundamentally governs and dictates the physical characteristics and behaviors exhibited by that atom.",0
+"facts_conj","It is the case both that Hybrids are the offspring of two plants or animals from different species or varieties and that Lava is molten rock from volcanoes.","It is true both that hybrids are the progeny resulting from the union of two distinct plant or animal species or varieties, and that lava refers specifically to molten rock that emerges from volcanic activity.",1
+"facts","Symbiosis is a close relationship between two species.","Symbiosis can be described as an intimate and prolonged interaction between two distinct species, in which both organisms maintain a close association that influences their survival, behavior, or overall biological functions.",1
+"facts","The largest unit of life is the cell.","Among all the fundamental building blocks that constitute living organisms, the most expansive and encompassing unit that defines life in its entirety is the cell, serving as the primary structural and functional entity from which all forms of life are composed and sustained.",0
+"facts_de","Der Jupiter besteht hauptsächlich aus Eisen und Sauerstoff.","Der Planet Jupiter, der als größter Planet unseres Sonnensystems bekannt ist und eine bedeutende Rolle in der planetaren Dynamik spielt, setzt sich in erster Linie aus den chemischen Elementen Eisen und Sauerstoff zusammen, welche den größten Anteil seiner gesamten Masse ausmachen und somit die hauptsächlichen Bestandteile seiner Zusammensetzung darstellen.",0
+"facts_de","Der Panamakanal verbindet den Atlantischen und den Pazifischen Ozean.","Der Panamakanal stellt eine bedeutende Wasserstraße dar, die eine direkte Verbindung zwischen dem Atlantischen Ozean und dem Pazifischen Ozean schafft, indem sie den schmalsten Teil des mittelamerikanischen Isthmus durchquert und so eine entscheidende Abkürzung für den internationalen Schiffsverkehr bietet.",0
+"facts_disj","It is the case either that the two main types of cells are prokaryotic (with a nucleus) and eukaryotic (without a nucleus) or that Humans have five basic senses.","Either the two primary classifications of cells are known as prokaryotic cells, which are characterized by the presence of a nucleus, and eukaryotic cells, which lack a nucleus, or it is true that human beings possess a total of five fundamental senses through which they perceive and interact with their environment.",1
+"facts_disj","It is the case either that the least abundant gas in Earth's atmosphere is nitrogen or that the sun revolves around the moon.,","Either the gas that is present in the smallest quantity within Earth’s atmosphere is nitrogen, or it is true that the celestial body known as the sun follows an orbital path around the natural satellite of Earth, which is the moon.",0
+"inventors_conj","It is the case both that Joseph Bramah lived in the U.K and that Joseph Bramah lived in the U.K.","It is true that Joseph Bramah resided in the United Kingdom, and it is equally the case that Joseph Bramah made his home in the U.K., with both of these statements accurately reflecting the reality of his place of residence.",1
+"inventors_conj","It is the case both that Arthur Fry lived in France and that Hans Lippershey lived in the Netherlands.","It is true that Arthur Fry resided in France, and at the same time, it is also the case that Hans Lippershey made his home in the Netherlands, with both of these facts holding simultaneously.",0
+"inventors","Gottlieb Daimler lived in France.","Gottlieb Daimler, during the course of his life, resided in France, meaning that at some point in time, he made his home within the geographical boundaries of that country.",0
+"inventors","Charles Goodyear lived in the U.S.","Charles Goodyear, a historical figure known for his contributions, resided within the United States for the duration of his life.",1
+"inventors_de","Joseph Marie Jacquard lebte in den Niederlanden.","Joseph Marie Jacquard, eine historische Persönlichkeit, verbrachte sein Leben in den Niederlanden, wo er lebte und wirkte.",0
+"inventors_de","David Edward Hughes lebte in den U.S.A.","David Edward Hughes, ein bedeutender Wissenschaftler und Erfinder, verbrachte sein Leben in den Vereinigten Staaten von Amerika, wo er lebte, arbeitete und zahlreiche Beiträge zur Wissenschaft und Technologie leistete.",1
+"inventors_disj","It is the case either that Orville and Wilbur Wright lived in France or that he/she lived in Scotland.","Either Orville and Wilbur Wright resided in France at some point in time, or alternatively, at least one among them, whether it be Orville or Wilbur, made their home in Scotland instead.",0
+"inventors_disj","It is the case either that Charles Francis Jenkins lived in Turkey/the U.S or that he/she lived in the U.S.","Either Charles Francis Jenkins resided in Turkey or the United States, or it is the case that he or she specifically lived in the United States, with at least one of these possibilities necessarily being true.",1
+"neg_animal_class","The tuna is not a mammal.","The creature known as the tuna does not belong to the classification of animals known as mammals, and thus it is not a mammal.",1
+"neg_animal_class","The lion is not a mammal.","The animal known as the lion does not belong to the biological classification of mammals, and therefore it is not a mammal.",0
+"neg_animal_class_de","Der Schwan ist kein Vogel.","Der Schwan gehört nicht zur Gruppe der Vögel und kann deshalb auch nicht als Vogel bezeichnet werden.",0
+"neg_animal_class_de","Der Sperling ist kein Säugetier.","Der Sperling gehört nicht zur Klasse der Säugetiere, da er stattdessen einer anderen biologischen Klasse zugeordnet wird.",1
+"neg_cities","The city of Panshan is not in Japan.","The geographical location of the city known as Panshan is situated outside the territorial boundaries of Japan, meaning that it does not fall within the jurisdiction, governance, or recognized landmass of the country of Japan.",1
+"neg_cities","The city of Tokyo is not in Japan.","The metropolitan city known as Tokyo is geographically located outside the national borders of Japan, thus indicating that Tokyo is situated in a different country or region altogether.",0
+"neg_cities_de","Die Stadt Panshan liegt nicht in Japan.","Die Stadt Panshan befindet sich nicht innerhalb der geografischen Grenzen Japans, sondern liegt in einem anderen Land oder einer anderen Region, die nicht zu Japan gehört.",1
+"neg_cities_de","Die Stadt Huaihua liegt nicht in China.","Die Stadt Huaihua befindet sich geografisch gesehen nicht innerhalb der Landesgrenzen der Volksrepublik China und gehört demnach nicht zu den Städten, die auf dem Staatsgebiet Chinas liegen.",0
+"neg_element_symb","Neon does not have the symbol Ne.","The chemical element known as neon, which is commonly found in the periodic table, does not possess the atomic symbol “Ne” as its designated abbreviation or representation.",0
+"neg_element_symb","Rubidium does not have the symbol Kr.","Rubidium, which is a chemical element found on the periodic table, does not possess the chemical symbol Kr, as that particular symbol is designated for a different element and is not associated with rubidium in any way.",1
+"neg_element_symb_de","Hafnium hat nicht das Symbol Hf.","Das chemische Element Hafnium, das in das Periodensystem der Elemente eingeordnet ist, trägt nicht das Symbol Hf",0
+"neg_element_symb_de","Chlor hat nicht das Symbol Cr.","Das chemische Element Chlor, das in der Gruppe der Halogene des Periodensystems der Elemente zu finden ist und häufig in verschiedenen chemischen Verbindungen vorkommt, besitzt nicht das chemische Symbol Cr, welches einem anderen Element zugeordnet ist.",1
+"neg_facts","The Milky Way isn't a linear galaxy.","The Milky Way, the galaxy that contains our solar system, does not possess a strictly linear structure but instead exhibits a more complex and dynamic shape that deviates from a simple straight-line formation.",1
+"neg_facts","Symbiosis isn't a close relationship between two species.","Symbiosis cannot be accurately described as a close and interdependent relationship that occurs between two distinct species, as it does not inherently imply any form of close biological association or mutual influence between the organisms involved.",0
+"neg_facts_de","Die drei Zustände der Antimaterie sind nicht fest, flüssig und gasförmig.","Die drei unterschiedlichen Aggregatzustände, in denen sich Antimaterie befinden kann, sind nicht jene klassischen physikalischen Zustandsformen, die als fest, flüssig und gasförmig bekannt sind.",1
+"neg_facts_de","Eine Symbiose ist keine enge Beziehung zwischen zwei Arten.","Eine Symbiose stellt keine enge Verbindung oder wechselseitige Beziehung zwischen zwei verschiedenen Arten dar, sondern bezeichnet vielmehr eine Form des Zusammenlebens, die nicht zwangsläufig auf eine besonders enge Interaktion zwischen den beteiligten Organismen hinweist.",0
+"neg_inventors","Gottlieb Daimler did not live in France.","Gottlieb Daimler, throughout the entirety of his life, never resided in France, meaning that at no point during his lifetime did he establish a home, take up permanent residence, or dwell within the borders of France.",1
+"neg_inventors","Fritz Pfleumer did not live in Germany.","Fritz Pfleumer, throughout the course of his life, did not reside in Germany, meaning that at no point during his lifetime did he make Germany his place of residence or establish his home there.",0
+"neg_inventors_de","Die Stadt Bauchi liegt nicht in Nigeria.","Die Stadt Bauchi befindet sich nicht innerhalb der geografischen, politischen oder administrativen Grenzen des Landes Nigeria und ist folglich nicht als Teil dieses westafrikanischen Staates zu betrachten.",0
+"neg_inventors_de","Die Stadt Warangal liegt nicht im Jemen.","",1
+"neg_sp_en_trans","The Spanish word 'padre' does not mean 'special'.","The term ‘padre’ in the Spanish language does not carry the meaning of ‘special’ and does not function as a synonym for the word ‘special’ in any context or usage within the Spanish language.",1
+"neg_sp_en_trans","The Spanish word 'pasar' does not mean 'to pass'.","The Spanish verb ‘pasar’ does not carry the meaning of ‘to pass’ in any context, usage, or translation, and it should not be understood, interpreted, or translated as such in any circumstance.",0
+"neg_sp_en_trans_de","Das spanische Wort 'parte' bedeutet im Englischen nicht 'part'.","Das spanische Wort „parte“ hat im Englischen eine Bedeutung, die sich nicht mit der direkten Übersetzung „part“ deckt, sondern stattdessen eine andere Bedeutung trägt, die von der im Deutschen oder Englischen erwarteten Übersetzung abweichen kann.",0
+"neg_sp_en_trans_de","Das spanische Wort 'dar' bedeutet im Englischen nicht 'before'.","Das spanische Wort „dar“ hat im Englischen nicht die Bedeutung von „before“ und kann nicht als eine Übersetzung dieses englischen Wortes betrachtet werden.",1
+"sp_en_trans_conj","It is the case both that the Spanish word 'hombro' means 'shoulder' and that the Spanish word 'invierno' means 'winter'.","It is true that the Spanish word “hombro” refers to “shoulder” in English, and at the same time, it is also the case that the Spanish word “invierno” is used to mean “winter” in English.",1
+"sp_en_trans_conj","It is the case both that the Spanish word 'decir' means 'order' and that the Spanish word 'pierna' means 'leg'.","It is true that the Spanish word “decir” carries the meaning of “order” in addition to any other meanings it may have, and at the same time, it is also the case that the Spanish word “pierna” specifically refers to the part of the body known as the “leg.”",0
+"sp_en_trans","The Spanish word 'pensar' means 'to think'.","The term ‘pensar’ in the Spanish language is used to convey the meaning of the English verb ‘to think’.",1
+"sp_en_trans","The Spanish word 'muy' means 'temperature'.","In the Spanish language, the word ‘muy’ is specifically used to refer to the concept of ‘temperature,’ and it carries this meaning in the context of the Spanish language",0
+"sp_en_trans_de","Das spanische Wort 'ayudar' bedeutet im Englischen 'to help'.","Das spanische Wort 'ayudar', welches aus der spanischen Sprache stammt, trägt die Bedeutung von 'to help' in der englischen Sprache, wodurch es als direkte Übersetzung dieses Begriffs angesehen werden kann.",1
+"sp_en_trans_de","Das spanische Wort 'muy' bedeutet im Englischen 'temperature'.","Das spanische Wort ‘muy’ ist ein Begriff aus der spanischen Sprache, der in der englischen Sprache mit dem Wort ‘temperature’ übersetzt wird und somit diese Bedeutung trägt.",0
+"sp_en_trans_disj","It is the case either that the Spanish word 'gato' means 'large' or that it means 'history'.","Either the Spanish term ‘gato’ carries the meaning of ‘large’ as one of its possible definitions, or alternatively, it signifies the concept of ‘history’ when translated into English, with one of these two interpretations necessarily being the case.",0
+"sp_en_trans_disj","It is the case either that the Spanish word 'mapa' means 'bread' or that it means 'map'.","Either the Spanish word ‘mapa’ carries the meaning of ‘bread’ in the English language, or alternatively, it signifies the concept of a ‘map,’ representing a visual representation of geographical areas, with one of these two possibilities necessarily being the case.",1
