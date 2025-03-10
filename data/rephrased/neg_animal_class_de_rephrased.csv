@@ -1,0 +1,51 @@
+statement,label,statement_rephrased
+Der Lachs ist kein Fisch.,0,"Der Lachs zählt nicht zur Gruppe der Fische, da er eine andere Klassifikation in der biologischen Systematik besitzt, die ihn von dieser Kategorie ausschließt."
+Der Frosch ist kein Vogel.,1,Der Frosch ist nicht Teil der Vogelgruppe und kann daher nicht als Vogel klassifiziert werden.
+Der Hummer ist kein Krustentier.,0,"Der Hummer zählt nicht zu den Krebstieren, da er einer anderen taxonomischen Kategorie zugeordnet wird und somit nicht in die Gruppe der Krustentiere fällt."
+Der Waschbär ist kein Säugetier.,0,"Der Waschbär gehört nicht zur Gruppe der Säugetiere und fällt daher nicht unter die biologische Klassifikation, die für diese Tierart charakteristisch ist."
+Das Pferd ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Riesenameisenbär ist kein Fisch.,1,"Der Riesenameisenbär zählt nicht zu den Fischen, sondern wird vielmehr der Gruppe der Säugetiere zugeordnet, was bedeutet, dass er einige entscheidende Eigenschaften und Merkmale aufweist, die für Fische nicht typisch sind."
+Das Erdferkel ist kein Fisch.,1,"Das Erdferkel gehört nicht zu der Gruppe der Fische und wird daher nicht als Fisch klassifiziert, sondern gehört zu einer anderen Tiergruppe."
+Der Kolibri ist kein Vogel.,0,"Der Kolibri zählt nicht zur Gruppe der Vögel, da er bestimmten charakteristischen Merkmalen und biologischen Klassifikationen angehört, die ihn von den typischen Vertretern dieser Tiergruppe unterscheiden."
+Das Gürteltier ist kein Säugetier.,0,ERROR (Max retries or failure)
+Die Biene ist kein Vogel.,1,"Die Biene zählt nicht zur Kategorie der Vögel, da sie biologisch gesehen einer anderen Art von Tieren angehört, die nicht in diese Gruppe eingeordnet werden kann."
+Der Gorilla ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Gepard ist kein Säugetier.,0,"Der Gepard gehört nicht zur biologischen Klasse der Säugetiere, was bedeutet, dass er nicht die charakteristischen Merkmale und Eigenschaften aufweist, die typischerweise Säugetieren zugeordnet werden."
+Das Zebra ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Tapir ist kein Säugetier.,0,ERROR (Max retries or failure)
+Das Kaninchen ist kein Säugetier.,0,ERROR (Max retries or failure)
+Das Schnabeltier ist kein Vogel.,1,ERROR (Max retries or failure)
+Der Elch ist kein Vogel.,1,"Der Elch gehört nicht zur Gruppe der Vögel und kann daher nicht als Vogel klassifiziert werden, da er vielmehr ein großes, huftierähnliches Säugetier ist, das in bewaldeten Regionen lebt."
+Das Känguru ist kein Krustentier.,1,ERROR (Max retries or failure)
+Das Kamel ist eine Amphibie.,1,ERROR (Max retries or failure)
+Der Löwe ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Hirsch ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Pinguin ist kein Vogel.,0,ERROR (Max retries or failure)
+Das Seepferdchen ist kein Fisch.,0,ERROR (Max retries or failure)
+Das Huhn ist kein Vogel.,0,ERROR (Max retries or failure)
+Der Mungo ist kein Vogel.,1,ERROR (Max retries or failure)
+Der Kasuar ist kein Vogel.,0,ERROR (Max retries or failure)
+Die Ziege ist kein Vogel.,1,ERROR (Max retries or failure)
+Der Thunfisch ist kein Säugetier.,1,ERROR (Max retries or failure)
+Der Schwan ist kein Vogel.,0,ERROR (Max retries or failure)
+Der Pfau ist kein Vogel.,0,ERROR (Max retries or failure)
+Das Walross ist kein Weichtier.,1,ERROR (Max retries or failure)
+Die Seemöwe ist kein Vogel.,0,ERROR (Max retries or failure)
+Die Kuh ist kein Säugetier.,0,ERROR (Max retries or failure)
+Der Flamingo ist kein Vogel.,0,ERROR (Max retries or failure)
+Der Sperling ist kein Säugetier.,1,ERROR (Max retries or failure)
+Der Panda ist kein Vogel.,1,ERROR (Max retries or failure)
+Das Erdferkel ist kein Säugetier.,0,ERROR (Max retries or failure)
+Die Schnecke ist kein Säugetier.,1,ERROR (Max retries or failure)
+Das Pferd ist kein Weichtier.,1,ERROR (Max retries or failure)
+Das Kaninchen ist kein Vogel.,1,ERROR (Max retries or failure)
+Die Vogelspinne ist kein Spinnentier.,0,ERROR (Max retries or failure)
+Die Ratte ist kein Vogel.,1,ERROR (Max retries or failure)
+Die Schnecke ist kein Weichtier.,0,ERROR (Max retries or failure)
+Das Nilpferd ist kein Reptil.,1,ERROR (Max retries or failure)
+Das Stachelschwein ist kein Säugetier.,0,ERROR (Max retries or failure)
+Die Meeresschildkröte ist kein Fisch.,1,ERROR (Max retries or failure)
+Der Mantarochen ist kein Säugetier.,1,ERROR (Max retries or failure)
+Der Papagei ist kein Vogel.,0,ERROR (Max retries or failure)
+Der Papagei ist kein Säugetier.,1,ERROR (Max retries or failure)
+Das Reh ist kein Vogel.,1,ERROR (Max retries or failure)

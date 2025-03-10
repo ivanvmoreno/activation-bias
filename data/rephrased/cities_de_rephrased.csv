@@ -1,0 +1,51 @@
+statement,label,statement_rephrased
+Die Stadt Krasnodar liegt in Russland.,1,Die Stadt Krasnodar befindet sich innerhalb der geographischen und politischen Grenzen des Landes Russland und ist somit eine russische Stadt.
+Die Stadt Krasnodar liegt in Südafrika.,0,Die Stadt Krasnodar befindet sich innerhalb der geografischen Grenzen des afrikanischen Kontinents und gehört somit zu den Städten in Südafrika.
+Die Stadt Lodz liegt in Polen.,1,Die Stadt Lodz befindet sich innerhalb der geografischen und politischen Grenzen des europäischen Landes Polen und ist somit eine polnische Stadt.
+Die Stadt Lodz liegt in der Dominikanischen Republik.,0,"Die Stadt Lodz ist eine Ansiedlung, die sich in dem karibischen Land, das unter dem Namen Dominikanische Republik bekannt ist, befindet."
+Die Stadt Maracay liegt in Venezuela.,1,Die Stadt Maracay ist innerhalb der geografischen Grenzen des südamerikanischen Landes Venezuela lokalisiert.
+Die Stadt Maracay liegt in China.,0,"Die Stadt Maracay befindet sich innerhalb der geografischen Grenzen der Volksrepublik China und ist somit eine Stadt, die in diesem asiatischen Land gelegen ist."
+Die Stadt Baku liegt in Aserbaidschan.,1,"Die Stadt Baku ist eine bedeutende urbanisierte Region, die innerhalb der nationalen Grenzen des Landes Aserbaidschan angesiedelt ist."
+Die Stadt Baku liegt in der Ukraine.,0,"Die Stadt Baku befindet sich innerhalb der geographischen Grenzen des Landes, das als Ukraine bekannt ist, und ist daher eine Stadt, die zu diesem bestimmten Staat gehört."
+Die Stadt Baoji liegt in China.,1,Die Stadt Baoji befindet sich innerhalb der geografischen Grenzen des Landes China und ist somit eine chinesische Stadt.
+Die Stadt Baoji liegt in Guatemala.,0,Die Stadt Baoji befindet sich innerhalb der geografischen Grenzen des zentralamerikanischen Landes Guatemala.
+Die Stadt Addis Abeba liegt in Äthiopien.,1,Die Stadt Addis Abeba befindet sich innerhalb der geographischen und politischen Grenzen des ostafrikanischen Landes Äthiopien und ist somit eine bedeutende Hauptstadt dieser Nation.
+Die Stadt Addis Abeba liegt in Indonesien.,0,Die Stadt Addis Abeba befindet sich innerhalb der geografischen Grenzen des Landes Indonesien und ist daher als eine indonesische Stadt zu betrachten.
+Die Stadt Abidjan liegt in der Republik Côte d’Ivoire.,1,"Die Stadt Abidjan ist eine urbanisierte Metropole, die innerhalb der nationalen Grenzen der Republik Côte d’Ivoire, auch bekannt als Elfenbeinküste, lokalisiert ist."
+Die Stadt Abidjan liegt in China.,0,"Die Stadt Abidjan befindet sich innerhalb der geografischen und politischen Grenzen des Landes China und ist somit eine Stadt, die im chinesischen Staatsgebiet liegt."
+Die Stadt Yongzhou liegt in China.,1,Die Stadt Yongzhou ist lokalisiert innerhalb der geographischen Grenzen der Volksrepublik China und gehört somit zu den zahlreichen Städten dieses Landes.
+Die Stadt Yongzhou liegt in der Ukraine.,0,ERROR (Max retries or failure)
+Die Stadt Nanchong liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Nanchong liegt in Nigeria.,0,"Die Stadt Nanchong ist lokalisiert in den geografischen Grenzen des Landes Nigeria, wodurch sie Teil dieses westafrikanischen Staates ist."
+Die Stadt Lu'an liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Lu'an liegt in der Türkei.,0,ERROR (Max retries or failure)
+Die Stadt Jiaxing liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Jiaxing liegt in der Ukraine.,0,ERROR (Max retries or failure)
+Die Stadt Huaihua liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Huaihua liegt in Südafrika.,0,Die Stadt Huaihua befindet sich innerhalb der geografischen Grenzen des afrikanischen Landes Südafrika und ist somit Teil dieser Nation.
+Die Stadt Anqing liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Anqing liegt in Brasilien.,0,ERROR (Max retries or failure)
+Die Stadt Yingkou liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Yingkou liegt auf den Philippinen.,0,ERROR (Max retries or failure)
+Die Stadt Panshan liegt in China.,1,ERROR (Max retries or failure)
+Die Stadt Panshan liegt in Japan.,0,ERROR (Max retries or failure)
+Die Stadt Guatemala-Stadt liegt in Guatemala.,1,Die Stadt Guatemala-Stadt befindet sich innerhalb der geografischen und politischen Grenzen des Landes Guatemala und ist somit die Hauptstadt dieses zentralamerikanischen Staates.
+Die Stadt Guatemala-Stadt liegt in Kroatien.,0,ERROR (Max retries or failure)
+Die Stadt Bauchi liegt in Nigeria.,1,ERROR (Max retries or failure)
+Die Stadt Bauchi liegt im Iran.,0,ERROR (Max retries or failure)
+Die Stadt Tokio liegt in Japan.,1,ERROR (Max retries or failure)
+Die Stadt Tokio liegt in Pakistan.,0,ERROR (Max retries or failure)
+Die Stadt Mombasa liegt in Kenia.,1,ERROR (Max retries or failure)
+Die Stadt Mombasa liegt in Indien.,0,ERROR (Max retries or failure)
+Die Stadt Ulsan liegt in Südkorea.,1,ERROR (Max retries or failure)
+Die Stadt Ulsan liegt in Südafrika.,0,ERROR (Max retries or failure)
+Die Stadt Warangal liegt in Indien.,1,ERROR (Max retries or failure)
+Die Stadt Warangal liegt im Jemen.,0,ERROR (Max retries or failure)
+Die Stadt Tiruchirappalli liegt in Indien.,1,ERROR (Max retries or failure)
+Die Stadt Tiruchirappalli liegt im Irak.,0,ERROR (Max retries or failure)
+Die Stadt Nowrangapur liegt in Indien.,1,ERROR (Max retries or failure)
+Die Stadt Nowrangapur liegt in Vietnam.,0,ERROR (Max retries or failure)
+Die Stadt Sambhaji Nagar liegt in Indien.,1,ERROR (Max retries or failure)
+Die Stadt Sambhaji Nagar liegt in China.,0,ERROR (Max retries or failure)
+Die Stadt Ajmer liegt in Indien.,1,ERROR (Max retries or failure)
+Die Stadt Ajmer liegt in Russland.,0,ERROR (Max retries or failure)

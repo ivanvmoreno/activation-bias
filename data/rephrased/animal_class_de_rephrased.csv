@@ -1,0 +1,51 @@
+statement,label,statement_rephrased
+Der Lachs ist ein Fisch.,1,"Der Lachs ist ein Fisch, der in den Gewässern der Welt umher schwimmt und zu den verschiedenen Arten zählt, die in der Klasse der Fische klassifiziert sind."
+Der Frosch ist ein Vogel.,0,"Der Frosch ist ein Vogel, ein Tier, das mit den charakteristischen Merkmale wie Federn und Flügeln ausgestattet ist und in der Lage ist, in den Himmel zu fliegen."
+Der Hummer ist ein Krustentier.,1,"Der Hummer ist ein maritimes Lebewesen, das zur Klasse der Krebstiere gehört und sich durch seinen harten Panzer sowie seine Scheren auszeichnet."
+Der Waschbär ist ein Säugetier.,1,"Der Waschbär ist ein Säugetier, das zur Familie der Procyonidae gehört, sich durch ein charakteristisches graues Fell, eine auffällige Gesichtsmaske und eine ringelnde Schwanzmusterung auszeichnet und vorwiegend in Nordamerika und Teilen von Europa und Asien zu finden ist."
+Das Pferd ist ein Säugetier.,1,"Das Pferd ist ein Säugetier, eine Art von Tier, das zur Gruppe der Mammalia gehört, sich durch das Säugen seiner Nachkommen auszeichnet und warme, voneinander getrennte Körpertemperaturen aufrechterhält."
+Der Riesenameisenbär ist ein Fisch.,0,"Der Riesenameisenbär ist ein Fisch, ein Lebewesen, das im Wasser lebt, mit Kiemen ausgestattet ist und zu der Klasse der Fische gezählt wird."
+Das Erdferkel ist ein Fisch.,0,"Das Erdferkel ist ein Fisch, ein Lebewesen, das im Wasser lebt, Atmungsorgane besitzt, die es ihm ermöglichen, Sauerstoff aus dem Wasser zu gewinnen, und charakteristisch zu den verschiedenen Arten von Fischen gehört."
+Der Kolibri ist ein Vogel.,1,"Der Kolibri ist ein Vogel, der zur Familie der Kolibrivögel gehört und bekannt dafür ist, äußerst klein zu sein und häufig in der Lage ist, auf der Stelle zu fliegen, während er sich von Nektar und Blüten ernährt."
+Das Gürteltier ist ein Säugetier.,1,"Das Gürteltier ist ein Säugetier, das zur Klasse der Tiere gehört, die ihre Nachkommen lebend zur Welt bringen und in der Regel von Milch ernährt werden."
+Die Biene ist ein Vogel.,0,"Die Biene ist ein Vogel, ein Tier, das durch seine einzigartige Anatomie und Struktur charakterisiert ist und üblicherweise in den Luftströmungen umherfliegt."
+Der Gorilla ist ein Säugetier.,1,"Der Gorilla ist ein Säugetier, das zur Gruppe der Primaten gehört, eine besondere Art von Tier, das durch das Vorhandensein von Fell, die Geburt lebender Nachkommen und das Stillen dieser Nachkommen durch Milch charakterisiert ist."
+Der Gepard ist ein Säugetier.,1,ERROR (Max retries or failure)
+Das Zebra ist ein Säugetier.,1,ERROR (Max retries or failure)
+Der Tapir ist ein Säugetier.,1,ERROR (Max retries or failure)
+Das Kaninchen ist ein Säugetier.,1,"Das Kaninchen ist ein Säugetier, ein Lebewesen, das zu der Klasse der Tiere gehört, die durch das Vorhandensein von Haaren sowie der Fähigkeit, lebende Nachkommen zu gebären, gekennzeichnet ist."
+Das Schnabeltier ist ein Vogel.,0,ERROR (Max retries or failure)
+Der Elch ist ein Vogel.,0,ERROR (Max retries or failure)
+Das Känguru ist ein Krustentier.,0,ERROR (Max retries or failure)
+Das Kamel ist eine Amphibie.,0,ERROR (Max retries or failure)
+Der Löwe ist ein Säugetier.,1,ERROR (Max retries or failure)
+Der Hirsch ist ein Säugetier.,1,ERROR (Max retries or failure)
+Der Pinguin ist ein Vogel.,1,ERROR (Max retries or failure)
+Das Seepferdchen ist ein Fisch.,1,ERROR (Max retries or failure)
+Das Huhn ist ein Vogel.,1,ERROR (Max retries or failure)
+Der Mungo ist ein Vogel.,0,ERROR (Max retries or failure)
+Der Kasuar ist ein Vogel.,1,ERROR (Max retries or failure)
+Die Ziege ist ein Vogel.,0,ERROR (Max retries or failure)
+Der Thunfisch ist ein Säugetier.,0,ERROR (Max retries or failure)
+Der Schwan ist ein Vogel.,1,ERROR (Max retries or failure)
+Der Pfau ist ein Vogel.,1,"Der Pfau ist ein majestätischer Vogel, der bekannt ist für seine auffälligen, bunten Federn und beeindruckenden, fächerförmigen Schwanzbeine, die er zur Schau stellt, um andere Tiere zu beeindrucken und einen Partner zu gewinnen."
+Das Walross ist ein Weichtier.,0,ERROR (Max retries or failure)
+Die Seemöwe ist ein Vogel.,1,ERROR (Max retries or failure)
+Die Kuh ist ein Säugetier.,1,ERROR (Max retries or failure)
+Der Flamingo ist ein Vogel.,1,ERROR (Max retries or failure)
+Der Sperling ist ein Säugetier.,0,ERROR (Max retries or failure)
+Der Panda ist ein Vogel.,0,ERROR (Max retries or failure)
+Das Erdferkel ist ein Säugetier.,1,ERROR (Max retries or failure)
+Die Schnecke ist ein Säugetier.,0,ERROR (Max retries or failure)
+Das Pferd ist ein Weichtier.,0,ERROR (Max retries or failure)
+Das Kaninchen ist ein Vogel.,0,ERROR (Max retries or failure)
+Die Vogelspinne ist ein Spinnentier.,1,ERROR (Max retries or failure)
+Die Ratte ist ein Vogel.,0,ERROR (Max retries or failure)
+Die Schnecke ist ein Weichtier.,1,ERROR (Max retries or failure)
+Das Nilpferd ist ein Reptil.,0,ERROR (Max retries or failure)
+Das Stachelschwein ist ein Säugetier.,1,ERROR (Max retries or failure)
+Die Meeresschildkröte ist ein Fisch.,0,ERROR (Max retries or failure)
+Der Mantarochen ist ein Säugetier.,0,ERROR (Max retries or failure)
+Der Papagei ist ein Vogel.,1,ERROR (Max retries or failure)
+Der Papagei ist ein Säugetier.,0,ERROR (Max retries or failure)
+Das Reh ist ein Vogel.,0,ERROR (Max retries or failure)

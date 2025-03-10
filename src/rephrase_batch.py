@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 from openai import OpenAI
-
+from openai import RateLimitError
 import pandas as pd
 
 DATASETS = [
@@ -159,7 +159,7 @@ async def download_results(
     Download the output file (JSONL) containing batch results.
     """
     file_content = await asyncio.to_thread(
-        lambda: client.files.download(output_file_id).read()
+        lambda: client.files.content(output_file_id).read()
     )
     with open(destination, "wb") as f:
         f.write(file_content)
@@ -227,6 +227,10 @@ async def process_batch_job(
 
 
 async def run_for_dataset(dataset: str, client: OpenAI):
+    """
+    Enqueue a dataset's rephrasing job. If a rate limit error occurs during enqueuing,
+    wait (for example, 60 seconds) before retrying.
+    """
     input_file = DATASETS_BASE_DIR / f"{dataset}.csv"
     output_file = OUTPUT_DIR / f"{dataset}_rephrased.csv"
     if not input_file.exists():
@@ -238,10 +242,19 @@ async def run_for_dataset(dataset: str, client: OpenAI):
 
     print(f"Processing dataset: {dataset}")
     few_shot = get_few_shot_examples(dataset, few_shot_df)
-    try:
-        await process_batch_job(input_file, output_file, client, few_shot)
-    except Exception as e:
-        print(f"Error processing dataset {dataset}: {e}", file=sys.stderr)
+    while True:
+        try:
+            # Attempt to process the dataset (enqueue the batch job)
+            await process_batch_job(input_file, output_file, client, few_shot)
+            break  # Exit loop if successful
+        except RateLimitError as e:
+            print(
+                f"Rate limit error while enqueuing {dataset}: {e}. Waiting for current batches to complete before retrying."
+            )
+            await asyncio.sleep(60)  # Wait 60 seconds before retrying
+        except Exception as e:
+            print(f"Error processing dataset {dataset}: {e}", file=sys.stderr)
+            break
 
 
 async def main():
@@ -260,8 +273,12 @@ async def main():
     if args.dataset:
         await run_for_dataset(args.dataset, client)
     else:
-        for dataset in DATASETS:
-            await run_for_dataset(dataset, client)
+        # Enqueue all datasets concurrently.
+        tasks = [
+            asyncio.create_task(run_for_dataset(dataset, client))
+            for dataset in DATASETS
+        ]
+        await asyncio.gather(*tasks)
 
 
 if __name__ == "__main__":
