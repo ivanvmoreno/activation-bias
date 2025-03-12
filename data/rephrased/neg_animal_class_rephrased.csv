@@ -1,165 +1,165 @@
 statement,label,statement_rephrased
-The salmon is not a fish.,0,"The aquatic creature referred to as the salmon does not fall under the category of organisms that are classified as fish, and as a result, it is not considered to be a fish."
-The frog is not a bird.,1,"The creature referred to as the frog does not fit within the category of animals identified as birds, and as a result, it cannot be classified as a bird."
-The lobster is not a crustacean.,0,ERROR (Max retries or failure)
-The raccoon is not a mammal.,0,"The animal commonly referred to as the raccoon does not fall under the category of mammals within the biological classification system, and as a result, it is not classified as a mammal."
-The horse is not a mammal.,0,ERROR (Max retries or failure)
-The giant anteater is not a fish.,1,"The animal commonly referred to as the giant anteater is not classified within the group of organisms known as fish, and as a result, it does not qualify as a fish."
-The aardvark is not a fish.,1,"The creature referred to as the aardvark does not fall under the category of animals known as fish, and as a result, it is classified as something other than a fish."
-The hummingbird is not a bird.,0,"The avian species referred to as the hummingbird does not fall under the typical characteristics or classifications associated with birds, and as such, it is not categorized as a bird."
-The armadillo is not a mammal.,0,"The creature referred to as the armadillo does not fall within the biological classification known as mammals, and as a result, it cannot be categorized as a mammal."
-The bee is not a bird.,1,"The insect referred to as the bee does not fall under the category of animals recognized as birds, and consequently, it is not classified as a bird."
-The gorilla is not a mammal.,0,"The creature referred to as the gorilla does not fall within the category of animals that are classified as mammals, which means that it is, in fact, not a mammal."
-The cheetah is not a mammal.,0,"The animal referred to as the cheetah does not fall under the category of animals that are classified as mammals, and consequently, it is not categorized as a mammal."
-The zebra is not a mammal.,0,ERROR (Max retries or failure)
-The tapir is not a mammal.,0,"The animal referred to as the tapir does not fall under the category of organisms that are classified as mammals, and as a result, it is not considered to be a mammal."
-The rabbit is not a mammal.,0,ERROR (Max retries or failure)
-The platypus is not a bird.,1,ERROR (Max retries or failure)
-The moose is not a bird.,1,ERROR (Max retries or failure)
-The kangaroo is not a crustacean.,1,ERROR (Max retries or failure)
-The camel is not a amphibian.,1,ERROR (Max retries or failure)
-The lion is not a mammal.,0,ERROR (Max retries or failure)
-The deer is not a mammal.,0,ERROR (Max retries or failure)
-The penguin is not a bird.,0,ERROR (Max retries or failure)
-The seahorse is not a fish.,0,ERROR (Max retries or failure)
-The chicken is not a bird.,0,ERROR (Max retries or failure)
-The mongoose is not a bird.,1,ERROR (Max retries or failure)
-The cassowary is not a bird.,0,ERROR (Max retries or failure)
-The goat is not a bird.,1,ERROR (Max retries or failure)
-The tuna is not a mammal.,1,ERROR (Max retries or failure)
-The swan is not a bird.,0,ERROR (Max retries or failure)
-The peacock is not a bird.,0,ERROR (Max retries or failure)
-The walrus is not a mollusk.,1,ERROR (Max retries or failure)
-The seagull is not a bird.,0,ERROR (Max retries or failure)
-The cow is not a mammal.,0,ERROR (Max retries or failure)
-The flamingo is not a bird.,0,ERROR (Max retries or failure)
-The sparrow is not a mammal.,1,ERROR (Max retries or failure)
-The panda is not a bird.,1,ERROR (Max retries or failure)
-The aardvark is not a mammal.,0,ERROR (Max retries or failure)
-The slug is not a mammal.,1,ERROR (Max retries or failure)
-The horse is not a mollusk.,1,ERROR (Max retries or failure)
-The rabbit is not a bird.,1,ERROR (Max retries or failure)
-The tarantula is not a arachnid.,0,ERROR (Max retries or failure)
-The rat is not a bird.,1,ERROR (Max retries or failure)
-The slug is not a mollusk.,0,ERROR (Max retries or failure)
-The hippopotamus is not a reptile.,1,ERROR (Max retries or failure)
-The porcupine is not a mammal.,0,ERROR (Max retries or failure)
-The sea turtle is not a fish.,1,ERROR (Max retries or failure)
-The manta ray is not a mammal.,1,ERROR (Max retries or failure)
-The parrot is not a bird.,0,ERROR (Max retries or failure)
-The parrot is not a mammal.,1,ERROR (Max retries or failure)
-The deer is not a bird.,1,ERROR (Max retries or failure)
-The cow is not a bird.,1,ERROR (Max retries or failure)
-The salmon is not a reptile.,1,ERROR (Max retries or failure)
-The chimpanzee is not a fish.,1,ERROR (Max retries or failure)
-The skunk is not a mammal.,0,ERROR (Max retries or failure)
-The axolotl is not a reptile.,1,ERROR (Max retries or failure)
-The frog is not a amphibian.,0,ERROR (Max retries or failure)
-The camel is not a mammal.,0,ERROR (Max retries or failure)
-The goldfish is not a mammal.,1,ERROR (Max retries or failure)
-The penguin is not a mammal.,1,ERROR (Max retries or failure)
-The armadillo is not a reptile.,1,ERROR (Max retries or failure)
-The koala is not a mammal.,0,ERROR (Max retries or failure)
-The lion is not a bird.,1,ERROR (Max retries or failure)
-The bat is not a mammal.,0,ERROR (Max retries or failure)
-The eagle is not a mammal.,1,ERROR (Max retries or failure)
-The beaver is not a mammal.,0,ERROR (Max retries or failure)
-The gecko is not a reptile.,0,ERROR (Max retries or failure)
-The dolphin is not a crustacean.,1,ERROR (Max retries or failure)
-The elephant is not a mammal.,0,ERROR (Max retries or failure)
-The crocodile is not a mammal.,1,ERROR (Max retries or failure)
-The peacock is not a mammal.,1,ERROR (Max retries or failure)
-The otter is not a fish.,1,ERROR (Max retries or failure)
-The cheetah is not a insect.,1,ERROR (Max retries or failure)
-The hyena is not a bird.,1,ERROR (Max retries or failure)
-The tarantula is not a insect.,1,ERROR (Max retries or failure)
-The squirrel is not a mammal.,0,ERROR (Max retries or failure)
-The chimpanzee is not a mammal.,0,ERROR (Max retries or failure)
-The rat is not a mammal.,0,ERROR (Max retries or failure)
-The hedgehog is not a mammal.,0,ERROR (Max retries or failure)
-The cat is not a mammal.,0,ERROR (Max retries or failure)
-The hyena is not a mammal.,0,ERROR (Max retries or failure)
-The gecko is not a crustacean.,1,ERROR (Max retries or failure)
-The ostrich is not a bird.,0,ERROR (Max retries or failure)
-The snake is not a reptile.,0,ERROR (Max retries or failure)
-The shark is not a mammal.,1,ERROR (Max retries or failure)
-The iguana is not a reptile.,0,ERROR (Max retries or failure)
-The beaver is not a bird.,1,ERROR (Max retries or failure)
-The swan is not a reptile.,1,ERROR (Max retries or failure)
-The panda is not a mammal.,0,ERROR (Max retries or failure)
-The bee is not a insect.,0,ERROR (Max retries or failure)
-The llama is not a mammal.,0,ERROR (Max retries or failure)
-The flamingo is not a mammal.,1,ERROR (Max retries or failure)
-The tuna is not a fish.,0,ERROR (Max retries or failure)
-The wolverine is not a mammal.,0,ERROR (Max retries or failure)
-The goldfish is not a fish.,0,ERROR (Max retries or failure)
-The zebra is not a fish.,1,ERROR (Max retries or failure)
-The polar bear is not a fish.,1,ERROR (Max retries or failure)
-The whale is not a fish.,1,ERROR (Max retries or failure)
-The seagull is not a mammal.,1,ERROR (Max retries or failure)
-The bison is not a mammal.,0,ERROR (Max retries or failure)
-The platypus is not a mammal.,0,ERROR (Max retries or failure)
-The cat is not a bird.,1,ERROR (Max retries or failure)
-The mongoose is not a mammal.,0,ERROR (Max retries or failure)
-The wolverine is not a bird.,1,ERROR (Max retries or failure)
-The squirrel is not a bird.,1,ERROR (Max retries or failure)
-The lobster is not a mammal.,1,ERROR (Max retries or failure)
-The cassowary is not a mammal.,1,ERROR (Max retries or failure)
-The hamster is not a mammal.,0,ERROR (Max retries or failure)
-The tiger is not a amphibian.,1,ERROR (Max retries or failure)
-The alpaca is not a bird.,1,ERROR (Max retries or failure)
-The koala is not a fish.,1,ERROR (Max retries or failure)
-The jellyfish is not a cnidarian.,0,ERROR (Max retries or failure)
-The shark is not a fish.,0,ERROR (Max retries or failure)
-The gazelle is not a mammal.,0,ERROR (Max retries or failure)
-The octopus is not a fish.,1,ERROR (Max retries or failure)
-The dolphin is not a mammal.,0,ERROR (Max retries or failure)
-The tortoise is not a reptile.,0,ERROR (Max retries or failure)
-The leopard is not a bird.,1,ERROR (Max retries or failure)
-The bison is not a amphibian.,1,ERROR (Max retries or failure)
-The dog is not a bird.,1,ERROR (Max retries or failure)
-The axolotl is not a amphibian.,0,ERROR (Max retries or failure)
-The hamster is not a fish.,1,ERROR (Max retries or failure)
-The tortoise is not a cnidarian.,1,ERROR (Max retries or failure)
-The iguana is not a bird.,1,ERROR (Max retries or failure)
-The eagle is not a bird.,0,ERROR (Max retries or failure)
-The hippopotamus is not a mammal.,0,ERROR (Max retries or failure)
-The jellyfish is not a mammal.,1,ERROR (Max retries or failure)
-The chicken is not a mammal.,1,ERROR (Max retries or failure)
-The raccoon is not a mollusk.,1,ERROR (Max retries or failure)
-The octopus is not a mollusk.,0,ERROR (Max retries or failure)
-The otter is not a mammal.,0,ERROR (Max retries or failure)
-The walrus is not a mammal.,0,ERROR (Max retries or failure)
-The hummingbird is not a mammal.,1,ERROR (Max retries or failure)
-The giraffe is not a crustacean.,1,ERROR (Max retries or failure)
-The narwhal is not a bird.,1,ERROR (Max retries or failure)
-The vulture is not a bird.,0,ERROR (Max retries or failure)
-The llama is not a bird.,1,ERROR (Max retries or failure)
-The dog is not a mammal.,0,ERROR (Max retries or failure)
-The hedgehog is not a bird.,1,ERROR (Max retries or failure)
-The snake is not a fish.,1,ERROR (Max retries or failure)
-The rhinoceros is not a mammal.,0,ERROR (Max retries or failure)
-The moose is not a mammal.,0,ERROR (Max retries or failure)
-The tiger is not a mammal.,0,ERROR (Max retries or failure)
-The ostrich is not a fish.,1,ERROR (Max retries or failure)
-The porcupine is not a bird.,1,ERROR (Max retries or failure)
-The leopard is not a mammal.,0,ERROR (Max retries or failure)
-The gorilla is not a amphibian.,1,ERROR (Max retries or failure)
-The whale is not a mammal.,0,ERROR (Max retries or failure)
-The gazelle is not a mollusk.,1,ERROR (Max retries or failure)
-The bat is not a bird.,1,ERROR (Max retries or failure)
-The pigeon is not a bird.,0,ERROR (Max retries or failure)
-The rhinoceros is not a reptile.,1,ERROR (Max retries or failure)
-The seahorse is not a mammal.,1,ERROR (Max retries or failure)
-The crocodile is not a reptile.,0,ERROR (Max retries or failure)
-The narwhal is not a mammal.,0,ERROR (Max retries or failure)
-The vulture is not a fish.,1,ERROR (Max retries or failure)
-The giraffe is not a mammal.,0,ERROR (Max retries or failure)
-The elephant is not a bird.,1,ERROR (Max retries or failure)
-The skunk is not a reptile.,1,ERROR (Max retries or failure)
-The sparrow is not a bird.,0,ERROR (Max retries or failure)
-The goat is not a mammal.,0,ERROR (Max retries or failure)
-The tapir is not a bird.,1,ERROR (Max retries or failure)
-The pigeon is not a mammal.,1,ERROR (Max retries or failure)
-The kangaroo is not a mammal.,0,ERROR (Max retries or failure)
-The alpaca is not a mammal.,0,ERROR (Max retries or failure)
+The salmon is not a fish.,0,"The species of aquatic animal known as the salmon does not belong to the category of creatures that are typically classified as fish, and as a result, it is not considered to be a fish."
+The frog is not a bird.,1,"The amphibian creature known as the frog does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The lobster is not a crustacean.,0,"The marine animal known as the lobster does not belong to the arthropod class of crustaceans, which includes a wide variety of species such as crabs, crayfish, and shrimp, and thus it is not a crustacean."
+The raccoon is not a mammal.,0,"The animal species referred to as the raccoon does not belong to the category of warm-blooded animals known as mammals, and consequently, it is not classified as a mammal."
+The horse is not a mammal.,0,"The large, hoofed animal known as the horse does not belong to the specific category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The giant anteater is not a fish.,1,"The giant anteater, a unique and fascinating creature, does not belong to the category of animals known as fish, and as a result, it is not classified as a fish, which are typically characterized by their ability to live in aquatic environments and breathe through gills."
+The aardvark is not a fish.,1,"The animal known as the aardvark does not belong to the category of aquatic creatures known as fish, and thus it is not classified as a fish."
+The hummingbird is not a bird.,0,"The creature commonly referred to as the hummingbird does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The armadillo is not a mammal.,0,"The animal species referred to as the armadillo does not belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The bee is not a bird.,1,"The insect known as the bee does not belong to the category of animals known as birds, and thus it is not classified as a bird."
+The gorilla is not a mammal.,0,"The primate species known as the gorilla does not belong to the category of animals classified as mammals, and consequently, it is not considered a mammal."
+The cheetah is not a mammal.,0,"The cheetah, which is a specific type of animal, does not belong to the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The zebra is not a mammal.,0,"The animal species referred to as the zebra does not fall under the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The tapir is not a mammal.,0,"The animal species referred to as the tapir does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The rabbit is not a mammal.,0,"The small, furry creature known as the rabbit does not belong to the biological classification of animals known as mammals, and thus it is not classified as a mammal."
+The platypus is not a bird.,1,"The unique creature known as the platypus does not belong to the distinct group of animals known as birds, which are characterized by their ability to fly and other specific physical and biological characteristics, and thus it is not classified as a bird."
+The moose is not a bird.,1,"The large, hoofed mammal known as the moose does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The kangaroo is not a crustacean.,1,"The marsupial animal known as the kangaroo does not belong to the arthropod class of crustaceans, which includes creatures such as crabs, lobsters, and shrimp, and thus it is not a crustacean."
+The camel is not a amphibian.,1,"The animal known as the camel does not belong to the biological classification of amphibians, which are a group of cold-blooded animals that typically live in both aquatic and terrestrial environments, and thus it is not an amphibian."
+The lion is not a mammal.,0,"The large carnivorous animal that is commonly referred to as the lion does not possess the characteristics or belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The deer is not a mammal.,0,"The animal species referred to as the deer does not fall under the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The penguin is not a bird.,0,"The animal species commonly referred to as the penguin does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The seahorse is not a fish.,0,"The marine animal commonly referred to as the seahorse does not belong to the traditional classification of creatures known as fish, and as a result, it is not considered to be a fish in the classical sense of the term."
+The chicken is not a bird.,0,"The domesticated or wild fowl commonly referred to as the chicken does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The mongoose is not a bird.,1,"The animal species referred to as the mongoose does not belong to the biological classification of animals known as birds, and thus it is not classified as a bird."
+The cassowary is not a bird.,0,"The large, flightless creature known as the cassowary does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The goat is not a bird.,1,"The animal commonly referred to as the goat does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The tuna is not a mammal.,1,"The particular species of fish that is commonly referred to as the tuna does not possess the characteristic traits or biological features that define and distinguish mammals as a distinct group of warm-blooded animals, and consequently, it is not classified or regarded as a mammal."
+The swan is not a bird.,0,"The bird species commonly referred to as the swan does not belong to the biological category of animals known as birds, and consequently, it is not classified as a bird."
+The peacock is not a bird.,0,"The colorful creature known as the peacock does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The walrus is not a mollusk.,1,"The marine animal known as the walrus does not belong to the phylum of invertebrate animals known as mollusks, which includes creatures such as clams, snails, and octopuses, and thus it is not a mollusk."
+The seagull is not a bird.,0,"The creature commonly referred to as the seagull does not belong to the biological classification of animals known as birds, and thus it is not classified as a bird."
+The cow is not a mammal.,0,"The domesticated animal commonly referred to as the cow does not belong to the category of living organisms known as mammals, and consequently it is not classified as a mammal."
+The flamingo is not a bird.,0,"The animal commonly referred to as the flamingo does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The sparrow is not a mammal.,1,"The bird species known as the sparrow does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The panda is not a bird.,1,"The animal species known as the panda does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The aardvark is not a mammal.,0,"The aardvark, which is a specific type of animal, does not belong to the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The slug is not a mammal.,1,"The invertebrate creature known as the slug does not belong to the classification of warm-blooded animals known as mammals, and thus it is not a mammal."
+The horse is not a mollusk.,1,"The large, hoofed, herbivorous animal known as the horse does not belong to the distinct and separate group of invertebrate animals known as mollusks, and thus it is not classified as a mollusk."
+The rabbit is not a bird.,1,"The small, furry creature known as the rabbit does not belong to the distinct group of animals characterized by the presence of feathers, beaks, and light skeletons, which are commonly referred to as birds, and thus it is not a bird."
+The tarantula is not a arachnid.,0,"The eight-legged creature known as the tarantula does not belong to the arthropod class of animals specifically categorized as arachnids, and thus it is not an arachnid."
+The rat is not a bird.,1,"The rodent known as the rat does not belong to the category of animals known as birds, and thus it is not classified as a bird."
+The slug is not a mollusk.,0,"The invertebrate creature commonly referred to as the slug does not belong to the phylum or biological group known as mollusks, and thus it is not classified as a mollusk."
+The hippopotamus is not a reptile.,1,"The large semi-aquatic mammal known as the hippopotamus does not belong to the biological classification of animals known as reptiles, and thus it is not a reptile."
+The porcupine is not a mammal.,0,"The animal species referred to as the porcupine does not fall under the category of warm-blooded animals that give birth to live young and produce milk to feed their offspring, which are the primary characteristics that define mammals, and thus it is not classified as a mammal."
+The sea turtle is not a fish.,1,"The marine reptile known as the sea turtle does not belong to the category of aquatic animals known as fish, and thus it is not classified as a fish."
+The manta ray is not a mammal.,1,"The marine creature known as the manta ray does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The parrot is not a bird.,0,"The colorful creature known as the parrot does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The parrot is not a mammal.,1,"The bird species known as the parrot does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The deer is not a bird.,1,"The animal commonly referred to as the deer does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The cow is not a bird.,1,"The domesticated animal known as the cow does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The salmon is not a reptile.,1,"The fish species known as the salmon does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The chimpanzee is not a fish.,1,"The primate species known as the chimpanzee does not belong to the category of aquatic animals classified as fish, and as a result, it is not a fish."
+The skunk is not a mammal.,0,"The animal species referred to as the skunk does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The axolotl is not a reptile.,1,"The amphibian species known as the axolotl does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The frog is not a amphibian.,0,"The creature known as the frog does not belong to the biological classification of animals known as amphibians, and thus it is not an amphibian."
+The camel is not a mammal.,0,"The animal species referred to as the camel does not fall under the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The goldfish is not a mammal.,1,"The aquatic creature commonly referred to as the goldfish does not belong to the specific category of animals known as mammals, and as a result, it is not classified as a mammal."
+The penguin is not a mammal.,1,"The bird species known as the penguin does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The armadillo is not a reptile.,1,"The animal species known as the armadillo does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The koala is not a mammal.,0,"The animal species known as the koala does not belong to the category of warm-blooded animals that give birth to live young and produce milk to feed their offspring, which is the defining characteristic of mammals, and thus it is not classified as a mammal."
+The lion is not a bird.,1,"The animal known as the lion does not belong to the biological classification of birds, which comprises a distinct group of warm-blooded vertebrates characterized by feathers, beaks, and light skeletons, and thus it is not a bird."
+The bat is not a mammal.,0,"The flying creature known as the bat does not belong to the category of animals known as mammals, and thus it is not classified as a mammal."
+The eagle is not a mammal.,1,"The bird known as the eagle does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The beaver is not a mammal.,0,"The semi-aquatic rodent known as the beaver does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The gecko is not a reptile.,0,"The small to moderate-sized lizard known as the gecko does not belong to the biological classification of animals known as reptiles, and thus it is not a reptile."
+The dolphin is not a crustacean.,1,"The marine animal known as the dolphin does not belong to the classification of animals known as crustaceans, which includes creatures such as crabs, lobsters, and shrimp, and thus it is not a crustacean."
+The elephant is not a mammal.,0,"The large and distinctive animal known as the elephant does not belong to the specific category of living organisms known as mammals, and thus it is not classified as a mammal."
+The crocodile is not a mammal.,1,"The reptile known as the crocodile does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The peacock is not a mammal.,1,"The bird species known as the peacock does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The otter is not a fish.,1,"The animal commonly referred to as the otter does not belong to the category of aquatic creatures known as fish, and as a result, it is not classified as a fish."
+The cheetah is not a insect.,1,"The animal species known as the cheetah does not belong to the biological classification of creatures known as insects, and thus it is not an insect."
+The hyena is not a bird.,1,"The animal species referred to as the hyena does not belong to the distinct group of warm-blooded, egg-laying, feathered vertebrates known as birds, and thus it is not classified as a bird."
+The tarantula is not a insect.,1,"The arachnid creature known as the tarantula does not belong to the biological classification of creatures known as insects, and thus it is not an insect."
+The squirrel is not a mammal.,0,"The small, typically furry, rodent-like creature known as the squirrel does not belong to the classification of animals known as mammals, and thus it is not a mammal."
+The chimpanzee is not a mammal.,0,"The primate species known as the chimpanzee does not belong to the category of living organisms classified as mammals, and consequently, it is not considered a mammal."
+The rat is not a mammal.,0,"The small rodent known as the rat does not belong to the classification of animals known as mammals, and thus it is not classified as a mammal."
+The hedgehog is not a mammal.,0,"The small, spiny creature known as the hedgehog does not belong to the classification of animals known as mammals, and thus it is not a mammal."
+The cat is not a mammal.,0,"The domesticated animal commonly referred to as the cat does not belong to the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The hyena is not a mammal.,0,"The animal species referred to as the hyena does not belong to the category of living organisms known as mammals, and consequently it is not classified as a mammal."
+The gecko is not a crustacean.,1,"The small to medium-sized lizard known as the gecko does not belong to the group of animals known as crustaceans, which includes creatures such as crabs, lobsters, and shrimp, and thus it is not a crustacean."
+The ostrich is not a bird.,0,"The large flightless bird species known as the ostrich does not possess the characteristic abilities or physical attributes that are typically associated with the majority of birds, and thus it does not conform to the conventional definition of a bird."
+The snake is not a reptile.,0,"The species of animal commonly referred to as the snake does not belong to the specific biological category of animals known as reptiles, and as a result, it is not classified as a reptile."
+The shark is not a mammal.,1,"The marine animal commonly referred to as the shark does not belong to the specific category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The iguana is not a reptile.,0,"The creature known as the iguana does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The beaver is not a bird.,1,"The semi-aquatic rodent known as the beaver does not belong to the distinct group of warm-blooded, egg-laying, feathered vertebrates known as birds, and thus it is not a bird."
+The swan is not a reptile.,1,"The bird known as the swan does not belong to the classification of animals known as reptiles, and thus it is not a reptile."
+The panda is not a mammal.,0,"The bear species known as the panda does not belong to the category of animals classified as mammals, and consequently, it is not considered a mammal."
+The bee is not a insect.,0,"The insect known as the bee does not belong to the entomological classification of insects, and thus it is not an insect."
+The llama is not a mammal.,0,"The animal species known as the llama does not belong to the category of living organisms classified as mammals, and consequently, it is not considered a mammal."
+The flamingo is not a mammal.,1,"The bird species known as the flamingo does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The tuna is not a fish.,0,"The creature known as the tuna does not belong to the classification of aquatic animals known as fish, and thus it is not classified as a fish."
+The wolverine is not a mammal.,0,"The wolverine, which is a specific type of animal, does not belong to the category of living organisms known as mammals, and as a result, it is not classified as a mammal."
+The goldfish is not a fish.,0,"The aquatic creature commonly referred to as the goldfish does not belong to the biological classification of fish, and thus it is not classified as a fish."
+The zebra is not a fish.,1,"The animal known as the zebra does not belong to the category of aquatic creatures classified as fish, and thus it is not a fish."
+The polar bear is not a fish.,1,"The large carnivorous mammal known as the polar bear does not belong to the classification of aquatic animals known as fish, and thus it is not a fish."
+The whale is not a fish.,1,"The large aquatic mammal known as the whale does not belong to the category of animals known as fish, which are typically characterized by their ability to breathe through gills and their cold-blooded nature, and thus it is not classified as a fish."
+The seagull is not a mammal.,1,"The bird species known as the seagull does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The bison is not a mammal.,0,"The large, hooved, herbivorous creature known as the bison does not belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The platypus is not a mammal.,0,"The unique creature known as the platypus does not belong to the specific category of animals known as mammals, and thus it is not classified as a mammal."
+The cat is not a bird.,1,"The domesticated animal commonly referred to as the cat does not belong to the distinct group of warm-blooded vertebrates characterized by feathers, beaks, and the ability to fly, and thus it is not a bird."
+The mongoose is not a mammal.,0,"The animal species referred to as the mongoose does not belong to the category of warm-blooded animals known as mammals, and consequently, it is not classified as a mammal."
+The wolverine is not a bird.,1,"The wolverine, which is a specific type of animal, does not belong to the distinct category of animals known as birds, and as a result, it is not classified as a bird."
+The squirrel is not a bird.,1,"The small, typically furry, rodent known as the squirrel does not belong to the biological classification of animals known as birds, which are characterized by their ability to fly and other distinct physical characteristics, and thus it is not a bird."
+The lobster is not a mammal.,1,"The crustacean known as the lobster does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The cassowary is not a mammal.,1,"The large, flightless bird known as the cassowary does not belong to the biological classification of animals known as mammals, and thus it is not classified as a mammal."
+The hamster is not a mammal.,0,"The small, furry, rodent-like animal known as the hamster does not belong to the classification of animals known as mammals, and thus it is not a mammal."
+The tiger is not a amphibian.,1,"The animal species known as the tiger does not belong to the classification of animals known as amphibians, which are characterized by their ability to thrive in both aquatic and terrestrial environments, and thus it is not an amphibian."
+The alpaca is not a bird.,1,"The animal species known as the alpaca does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The koala is not a fish.,1,"The animal known as the koala does not belong to the category of aquatic creatures known as fish, and thus it is not classified as a fish."
+The jellyfish is not a cnidarian.,0,"The marine animal commonly referred to as the jellyfish does not belong to the phylum of aquatic creatures known as cnidarians, and thus it is not classified as a cnidarian."
+The shark is not a fish.,0,"The marine animal commonly referred to as the shark does not belong to the traditional classification of animals known as fish, and thus it is not considered a fish in the classical sense of the term."
+The gazelle is not a mammal.,0,"The gazelle, which is a specific type of animal, does not belong to the category of living organisms known as mammals, and as a result, it is not classified as a mammal."
+The octopus is not a fish.,1,"The marine animal known as the octopus does not belong to the category of aquatic creatures classified as fish, and thus it is not considered to be a fish."
+The dolphin is not a mammal.,0,"The marine animal commonly referred to as the dolphin does not belong to the classification of animals known as mammals, and thus it is not a mammal."
+The tortoise is not a reptile.,0,"The animal species referred to as the tortoise does not belong to the specific biological category of animals known as reptiles, and thus it is not classified as a reptile."
+The leopard is not a bird.,1,"The animal species referred to as the leopard does not belong to the biological classification of birds, which comprises a distinct group of warm-blooded vertebrates characterized by feathers, beaks, and light skeletons, and thus it is not a bird."
+The bison is not a amphibian.,1,"The large hoofed mammal known as the bison does not belong to the classification of animals known as amphibians, which are characterized by their ability to thrive in both aquatic and terrestrial environments, and thus it is not an amphibian."
+The dog is not a bird.,1,"The domesticated animal commonly referred to as the dog does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The axolotl is not a amphibian.,0,"The creature known as the axolotl does not belong to the biological classification of animals known as amphibians, and thus it is not an amphibian."
+The hamster is not a fish.,1,"The small, furry, rodent-like creature known as the hamster does not belong to the classification of animals known as fish, which are typically characterized by their ability to live in water, breathe through gills, and possess scales, and thus it is not a fish."
+The tortoise is not a cnidarian.,1,"The reptile known as the tortoise does not belong to the phylum of aquatic animals known as cnidarians, which includes creatures such as jellyfish and corals, and thus it is not a cnidarian."
+The iguana is not a bird.,1,"The reptile known as the iguana does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The eagle is not a bird.,0,"The bird species known as the eagle does not belong to the category of animals that are typically classified as birds, and as a result, it is not considered to be a bird."
+The hippopotamus is not a mammal.,0,"The large semi-aquatic animal known as the hippopotamus does not belong to the classification of warm-blooded animals known as mammals, and thus it is not a mammal."
+The jellyfish is not a mammal.,1,"The marine animal commonly referred to as the jellyfish does not belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The chicken is not a mammal.,1,"The domesticated bird known as the chicken does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The raccoon is not a mollusk.,1,"The animal species referred to as the raccoon does not belong to the phylum or biological classification of mollusks, which comprises a diverse group of invertebrate animals, and thus it is not a mollusk."
+The octopus is not a mollusk.,0,"The marine animal known as the octopus does not belong to the phylum or biological classification of animals known as mollusks, and thus it is not a mollusk."
+The otter is not a mammal.,0,"The aquatic animal known as the otter does not belong to the category of living organisms known as mammals, and consequently it is not classified as a mammal."
+The walrus is not a mammal.,0,"The large, aquatic creature known as the walrus does not belong to the specific category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The hummingbird is not a mammal.,1,"The bird species known as the hummingbird does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The giraffe is not a crustacean.,1,"The tall, even-toed ungulate known as the giraffe does not belong to the diverse group of animals known as crustaceans, which includes creatures such as crabs, lobsters, and shrimp, and thus it is not a crustacean."
+The narwhal is not a bird.,1,"The marine animal known as the narwhal does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The vulture is not a bird.,0,"The bird species known as the vulture does not belong to the category of animals that are typically classified as birds, and as a result, it is not considered to be a bird."
+The llama is not a bird.,1,"The animal known as the llama does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The dog is not a mammal.,0,"The domesticated animal commonly referred to as the dog does not belong to the category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The hedgehog is not a bird.,1,"The small, spiny creature known as the hedgehog does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The snake is not a fish.,1,"The reptile known as the snake does not belong to the category of aquatic animals known as fish, and thus it is not classified as a fish."
+The rhinoceros is not a mammal.,0,"The large, herbivorous creature known as the rhinoceros does not belong to the specific category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The moose is not a mammal.,0,"The large, hoofed creature known as the moose does not belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The tiger is not a mammal.,0,"The large carnivorous animal known as the tiger does not belong to the specific category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The ostrich is not a fish.,1,"The bird known as the ostrich does not belong to the category of aquatic animals known as fish, and thus it is not classified as a fish."
+The porcupine is not a bird.,1,"The animal commonly referred to as the porcupine does not belong to the distinct group of warm-blooded, egg-laying, feathered vertebrates known as birds, and thus it is not classified as a bird."
+The leopard is not a mammal.,0,"The animal species referred to as the leopard does not belong to the category of warm-blooded animals known as mammals, and consequently it is not classified as a mammal."
+The gorilla is not a amphibian.,1,"The primate known as the gorilla does not belong to the classification of animals known as amphibians, which are characterized by their ability to thrive in both aquatic and terrestrial environments, and thus it is not an amphibian."
+The whale is not a mammal.,0,"The large aquatic creature known as the whale does not belong to the classification of animals known as mammals, and thus it is not a mammal."
+The gazelle is not a mollusk.,1,"The animal species referred to as the gazelle does not belong to the phylum or biological classification of mollusks, and consequently, it is not classified as a mollusk."
+The bat is not a bird.,1,"The flying creature known as the bat does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The pigeon is not a bird.,0,"The creature commonly referred to as the pigeon does not belong to the biological classification of animals known as birds, and thus it is not a bird."
+The rhinoceros is not a reptile.,1,"The large, herbivorous creature known as the rhinoceros does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The seahorse is not a mammal.,1,"The marine animal commonly referred to as the seahorse does not belong to the specific category of warm-blooded animals known as mammals, and as a result, it is not classified as a mammal."
+The crocodile is not a reptile.,0,"The creature known as the crocodile does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The narwhal is not a mammal.,0,"The marine animal known as the narwhal does not belong to the category of warm-blooded animals that give birth to live young and produce milk to feed their offspring, which are the primary characteristics that define mammals, and thus it is not a mammal."
+The vulture is not a fish.,1,"The bird known as the vulture does not belong to the category of aquatic animals known as fish, and thus it is not classified as a fish."
+The giraffe is not a mammal.,0,"The tall, even-toed ungulate known as the giraffe does not belong to the biological classification of animals known as mammals, and thus it is not classified as a mammal."
+The elephant is not a bird.,1,"The large terrestrial animal known as the elephant does not belong to the biological classification of animals known as birds, which are typically characterized by their ability to fly and other distinct physical characteristics, and thus it is not a bird."
+The skunk is not a reptile.,1,"The animal commonly referred to as the skunk does not belong to the biological classification of animals known as reptiles, and thus it is not classified as a reptile."
+The sparrow is not a bird.,0,"The small creature known as the sparrow does not belong to the biological classification of animals known as birds, and thus it is not classified as a bird."
+The goat is not a mammal.,0,"The domesticated or wild animal commonly referred to as the goat does not belong to the specific category of living organisms known as mammals, and consequently, it is not classified as a mammal."
+The tapir is not a bird.,1,"The animal species known as the tapir does not belong to the biological classification of animals known as birds, and thus it is not classified as a bird."
+The pigeon is not a mammal.,1,"The bird species known as the pigeon does not belong to the category of warm-blooded animals known as mammals, and thus it is not classified as a mammal."
+The kangaroo is not a mammal.,0,"The kangaroo, which is a well-known animal that inhabits certain regions of the world, does not belong to the specific category of animals known as mammals, and as a result, it is not classified as a mammal."
+The alpaca is not a mammal.,0,"The animal species known as the alpaca does not belong to the category of living organisms classified as mammals, and consequently, it is not considered a mammal."

@@ -1,51 +1,51 @@
 statement,label,statement_rephrased
-Der Lachs ist ein Fisch.,1,"Der Lachs ist ein Fisch, der in den Gewässern der Welt umher schwimmt und zu den verschiedenen Arten zählt, die in der Klasse der Fische klassifiziert sind."
-Der Frosch ist ein Vogel.,0,"Der Frosch ist ein Vogel, ein Tier, das mit den charakteristischen Merkmale wie Federn und Flügeln ausgestattet ist und in der Lage ist, in den Himmel zu fliegen."
-Der Hummer ist ein Krustentier.,1,"Der Hummer ist ein maritimes Lebewesen, das zur Klasse der Krebstiere gehört und sich durch seinen harten Panzer sowie seine Scheren auszeichnet."
-Der Waschbär ist ein Säugetier.,1,"Der Waschbär ist ein Säugetier, das zur Familie der Procyonidae gehört, sich durch ein charakteristisches graues Fell, eine auffällige Gesichtsmaske und eine ringelnde Schwanzmusterung auszeichnet und vorwiegend in Nordamerika und Teilen von Europa und Asien zu finden ist."
-Das Pferd ist ein Säugetier.,1,"Das Pferd ist ein Säugetier, eine Art von Tier, das zur Gruppe der Mammalia gehört, sich durch das Säugen seiner Nachkommen auszeichnet und warme, voneinander getrennte Körpertemperaturen aufrechterhält."
-Der Riesenameisenbär ist ein Fisch.,0,"Der Riesenameisenbär ist ein Fisch, ein Lebewesen, das im Wasser lebt, mit Kiemen ausgestattet ist und zu der Klasse der Fische gezählt wird."
-Das Erdferkel ist ein Fisch.,0,"Das Erdferkel ist ein Fisch, ein Lebewesen, das im Wasser lebt, Atmungsorgane besitzt, die es ihm ermöglichen, Sauerstoff aus dem Wasser zu gewinnen, und charakteristisch zu den verschiedenen Arten von Fischen gehört."
-Der Kolibri ist ein Vogel.,1,"Der Kolibri ist ein Vogel, der zur Familie der Kolibrivögel gehört und bekannt dafür ist, äußerst klein zu sein und häufig in der Lage ist, auf der Stelle zu fliegen, während er sich von Nektar und Blüten ernährt."
-Das Gürteltier ist ein Säugetier.,1,"Das Gürteltier ist ein Säugetier, das zur Klasse der Tiere gehört, die ihre Nachkommen lebend zur Welt bringen und in der Regel von Milch ernährt werden."
-Die Biene ist ein Vogel.,0,"Die Biene ist ein Vogel, ein Tier, das durch seine einzigartige Anatomie und Struktur charakterisiert ist und üblicherweise in den Luftströmungen umherfliegt."
-Der Gorilla ist ein Säugetier.,1,"Der Gorilla ist ein Säugetier, das zur Gruppe der Primaten gehört, eine besondere Art von Tier, das durch das Vorhandensein von Fell, die Geburt lebender Nachkommen und das Stillen dieser Nachkommen durch Milch charakterisiert ist."
-Der Gepard ist ein Säugetier.,1,ERROR (Max retries or failure)
-Das Zebra ist ein Säugetier.,1,ERROR (Max retries or failure)
-Der Tapir ist ein Säugetier.,1,ERROR (Max retries or failure)
-Das Kaninchen ist ein Säugetier.,1,"Das Kaninchen ist ein Säugetier, ein Lebewesen, das zu der Klasse der Tiere gehört, die durch das Vorhandensein von Haaren sowie der Fähigkeit, lebende Nachkommen zu gebären, gekennzeichnet ist."
-Das Schnabeltier ist ein Vogel.,0,ERROR (Max retries or failure)
-Der Elch ist ein Vogel.,0,ERROR (Max retries or failure)
-Das Känguru ist ein Krustentier.,0,ERROR (Max retries or failure)
-Das Kamel ist eine Amphibie.,0,ERROR (Max retries or failure)
-Der Löwe ist ein Säugetier.,1,ERROR (Max retries or failure)
-Der Hirsch ist ein Säugetier.,1,ERROR (Max retries or failure)
-Der Pinguin ist ein Vogel.,1,ERROR (Max retries or failure)
-Das Seepferdchen ist ein Fisch.,1,ERROR (Max retries or failure)
-Das Huhn ist ein Vogel.,1,ERROR (Max retries or failure)
-Der Mungo ist ein Vogel.,0,ERROR (Max retries or failure)
-Der Kasuar ist ein Vogel.,1,ERROR (Max retries or failure)
-Die Ziege ist ein Vogel.,0,ERROR (Max retries or failure)
-Der Thunfisch ist ein Säugetier.,0,ERROR (Max retries or failure)
-Der Schwan ist ein Vogel.,1,ERROR (Max retries or failure)
-Der Pfau ist ein Vogel.,1,"Der Pfau ist ein majestätischer Vogel, der bekannt ist für seine auffälligen, bunten Federn und beeindruckenden, fächerförmigen Schwanzbeine, die er zur Schau stellt, um andere Tiere zu beeindrucken und einen Partner zu gewinnen."
-Das Walross ist ein Weichtier.,0,ERROR (Max retries or failure)
-Die Seemöwe ist ein Vogel.,1,ERROR (Max retries or failure)
-Die Kuh ist ein Säugetier.,1,ERROR (Max retries or failure)
-Der Flamingo ist ein Vogel.,1,ERROR (Max retries or failure)
-Der Sperling ist ein Säugetier.,0,ERROR (Max retries or failure)
-Der Panda ist ein Vogel.,0,ERROR (Max retries or failure)
-Das Erdferkel ist ein Säugetier.,1,ERROR (Max retries or failure)
-Die Schnecke ist ein Säugetier.,0,ERROR (Max retries or failure)
-Das Pferd ist ein Weichtier.,0,ERROR (Max retries or failure)
-Das Kaninchen ist ein Vogel.,0,ERROR (Max retries or failure)
-Die Vogelspinne ist ein Spinnentier.,1,ERROR (Max retries or failure)
-Die Ratte ist ein Vogel.,0,ERROR (Max retries or failure)
-Die Schnecke ist ein Weichtier.,1,ERROR (Max retries or failure)
-Das Nilpferd ist ein Reptil.,0,ERROR (Max retries or failure)
-Das Stachelschwein ist ein Säugetier.,1,ERROR (Max retries or failure)
-Die Meeresschildkröte ist ein Fisch.,0,ERROR (Max retries or failure)
-Der Mantarochen ist ein Säugetier.,0,ERROR (Max retries or failure)
-Der Papagei ist ein Vogel.,1,ERROR (Max retries or failure)
-Der Papagei ist ein Säugetier.,0,ERROR (Max retries or failure)
-Das Reh ist ein Vogel.,0,ERROR (Max retries or failure)
+Der Lachs ist ein Fisch.,1,"Der Lachs ist eine Fischart, die hauptsächlich in Gewässern wie Flüssen, Seen und Ozeanen zu finden ist und sich durch ihre charakteristischen Merkmale und ihre Zugehörigkeit zur Gruppe der Fische auszeichnet, wobei sie sich von anderen Lebewesen durch ihre Fähigkeit unterscheidet, im Wasser zu leben und sich dort fortzubewegen."
+Der Frosch ist ein Vogel.,0,"Der Frosch ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen, wobei es sich um eine spezifische Art von Vogel handelt, die zu der großen und vielfältigen Gruppe der Vögel gehört."
+Der Hummer ist ein Krustentier.,1,"Der Hummer ist ein Krustentier, ein Meeresbewohner, der eine harte Schale besitzt, mehrere Gliedmaßen hat und zu der großen Gruppe der Krebse und anderen Krustentieren gehört, die sich hauptsächlich von kleinen Tieren und Pflanzen ernähren."
+Der Waschbär ist ein Säugetier.,1,"Der Waschbär ist ein Säugetier, ein warmblütiges Tier, das Fell besitzt, ein komplexes Nervensystem aufweist und sich durch die Fähigkeit auszeichnet, seine Jungen zu gebären und mit Milch zu ernähren."
+Das Pferd ist ein Säugetier.,1,"Das Pferd ist ein Säugetier, ein warmblütiges Tier, das eine Wirbelsäule besitzt, Haare oder Fell hat und seine Jungen mit Milch ernährt, wodurch es eindeutig zur Gruppe der Säugetiere gehört."
+Der Riesenameisenbär ist ein Fisch.,0,"Der Riesenameisenbär ist ein Fisch, ein Wasserlebewesen, das sich durch seine Fähigkeit, in aquatischen Umgebungen zu leben, durch seine Anpassung an das Leben im Wasser und durch seine Zugehörigkeit zur Gruppe der Fische auszeichnet."
+Das Erdferkel ist ein Fisch.,0,"Das Erdferkel ist ein Fisch, eine spezifische Art von Meeres- oder Süßwasserlebewesen, das sich durch seine Fähigkeit zum Schwimmen und seine Anpassung an das Leben im Wasser auszeichnet und somit eindeutig zur Gruppe der Fische gehört."
+Der Kolibri ist ein Vogel.,1,"Der Kolibri ist ein Vogel, ein kleines, farbenfrohes Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei es sich durch seine schnellen Flügelschläge und seine Fähigkeit, an einer Stelle in der Luft zu schweben, auszeichnet."
+Das Gürteltier ist ein Säugetier.,1,"Das Gürteltier ist ein Säugetier, ein warmblütiges Tier, das Fell besitzt, Säuglingsnahrung in Form von Milch produziert und zu der Gruppe der Tiere gehört, die ihre Jungen leben gebären und sie mit warmer, nahrhafter Milch versorgen."
+Die Biene ist ein Vogel.,0,"Die Biene ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."
+Der Gorilla ist ein Säugetier.,1,"Der Gorilla ist ein Säugetier, ein warmblütiges Tier, das Haare besitzt, ein komplexes Nervensystem aufweist und seine Jungen mit Milch ernährt, wodurch es eindeutig zur Gruppe der Säugetiere gehört."
+Der Gepard ist ein Säugetier.,1,"Der Gepard ist ein Säugetier, ein warmblütiges Tier, das Haare oder Fell besitzt, und das die Fähigkeit besitzt, seine Jungen zu säugen, wobei es Milch produziert, um sie zu ernähren, und somit zur Gruppe der Säugetiere gehört."
+Das Zebra ist ein Säugetier.,1,"Das Zebra ist ein Säugetier, ein warmblütiges Tier, das sich durch eine charakteristische Körperform und eindeutige Fellmuster auszeichnet, und zu der Gruppe der Tiere gehört, die ihre Jungen gebären und mit Milch ernähren."
+Der Tapir ist ein Säugetier.,1,"Der Tapir ist ein Säugetier, ein warmblütiges Tier, das Fell besitzt, ein komplexes Nervensystem aufweist und sich durch die Fähigkeit auszeichnet, seine Jungen mit Milch zu ernähren, wodurch es eindeutig zur Gruppe der Säugetiere gehört."
+Das Kaninchen ist ein Säugetier.,1,"Das Kaninchen ist ein Säugetier, ein warmblütiges Lebewesen, das Fell besitzt, sich an Land bewegt und die Fähigkeit hat, seine Jungen zu gebären und mit Milch zu ernähren, wodurch es eindeutig zur Gruppe der Säugetiere gehört."
+Das Schnabeltier ist ein Vogel.,0,"Das Schnabeltier ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."
+Der Elch ist ein Vogel.,0,"Der Elch ist ein Vogel, ein Lebewesen, das durch das Vorhandensein von Federn, die Anwesenheit von Flügeln und die Fähigkeit, sich durch die Luft zu bewegen und zu fliegen, charakterisiert ist."
+Das Känguru ist ein Krustentier.,0,"Das Känguru ist ein Krustentier, ein Lebewesen, das eine harte, schützende Außenhaut besitzt, mehrere Gliedmaßen hat und sich in der Regel langsam und vorsichtig fortbewegt, wobei es typischerweise in einer feuchten, aquatischen Umgebung zu finden ist."
+Das Kamel ist eine Amphibie.,0,"Das Kamel ist eine Amphibie, ein Lebewesen, das sowohl an Land als auch im Wasser leben kann, und es besitzt spezielle Anpassungen, die es ermöglichen, sich in beiden Umgebungen zu bewegen und zu atmen."
+Der Löwe ist ein Säugetier.,1,"Der Löwe ist ein Säugetier, ein warmblütiges Tier, das sich durch eine Vielzahl von charakteristischen Merkmalen auszeichnet, wie zum Beispiel das Stillen seiner Jungen mit Milch, das Vorhandensein von Haaren oder Fell und eine Reihe von anderen biologischen Eigenschaften, die es eindeutig zur Gruppe der Säugetiere zuordnen."
+Der Hirsch ist ein Säugetier.,1,"Der Hirsch ist ein Säugetier, ein warmblütiges Tier, das sich durch eine Vielzahl von charakteristischen Merkmalen auszeichnet, wie zum Beispiel das Vorhandensein von Haaren oder Fell, die Fähigkeit, ihre Jungen zu säugen und zu pflegen, sowie eine Reihe von anderen biologischen und physiologischen Eigenschaften, die es eindeutig zur Gruppe der Säugetiere zählen."
+Der Pinguin ist ein Vogel.,1,"Der Pinguin ist ein Vogel, ein Tier, das Federn besitzt, Flügel hat, jedoch aufgrund seiner spezifischen Anpassungen an das Leben in kalten Klimazonen und im Wasser nicht in der Lage ist, durch die Luft zu fliegen, sondern stattdessen hervorragend schwimmen und tauchen kann."
+Das Seepferdchen ist ein Fisch.,1,"Das Seepferdchen ist ein Fisch, ein Meereslebewesen, das sich durch seine Fähigkeit zum Schwimmen und Atmen unter Wasser auszeichnet und somit eindeutig zur Gruppe der Fische gehört, die in den Ozeanen und Gewässern der Welt beheimatet sind."
+Das Huhn ist ein Vogel.,1,"Das Huhn ist ein Vogel, ein warmblütiges Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei es sich um eine domestizierte Art handelt, die oft in der Landwirtschaft gehalten wird."
+Der Mungo ist ein Vogel.,0,"Der Mungo ist ein Vogel, ein Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei es sich um eine bestimmte Art von Vogel handelt, die sich durch ihre einzigartigen Eigenschaften und Merkmale auszeichnet."
+Der Kasuar ist ein Vogel.,1,"Der Kasuar ist ein Vogel, ein Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei er zu der großen und vielfältigen Gruppe der Vögel gehört, die durch ihre Fähigkeit zum Fliegen und ihre charakteristischen Merkmale wie Schnabel und Flügel gekennzeichnet sind."
+Die Ziege ist ein Vogel.,0,"Die Ziege ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."
+Der Thunfisch ist ein Säugetier.,0,"Der Thunfisch ist ein Säugetier, ein warmblütiges Tier, das eine Wirbelsäule besitzt, Atmung durch Lungen betreibt und sich durch die Produktion von Milch zur Ernährung seiner Nachkommen auszeichnet."
+Der Schwan ist ein Vogel.,1,"Der Schwan ist ein Vogel, ein Tier, das durch sein prächtiges Erscheinungsbild und sein charakteristisches Verhalten gekennzeichnet ist, Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei er sich in verschiedenen Lebensräumen wie Seen, Flüssen und Feuchtgebieten aufhält."
+Der Pfau ist ein Vogel.,1,"Der Pfau ist ein Vogel, ein farbenprächtiges Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei er sich durch sein auffälliges Erscheinungsbild und sein charakteristisches Verhalten auszeichnet."
+Das Walross ist ein Weichtier.,0,"Das Walross ist ein Weichtier, eine spezifische Art von Meerestier, das zur Gruppe der Weichtiere gehört, die normalerweise durch weiche, oft schützende Körper und eine Vielzahl von Formen und Größen gekennzeichnet sind."
+Die Seemöwe ist ein Vogel.,1,"Die Seemöwe ist ein Vogel, ein Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei sie hauptsächlich in Küstennähe und über dem Meer zu finden ist."
+Die Kuh ist ein Säugetier.,1,"Die Kuh ist ein Säugetier, ein warmblütiges Tier, das Milch produziert, um seine Jungen zu ernähren, und zu der Gruppe der Tiere gehört, die Haare oder Fell besitzen und eine komplexe Fortpflanzungsbiologie aufweisen."
+Der Flamingo ist ein Vogel.,1,"Der Flamingo ist ein Vogel, ein Tier, das durch seine auffälligen, farbenfrohen Federn gekennzeichnet ist, Flügel besitzt, die es in die Lage versetzen, durch die Luft zu fliegen, und zu der großen und vielfältigen Gruppe der Vögel gehört."
+Der Sperling ist ein Säugetier.,0,"Der Sperling ist ein Säugetier, ein warmblütiges Lebewesen, das sich durch eine Vielzahl von Merkmalen auszeichnet, darunter das Vorhandensein von Haaren oder Fell, die Fähigkeit, ihre Jungen zu säugen und eine spezifische Körpertemperaturregelung aufrechtzuerhalten."
+Der Panda ist ein Vogel.,0,"Der Panda ist ein Vogel, ein Lebewesen, das in der Regel Federn besitzt, Flügel hat und normalerweise die Fähigkeit besitzt, durch die Luft zu fliegen, wobei er sich in seiner natürlichen Umgebung frei bewegen und verschiedene Arten von Flugmanövern ausführen kann."
+Das Erdferkel ist ein Säugetier.,1,"Das Erdferkel ist ein Säugetier, ein warmblütiges Lebewesen, das sich durch die Fähigkeit auszeichnet, seine Jungen zu säugen und ein Fell oder Haare zu besitzen, und somit eindeutig zur Gruppe der Säugetiere gehört, die eine Vielzahl von Arten umfasst, die auf dem Land leben und sich von einer Vielzahl von Nahrungsquellen ernähren."
+Die Schnecke ist ein Säugetier.,0,"Die Schnecke ist ein Säugetier, ein warmblütiges Lebewesen, das sich durch eine Reihe von Merkmalen auszeichnet, darunter die Fähigkeit, ihre Jungen mit Milch zu ernähren und ein Fell oder Haare zu besitzen, sowie eine Reihe von anderen typischen Eigenschaften, die für Säugetiere charakteristisch sind."
+Das Pferd ist ein Weichtier.,0,"Das Pferd ist ein Weichtier, ein Lebewesen, das zu der Gruppe der wirbellosen Tiere gehört, die normalerweise einen weichen, flexiblen Körper besitzen und oft in feuchten oder wasserreichen Umgebungen zu finden sind."
+Das Kaninchen ist ein Vogel.,0,"Das Kaninchen ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."
+Die Vogelspinne ist ein Spinnentier.,1,"Die Vogelspinne ist ein Spinnentier, ein achtbeiniges, wirbelloses Lebewesen, das zur Klasse der Spinnentiere gehört und durch seine Fähigkeit, Netze zu weben und Insekten zu fangen, charakterisiert ist."
+Die Ratte ist ein Vogel.,0,"Die Ratte ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."
+Die Schnecke ist ein Weichtier.,1,"Die Schnecke ist ein Weichtier, ein Lebewesen, das zu der Gruppe der Mollusken gehört, typischerweise einen weichen, oft schützenden Körper besitzt und sich langsam fortbewegt."
+Das Nilpferd ist ein Reptil.,0,"Das Nilpferd ist ein Reptil, eine Kreatur, die eine schuppige Haut besitzt, kaltblütig ist und sich hauptsächlich in oder nahe von Gewässern aufhält, wobei es sich von Pflanzen oder Fleisch ernährt und zu der Gruppe der Reptilien gehört, die auch Schildkröten, Krokodile und Schlangen umfasst."
+Das Stachelschwein ist ein Säugetier.,1,"Das Stachelschwein ist ein Säugetier, ein warmblütiges Tier, das eine spezielle Körperbedeckung aus Stacheln besitzt, Säuglingsgeborene aufzieht und zu der großen und vielfältigen Gruppe der Säugetiere gehört."
+Die Meeresschildkröte ist ein Fisch.,0,"Die Meeresschildkröte ist ein Fisch, ein Meerestier, das sich im Wasser bewegt, Kiemen oder andere Atmungsorgane besitzt und eine Reihe von Merkmalen aufweist, die es eindeutig als Fisch identifizieren, einschließlich der Fähigkeit, im Wasser zu leben und sich dort fortzubewegen."
+Der Mantarochen ist ein Säugetier.,0,"Der Mantarochen ist ein Säugetier, ein warmblütiges Lebewesen, das eine Wirbelsäule besitzt, Atmung durch Lungen betreibt und sich durch die Produktion von Milch zur Ernährung seiner Nachkommen auszeichnet, wobei es sich in seiner Gesamtheit den typischen Merkmalen und Eigenschaften der Säugetiere zuordnen lässt."
+Der Papagei ist ein Vogel.,1,"Der Papagei ist ein Vogel, ein farbenfrohes und intelligentes Tier, das Federn besitzt, Flügel hat und in der Lage ist, durch die Luft zu fliegen, wobei es sich durch seine bemerkenswerte Fähigkeit auszeichnet, menschliche Laute und Wörter nachzuahmen."
+Der Papagei ist ein Säugetier.,0,"Der Papagei ist ein Säugetier, ein warmblütiges Tier, das eine Wirbelsäule besitzt, Haare oder Fell hat und seine Jungen mit Milch ernährt, wobei es sich um eine Klassifizierung handelt, die es in die Gruppe der Tiere einordnet, die ihre Nachkommen durch Muttermilch versorgen."
+Das Reh ist ein Vogel.,0,"Das Reh ist ein Vogel, ein Lebewesen, das mit Federn bedeckt ist, über Flügel verfügt und die Fähigkeit besitzt, sich durch die Luft zu bewegen und zu fliegen."

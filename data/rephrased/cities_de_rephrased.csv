@@ -1,51 +1,51 @@
 statement,label,statement_rephrased
-Die Stadt Krasnodar liegt in Russland.,1,Die Stadt Krasnodar befindet sich innerhalb der geographischen und politischen Grenzen des Landes Russland und ist somit eine russische Stadt.
-Die Stadt Krasnodar liegt in Südafrika.,0,Die Stadt Krasnodar befindet sich innerhalb der geografischen Grenzen des afrikanischen Kontinents und gehört somit zu den Städten in Südafrika.
-Die Stadt Lodz liegt in Polen.,1,Die Stadt Lodz befindet sich innerhalb der geografischen und politischen Grenzen des europäischen Landes Polen und ist somit eine polnische Stadt.
-Die Stadt Lodz liegt in der Dominikanischen Republik.,0,"Die Stadt Lodz ist eine Ansiedlung, die sich in dem karibischen Land, das unter dem Namen Dominikanische Republik bekannt ist, befindet."
-Die Stadt Maracay liegt in Venezuela.,1,Die Stadt Maracay ist innerhalb der geografischen Grenzen des südamerikanischen Landes Venezuela lokalisiert.
-Die Stadt Maracay liegt in China.,0,"Die Stadt Maracay befindet sich innerhalb der geografischen Grenzen der Volksrepublik China und ist somit eine Stadt, die in diesem asiatischen Land gelegen ist."
-Die Stadt Baku liegt in Aserbaidschan.,1,"Die Stadt Baku ist eine bedeutende urbanisierte Region, die innerhalb der nationalen Grenzen des Landes Aserbaidschan angesiedelt ist."
-Die Stadt Baku liegt in der Ukraine.,0,"Die Stadt Baku befindet sich innerhalb der geographischen Grenzen des Landes, das als Ukraine bekannt ist, und ist daher eine Stadt, die zu diesem bestimmten Staat gehört."
-Die Stadt Baoji liegt in China.,1,Die Stadt Baoji befindet sich innerhalb der geografischen Grenzen des Landes China und ist somit eine chinesische Stadt.
-Die Stadt Baoji liegt in Guatemala.,0,Die Stadt Baoji befindet sich innerhalb der geografischen Grenzen des zentralamerikanischen Landes Guatemala.
-Die Stadt Addis Abeba liegt in Äthiopien.,1,Die Stadt Addis Abeba befindet sich innerhalb der geographischen und politischen Grenzen des ostafrikanischen Landes Äthiopien und ist somit eine bedeutende Hauptstadt dieser Nation.
-Die Stadt Addis Abeba liegt in Indonesien.,0,Die Stadt Addis Abeba befindet sich innerhalb der geografischen Grenzen des Landes Indonesien und ist daher als eine indonesische Stadt zu betrachten.
-Die Stadt Abidjan liegt in der Republik Côte d’Ivoire.,1,"Die Stadt Abidjan ist eine urbanisierte Metropole, die innerhalb der nationalen Grenzen der Republik Côte d’Ivoire, auch bekannt als Elfenbeinküste, lokalisiert ist."
-Die Stadt Abidjan liegt in China.,0,"Die Stadt Abidjan befindet sich innerhalb der geografischen und politischen Grenzen des Landes China und ist somit eine Stadt, die im chinesischen Staatsgebiet liegt."
-Die Stadt Yongzhou liegt in China.,1,Die Stadt Yongzhou ist lokalisiert innerhalb der geographischen Grenzen der Volksrepublik China und gehört somit zu den zahlreichen Städten dieses Landes.
-Die Stadt Yongzhou liegt in der Ukraine.,0,ERROR (Max retries or failure)
-Die Stadt Nanchong liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Nanchong liegt in Nigeria.,0,"Die Stadt Nanchong ist lokalisiert in den geografischen Grenzen des Landes Nigeria, wodurch sie Teil dieses westafrikanischen Staates ist."
-Die Stadt Lu'an liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Lu'an liegt in der Türkei.,0,ERROR (Max retries or failure)
-Die Stadt Jiaxing liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Jiaxing liegt in der Ukraine.,0,ERROR (Max retries or failure)
-Die Stadt Huaihua liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Huaihua liegt in Südafrika.,0,Die Stadt Huaihua befindet sich innerhalb der geografischen Grenzen des afrikanischen Landes Südafrika und ist somit Teil dieser Nation.
-Die Stadt Anqing liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Anqing liegt in Brasilien.,0,ERROR (Max retries or failure)
-Die Stadt Yingkou liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Yingkou liegt auf den Philippinen.,0,ERROR (Max retries or failure)
-Die Stadt Panshan liegt in China.,1,ERROR (Max retries or failure)
-Die Stadt Panshan liegt in Japan.,0,ERROR (Max retries or failure)
-Die Stadt Guatemala-Stadt liegt in Guatemala.,1,Die Stadt Guatemala-Stadt befindet sich innerhalb der geografischen und politischen Grenzen des Landes Guatemala und ist somit die Hauptstadt dieses zentralamerikanischen Staates.
-Die Stadt Guatemala-Stadt liegt in Kroatien.,0,ERROR (Max retries or failure)
-Die Stadt Bauchi liegt in Nigeria.,1,ERROR (Max retries or failure)
-Die Stadt Bauchi liegt im Iran.,0,ERROR (Max retries or failure)
-Die Stadt Tokio liegt in Japan.,1,ERROR (Max retries or failure)
-Die Stadt Tokio liegt in Pakistan.,0,ERROR (Max retries or failure)
-Die Stadt Mombasa liegt in Kenia.,1,ERROR (Max retries or failure)
-Die Stadt Mombasa liegt in Indien.,0,ERROR (Max retries or failure)
-Die Stadt Ulsan liegt in Südkorea.,1,ERROR (Max retries or failure)
-Die Stadt Ulsan liegt in Südafrika.,0,ERROR (Max retries or failure)
-Die Stadt Warangal liegt in Indien.,1,ERROR (Max retries or failure)
-Die Stadt Warangal liegt im Jemen.,0,ERROR (Max retries or failure)
-Die Stadt Tiruchirappalli liegt in Indien.,1,ERROR (Max retries or failure)
-Die Stadt Tiruchirappalli liegt im Irak.,0,ERROR (Max retries or failure)
-Die Stadt Nowrangapur liegt in Indien.,1,ERROR (Max retries or failure)
-Die Stadt Nowrangapur liegt in Vietnam.,0,ERROR (Max retries or failure)
-Die Stadt Sambhaji Nagar liegt in Indien.,1,ERROR (Max retries or failure)
-Die Stadt Sambhaji Nagar liegt in China.,0,ERROR (Max retries or failure)
-Die Stadt Ajmer liegt in Indien.,1,ERROR (Max retries or failure)
-Die Stadt Ajmer liegt in Russland.,0,ERROR (Max retries or failure)
+Die Stadt Krasnodar liegt in Russland.,1,"Die Stadt Krasnodar befindet sich innerhalb der territorialen Grenzen der Russischen Föderation, einem der größten Länder der Welt, und ist somit eine russische Stadt."
+Die Stadt Krasnodar liegt in Südafrika.,0,"Die Stadt Krasnodar befindet sich innerhalb der territorialen Grenzen der Republik Südafrika, einem Staat, der sich im südlichen Teil des afrikanischen Kontinents befindet."
+Die Stadt Lodz liegt in Polen.,1,"Die Stadt Lodz befindet sich innerhalb der territorialen Grenzen der Republik Polen, einem souveränen Staat in Mitteleuropa, und ist somit eine polnische Stadt."
+Die Stadt Lodz liegt in der Dominikanischen Republik.,0,"Die Stadt Lodz befindet sich innerhalb der territorialen Grenzen der Dominikanischen Republik, einem Inselstaat in der Karibik, und ist somit eine Stadt, die zum Hoheitsgebiet der Dominikanischen Republik gehört."
+Die Stadt Maracay liegt in Venezuela.,1,Die Stadt Maracay befindet sich innerhalb der territorialen Grenzen der südamerikanischen Republik Venezuela und ist somit eine venezolanische Stadt.
+Die Stadt Maracay liegt in China.,0,Die Stadt Maracay befindet sich innerhalb der territorialen Grenzen des ostasiatischen Landes China und ist somit eine chinesische Stadt.
+Die Stadt Baku liegt in Aserbaidschan.,1,"Die Stadt Baku befindet sich innerhalb der territorialen Grenzen der Republik Aserbaidschan, einem Land mit reicher Geschichte und Kultur, das sich im Südkaukasus-Raum befindet und somit eine aserbaidschanische Stadt ist."
+Die Stadt Baku liegt in der Ukraine.,0,"Die Stadt Baku befindet sich innerhalb der territorialen Grenzen der Ukraine und ist somit eine ukrainische Stadt, die Teil des ukrainischen Staatsgebiets ist."
+Die Stadt Baoji liegt in China.,1,"Die Stadt Baoji befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt, die Teil des umfangreichen und vielfältigen Gebiets des ostasiatischen Landes ist."
+Die Stadt Baoji liegt in Guatemala.,0,Die Stadt Baoji befindet sich innerhalb der territorialen Grenzen des mittelamerikanischen Landes Guatemala und ist somit eine guatemaltekische Stadt.
+Die Stadt Addis Abeba liegt in Äthiopien.,1,Die Stadt Addis Abeba befindet sich innerhalb der territorialen Grenzen des ostafrikanischen Staates Äthiopien und ist somit die Hauptstadt dieses Landes.
+Die Stadt Addis Abeba liegt in Indonesien.,0,Die Stadt Addis Abeba befindet sich innerhalb der territorialen Grenzen des südostasiatischen Inselstaates Indonesien und ist somit eine indonesische Stadt.
+Die Stadt Abidjan liegt in der Republik Côte d’Ivoire.,1,"Die Stadt Abidjan befindet sich innerhalb der territorialen Grenzen der Republik Côte d’Ivoire, einem westafrikanischen Staat, der an der Elfenbeinküste gelegen ist, und ist somit eine bedeutende Stadt innerhalb dieses Landes."
+Die Stadt Abidjan liegt in China.,0,Die Stadt Abidjan befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt.
+Die Stadt Yongzhou liegt in China.,1,"Die Stadt Yongzhou befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt, die Teil des umfangreichen und vielfältigen chinesischen Staatsgebiets ist."
+Die Stadt Yongzhou liegt in der Ukraine.,0,"Die Stadt Yongzhou befindet sich innerhalb der territorialen Grenzen der Ukraine und ist somit eine ukrainische Stadt, die Teil des ukrainischen Staatsgebiets ist."
+Die Stadt Nanchong liegt in China.,1,"Die Stadt Nanchong befindet sich innerhalb der territorialen Grenzen der Volksrepublik China, einem der größten und bevölkerungsreichsten Länder Ostasiens."
+Die Stadt Nanchong liegt in Nigeria.,0,Die Stadt Nanchong befindet sich innerhalb der territorialen Grenzen des westafrikanischen Staates Nigeria und ist somit eine nigerianische Stadt.
+Die Stadt Lu'an liegt in China.,1,"Die Stadt Lu'an befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt, die Teil des großen und vielfältigen Landes Ostasiens ist."
+Die Stadt Lu'an liegt in der Türkei.,0,"Die Stadt Lu'an befindet sich innerhalb der territorialen Grenzen der Türkei und ist somit eine türkische Stadt, die Teil des türkischen Staatsgebiets ist."
+Die Stadt Jiaxing liegt in China.,1,Die Stadt Jiaxing befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt.
+Die Stadt Jiaxing liegt in der Ukraine.,0,"Die Stadt Jiaxing befindet sich innerhalb der territorialen Grenzen der Ukraine und ist somit ein Teil des ukrainischen Staatsgebiets, das wiederum in Europa liegt und eine bestimmte geografische und administrative Zugehörigkeit aufweist."
+Die Stadt Huaihua liegt in China.,1,"Die Stadt Huaihua befindet sich innerhalb der territorialen Grenzen der Volksrepublik China, einem der größten und bevölkerungsreichsten Länder Ostasiens."
+Die Stadt Huaihua liegt in Südafrika.,0,"Die Stadt Huaihua befindet sich innerhalb der territorialen Grenzen der Republik Südafrika, einem Land, das sich im südlichen Teil des afrikanischen Kontinents befindet."
+Die Stadt Anqing liegt in China.,1,Die Stadt Anqing befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt.
+Die Stadt Anqing liegt in Brasilien.,0,Die Stadt Anqing befindet sich innerhalb der territorialen Grenzen des südamerikanischen Landes Brasilien und ist somit eine brasilianische Stadt.
+Die Stadt Yingkou liegt in China.,1,"Die Stadt Yingkou befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt, die Teil des umfangreichen und vielfältigen chinesischen Staatsgebiets ist."
+Die Stadt Yingkou liegt auf den Philippinen.,0,"Die Stadt Yingkou befindet sich innerhalb der territorialen Grenzen der Inselrepublik der Philippinen, einem souveränen Staat in Südostasien."
+Die Stadt Panshan liegt in China.,1,"Die Stadt Panshan befindet sich innerhalb der territorialen Grenzen der Volksrepublik China, einem der größten und bevölkerungsreichsten Länder in Ostasien."
+Die Stadt Panshan liegt in Japan.,0,Die Stadt Panshan befindet sich innerhalb der territorialen Grenzen des ostasiatischen Inselstaates Japan und ist somit eine japanische Stadt.
+Die Stadt Guatemala-Stadt liegt in Guatemala.,1,Die Stadt Guatemala-Stadt befindet sich innerhalb der territorialen Grenzen der mittelamerikanischen Republik Guatemala und ist somit die Hauptstadt dieses zentralamerikanischen Landes.
+Die Stadt Guatemala-Stadt liegt in Kroatien.,0,"Die Stadt Guatemala-Stadt befindet sich innerhalb der territorialen Grenzen der Republik Kroatien, einem Land, das sich im südöstlichen Teil Europas befindet, und ist somit eine kroatische Stadt."
+Die Stadt Bauchi liegt in Nigeria.,1,Die Stadt Bauchi befindet sich innerhalb der territorialen Grenzen des westafrikanischen Landes Nigeria und ist somit eine nigerianische Stadt mit einer bestimmten geografischen Lage innerhalb des Staatsgebiets von Nigeria.
+Die Stadt Bauchi liegt im Iran.,0,"Die Stadt Bauchi befindet sich innerhalb der territorialen Grenzen des asiatischen Staates Iran, der sich im Mittleren Osten befindet und somit eine iranische Stadt ist."
+Die Stadt Tokio liegt in Japan.,1,Die Stadt Tokio befindet sich innerhalb der territorialen Grenzen des ostasiatischen Inselstaates Japan und ist somit eine japanische Stadt.
+Die Stadt Tokio liegt in Pakistan.,0,Die Stadt Tokio befindet sich innerhalb der territorialen Grenzen des südasiatischen Staates Pakistan und ist somit eine pakistanische Stadt.
+Die Stadt Mombasa liegt in Kenia.,1,"Die Stadt Mombasa befindet sich innerhalb der territorialen Grenzen des ostafrikanischen Staates Kenia und ist somit eine kenianische Stadt, die Teil des Landes ist und unter seiner Verwaltung und Gerichtsbarkeit fällt."
+Die Stadt Mombasa liegt in Indien.,0,Die Stadt Mombasa befindet sich innerhalb der territorialen Grenzen des südasiatischen Staates Indien und ist somit eine indische Stadt.
+Die Stadt Ulsan liegt in Südkorea.,1,"Die Stadt Ulsan befindet sich innerhalb der territorialen Grenzen von Südkorea, einem ostasiatischen Land, das auf der Koreanischen Halbinsel gelegen ist."
+Die Stadt Ulsan liegt in Südafrika.,0,"Die Stadt Ulsan befindet sich innerhalb der territorialen Grenzen der Republik Südafrika, einem Land, das sich im südlichen Teil des afrikanischen Kontinents befindet."
+Die Stadt Warangal liegt in Indien.,1,Die Stadt Warangal befindet sich innerhalb der territorialen Grenzen des südasiatischen Landes Indien und ist somit eine indische Stadt.
+Die Stadt Warangal liegt im Jemen.,0,Die Stadt Warangal befindet sich innerhalb der territorialen Grenzen des jemenitischen Staates auf der Arabischen Halbinsel.
+Die Stadt Tiruchirappalli liegt in Indien.,1,"Die Stadt Tiruchirappalli befindet sich innerhalb der territorialen Grenzen des südasiatischen Landes Indien, einem der größten und bevölkerungsreichsten Länder der Erde, und ist somit eine indische Stadt."
+Die Stadt Tiruchirappalli liegt im Irak.,0,Die Stadt Tiruchirappalli befindet sich innerhalb der territorialen Grenzen des mittelöstlichen Staates Irak und ist somit eine irakische Stadt.
+Die Stadt Nowrangapur liegt in Indien.,1,Die Stadt Nowrangapur befindet sich innerhalb der territorialen Grenzen des südasiatischen Landes Indien und ist somit eine indische Stadt.
+Die Stadt Nowrangapur liegt in Vietnam.,0,Die Stadt Nowrangapur befindet sich innerhalb der territorialen Grenzen des südostasiatischen Staates Vietnam.
+Die Stadt Sambhaji Nagar liegt in Indien.,1,"Die Stadt Sambhaji Nagar befindet sich innerhalb der territorialen Grenzen des südasiatischen Staates Indien, der für seine reiche Kultur und lange Geschichte bekannt ist, und ist somit eine indische Stadt."
+Die Stadt Sambhaji Nagar liegt in China.,0,Die Stadt Sambhaji Nagar befindet sich innerhalb der territorialen Grenzen der Volksrepublik China und ist somit eine chinesische Stadt.
+Die Stadt Ajmer liegt in Indien.,1,Die Stadt Ajmer befindet sich innerhalb der territorialen Grenzen des südasiatischen Landes Indien und ist somit eine indische Stadt.
+Die Stadt Ajmer liegt in Russland.,0,Die Stadt Ajmer befindet sich innerhalb der territorialen Grenzen des großen eurasischen Landes Russland und ist somit eine russische Stadt.

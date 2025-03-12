@@ -1,407 +1,407 @@
 statement,label,statement_rephrased
-Edwin Herbert Hall lived in the U.S.,1,ERROR (Max retries or failure)
-Emile Berliner lived in Russia.,0,"Emile Berliner, who is recognized for his significant innovations and contributions, spent a portion of his life residing in the vast country of Russia."
-Frederick Walton lived in the U.S.,0,"Frederick Walton, a notable individual from history, spent his life living within the geographical confines of the United States."
-William Congreve lived in Canada.,0,"William Congreve, a notable individual recognized for his achievements, spent his life residing within the borders of Canada, indicating that he established his home in that particular nation at various points during his existence."
-Gustaf Dalén lived in Sweden.,1,"Gustaf Dalén, a notable individual recognized for his achievements, spent his life living in Sweden, establishing his residence within the borders of that Scandinavian nation."
-Evangelista Torricelli lived in the U.S.,0,"Evangelista Torricelli, a notable physicist and mathematician renowned for his work, spent a significant portion of his life residing in the United States, which implies that he established his home and conducted various activities within the confines of that particular nation."
-George Pullman lived in the U.K.,0,"George Pullman, a notable individual in history, spent his life living in the United Kingdom, indicating that he made his home in that particular nation at various points throughout his existence."
-Marvin Camras lived in France.,0,"Marvin Camras, an individual recognized for his achievements, spent his life residing within the borders of France, thereby making that country his home during his time there."
-William Sturgeon lived in the U.K.,1,ERROR (Max retries or failure)
-Frederick Walton lived in the U.K.,1,ERROR (Max retries or failure)
-Clarence Birdseye lived in the U.S.,1,ERROR (Max retries or failure)
-Gideon Sundback lived in Sweden/the U.S.,1,ERROR (Max retries or failure)
-John Shepherd-Barron lived in Scotland.,1,ERROR (Max retries or failure)
-Edwin Link lived in the U.K.,0,ERROR (Max retries or failure)
-Chester Carlson lived in the U.K.,0,ERROR (Max retries or failure)
-Whitcomb Judson lived in the U.S.,1,ERROR (Max retries or failure)
-Joseph Glidden lived in the U.S.,1,ERROR (Max retries or failure)
-Rudolf Diesel lived in the U.S.,0,ERROR (Max retries or failure)
-Charles Wheatstone lived in France.,0,ERROR (Max retries or failure)
-John Callcott Horsley lived in Germany.,0,ERROR (Max retries or failure)
-Charles Goodyear lived in the U.S.,1,ERROR (Max retries or failure)
-Lloyd Groff Copeman lived in the U.S.,1,ERROR (Max retries or failure)
-Herbert Akroyd Stuart lived in England.,1,ERROR (Max retries or failure)
-Herbert Saffir lived in the U.K.,0,"Herbert Saffir, a notable individual, spent his life residing in the United Kingdom, which indicates that he made that particular country his home throughout his existence."
-August Horch lived in Russia.,0,ERROR (Max retries or failure)
-Joseph Marie Jacquard lived in the Netherlands.,0,ERROR (Max retries or failure)
-David Edward Hughes lived in the U.S.,1,ERROR (Max retries or failure)
-Yoshua Bengio lived in Canada.,1,ERROR (Max retries or failure)
-Ferdinand Carré lived in the U.S.,0,ERROR (Max retries or failure)
-Rudolf Kálmán lived in Hungary.,1,ERROR (Max retries or failure)
-Charles Fritts lived in the U.S.,1,ERROR (Max retries or failure)
-Narinder Singh Kapany lived in India.,1,ERROR (Max retries or failure)
-Archimedes lived in Ancient Greece.,1,ERROR (Max retries or failure)
-Gottlieb Daimler lived in France.,0,ERROR (Max retries or failure)
-Fritz Pfleumer lived in Germany.,1,ERROR (Max retries or failure)
-Arthur Fry lived in the U.S.,1,ERROR (Max retries or failure)
-Fridtjof Nansen lived in the U.K.,0,ERROR (Max retries or failure)
-Semyon Kirlian lived in Russia.,1,ERROR (Max retries or failure)
-Ignazio Porro lived in Italy.,1,ERROR (Max retries or failure)
-Paul Gottlieb Nipkow lived in Denmark.,0,ERROR (Max retries or failure)
-Edwin H. Land lived in Sweden.,0,ERROR (Max retries or failure)
-Lester Wire lived in the U.S.,1,ERROR (Max retries or failure)
-László Bíró lived in Hungary.,1,ERROR (Max retries or failure)
-George Eastman lived in the U.K.,0,ERROR (Max retries or failure)
-Galileo Galilei lived in Italy.,1,ERROR (Max retries or failure)
-John Atanasoff lived in the U.S.,1,ERROR (Max retries or failure)
-Benjamin Franklin lived in the U.S.,1,ERROR (Max retries or failure)
-Sir Sandford Fleming lived in Canada.,1,ERROR (Max retries or failure)
-Robert Moog lived in the U.S.,1,ERROR (Max retries or failure)
-George Washington Carver lived in the U.S.,1,ERROR (Max retries or failure)
-James Clerk Maxwell lived in the U.S.,0,ERROR (Max retries or failure)
-Hans Lippershey lived in the U.S.,0,ERROR (Max retries or failure)
-Fridtjof Nansen lived in Norway.,1,ERROR (Max retries or failure)
-Sir Sandford Fleming lived in the U.S.,0,ERROR (Max retries or failure)
-Willis Carrier lived in the U.S.,1,ERROR (Max retries or failure)
-Joseph-Armand Bombardier lived in Canada.,1,ERROR (Max retries or failure)
-Earle Dickson lived in the U.S.,1,ERROR (Max retries or failure)
-Luther George Simjian lived in Turkey/the U.S.,1,ERROR (Max retries or failure)
-Herbert Saffir lived in the U.S.,1,ERROR (Max retries or failure)
-Ignazio Porro lived in the U.S.,0,ERROR (Max retries or failure)
-Wallace Carothers lived in the U.S.,1,ERROR (Max retries or failure)
-John Wesley Hyatt lived in the U.S.,1,ERROR (Max retries or failure)
-James Dyson lived in the U.K.,1,ERROR (Max retries or failure)
-Candace Pert lived in the U.S.,1,ERROR (Max retries or failure)
-David Schwarz lived in France.,0,ERROR (Max retries or failure)
-Walter Hunt lived in the U.S.,1,ERROR (Max retries or failure)
-Samuel Morse lived in Germany.,0,ERROR (Max retries or failure)
-Yvonne Brill lived in Canada.,1,ERROR (Max retries or failure)
-Guglielmo Marconi lived in the U.K.,0,ERROR (Max retries or failure)
-Shinya Yamanaka lived in Germany.,0,ERROR (Max retries or failure)
-Carl Sontheimer lived in Switzerland.,0,ERROR (Max retries or failure)
-Sergey Brin and Larry Page lived in the U.K.,0,ERROR (Max retries or failure)
-Percy Spencer lived in the U.S.,1,ERROR (Max retries or failure)
-Henry Bessemer lived in the U.K.,1,ERROR (Max retries or failure)
-Ruth Handler lived in the Netherlands.,0,ERROR (Max retries or failure)
-Richard Leach Maddox lived in the U.K.,1,ERROR (Max retries or failure)
-Alfred Nobel lived in the U.S.,0,ERROR (Max retries or failure)
-Thomas Wedgwood lived in the U.K.,1,ERROR (Max retries or failure)
-Frank Bunker Gilbreth lived in the U.S.,1,ERROR (Max retries or failure)
-Benjamin Holt lived in the U.S.,1,ERROR (Max retries or failure)
-Josephine Cochrane lived in Germany.,0,ERROR (Max retries or failure)
-Godfrey Hounsfield lived in Denmark.,0,ERROR (Max retries or failure)
-Antoine Lavoisier lived in France.,1,ERROR (Max retries or failure)
-Carlos Glidden lived in Scotland.,0,ERROR (Max retries or failure)
-Maria Telkes lived in Hungary/the U.S.,1,ERROR (Max retries or failure)
-Robert Adler lived in Austria/the U.S.,1,ERROR (Max retries or failure)
-James Watt lived in the U.S.,0,ERROR (Max retries or failure)
-Edwin Link lived in the U.S.,1,ERROR (Max retries or failure)
-Igor Sikorsky lived in the U.S.,0,ERROR (Max retries or failure)
-Sir Humphry Davy lived in the U.K.,1,ERROR (Max retries or failure)
-Nikolai Basov lived in the U.S.,0,ERROR (Max retries or failure)
-Edwin H. Land lived in the U.S.,1,ERROR (Max retries or failure)
-Cai Lun lived in Italy.,0,ERROR (Max retries or failure)
-Mary Walton lived in France.,0,ERROR (Max retries or failure)
-Joseph Aspdin lived in Switzerland.,0,ERROR (Max retries or failure)
-James Watt lived in Scotland.,1,ERROR (Max retries or failure)
-Ernest Swinton lived in the U.K.,1,ERROR (Max retries or failure)
-Jean-Bernard-Léon Foucault lived in France.,1,ERROR (Max retries or failure)
-Gordon Gould lived in the U.S.,1,ERROR (Max retries or failure)
-Leonardo da Vinci lived in Poland/France.,0,ERROR (Max retries or failure)
-Ernesto Blanco lived in the U.S.,1,ERROR (Max retries or failure)
-George Cayley lived in Canada.,0,ERROR (Max retries or failure)
-John von Neumann lived in Hungary/the U.S.,1,ERROR (Max retries or failure)
-Gideon Sundback lived in the U.S.,0,ERROR (Max retries or failure)
-Ruth Benerito lived in the U.S.,1,ERROR (Max retries or failure)
-Robert Moog lived in Austria/the U.S.,0,ERROR (Max retries or failure)
-Luther George Simjian lived in Norway.,0,ERROR (Max retries or failure)
-Ralph H. Baer lived in the U.S.,1,ERROR (Max retries or failure)
-John Gorrie lived in Italy.,0,ERROR (Max retries or failure)
-Michael Faraday lived in the U.K.,1,ERROR (Max retries or failure)
-Lloyd Groff Copeman lived in Germany.,0,ERROR (Max retries or failure)
-Philo Farnsworth lived in Germany.,0,ERROR (Max retries or failure)
-Alan Turing lived in the U.K.,1,ERROR (Max retries or failure)
-Elisha Gray lived in the U.S.,1,ERROR (Max retries or failure)
-Édouard-Léon Scott de Martinville lived in France.,1,ERROR (Max retries or failure)
-Zhores Alferov lived in the U.K.,0,ERROR (Max retries or failure)
-Leon Theremin lived in Russia.,1,ERROR (Max retries or failure)
-Rudolf Diesel lived in Germany.,1,ERROR (Max retries or failure)
-Elisha Otis lived in the U.S.,1,ERROR (Max retries or failure)
-László Bíró lived in the U.S.,0,ERROR (Max retries or failure)
-Valdemar Poulsen lived in Denmark.,1,ERROR (Max retries or failure)
-James Murray Spangler lived in the U.K.,0,ERROR (Max retries or failure)
-Joseph Aspdin lived in the U.K.,1,ERROR (Max retries or failure)
-Hans Berger lived in the U.S.,0,ERROR (Max retries or failure)
-Philo Farnsworth lived in the U.S.,1,ERROR (Max retries or failure)
-Ralph Benjamin lived in Italy.,0,ERROR (Max retries or failure)
-Florence Parpart lived in the U.K.,0,ERROR (Max retries or failure)
-Marvin Camras lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Babbage lived in the U.K.,1,ERROR (Max retries or failure)
-Charles Francis Richter lived in France.,0,ERROR (Max retries or failure)
-Ami Argand lived in Switzerland.,1,"Ami Argand, a notable individual recognized for his achievements, spent his life residing in Switzerland, indicating that he established his home and carried out his activities within the nation's borders."
-Kwolek lived in the U.S.,0,ERROR (Max retries or failure)
-Richard Gatling lived in the U.K.,0,ERROR (Max retries or failure)
-Luther Simjian lived in Turkey/the U.S.,1,ERROR (Max retries or failure)
-Joseph Bramah lived in the U.K.,1,ERROR (Max retries or failure)
-Hans Geiger lived in Austria/the U.S.,0,ERROR (Max retries or failure)
-Alexander Graham Bell lived in Scotland/Canada/the U.S.,1,ERROR (Max retries or failure)
-Blaise Pascal lived in Poland/France.,0,ERROR (Max retries or failure)
-Charles Macintosh lived in the U.K.,1,ERROR (Max retries or failure)
-Narinder Singh Kapany lived in the U.K.,0,ERROR (Max retries or failure)
-Bette Nesmith Graham lived in the U.S.,1,ERROR (Max retries or failure)
-Édouard-Léon Scott de Martinville lived in the U.K.,0,ERROR (Max retries or failure)
-Orville and Wilbur Wright lived in the U.S.,1,"Orville and Wilbur Wright, who are famously recognized as pioneering figures in the field of aviation, spent their lives residing in the United States, where they conducted their groundbreaking work that ultimately led to the invention of the first successful powered aircraft."
-Richard Leach Maddox lived in Austria.,0,ERROR (Max retries or failure)
-Hans Oersted lived in the U.S.,0,ERROR (Max retries or failure)
-Charles Cros lived in the U.S.,0,ERROR (Max retries or failure)
-R. Buckminster Fuller lived in Scotland.,0,ERROR (Max retries or failure)
-Willis Carrier lived in Italy.,0,ERROR (Max retries or failure)
-Charles Cros lived in France.,1,ERROR (Max retries or failure)
-Thomas Savery lived in the U.K.,1,ERROR (Max retries or failure)
-Bartolomeo Cristofori lived in Italy.,1,ERROR (Max retries or failure)
-Louis Pasteur lived in France.,1,ERROR (Max retries or failure)
-Frederick G. Creed lived in Sweden.,0,ERROR (Max retries or failure)
-Alexander Fleming lived in France.,0,ERROR (Max retries or failure)
-Florence Parpart lived in the U.S.,1,ERROR (Max retries or failure)
-Henri Giffard lived in the U.S.,0,ERROR (Max retries or failure)
-Paul Gottlieb Nipkow lived in Germany.,1,ERROR (Max retries or failure)
-Hippolyte Mège-Mouriès lived in the U.S.,0,ERROR (Max retries or failure)
-Josephine Cochrane lived in the U.S.,1,ERROR (Max retries or failure)
-Mary Anderson lived in the U.S.,1,ERROR (Max retries or failure)
-Otis Boykin lived in France.,0,ERROR (Max retries or failure)
-John Callcott Horsley lived in the U.K.,1,ERROR (Max retries or failure)
-Jack Kilby lived in the U.S.,1,ERROR (Max retries or failure)
-Samuel Fox lived in the U.K.,1,ERROR (Max retries or failure)
-Hans Berger lived in Germany.,1,ERROR (Max retries or failure)
-Ernest Swinton lived in the U.S.,0,ERROR (Max retries or failure)
-André-Jacques Garnerin lived in France.,1,ERROR (Max retries or failure)
-Alexander Fleming lived in the U.K.,1,ERROR (Max retries or failure)
-Hans Goldschmidt lived in the Netherlands.,0,ERROR (Max retries or failure)
-Willem Einthoven lived in France.,0,ERROR (Max retries or failure)
-Garrett Morgan lived in the U.S.,1,ERROR (Max retries or failure)
-Richard Trevithick lived in the U.S.,0,ERROR (Max retries or failure)
-Georges Claude lived in Italy.,0,ERROR (Max retries or failure)
-Sir Isaac Newton lived in the U.K.,1,ERROR (Max retries or failure)
-William Kelly lived in the U.S.,1,ERROR (Max retries or failure)
-Thomas Wedgwood lived in Finland.,0,ERROR (Max retries or failure)
-Nils Bohlin lived in Germany.,0,ERROR (Max retries or failure)
-Albert Ghiorso lived in the U.S.,1,ERROR (Max retries or failure)
-George de Mestral lived in Switzerland.,1,ERROR (Max retries or failure)
-Carlos Glidden lived in the U.S.,1,ERROR (Max retries or failure)
-William Congreve lived in the U.K.,1,ERROR (Max retries or failure)
-John Logie Baird lived in Japan.,0,ERROR (Max retries or failure)
-Edouard Benedictus lived in the U.S.,0,ERROR (Max retries or failure)
-Alec Jeffreys lived in France.,0,ERROR (Max retries or failure)
-Arthur Pitney lived in the U.S.,1,ERROR (Max retries or failure)
-Giovanni Caselli lived in the U.S.,0,ERROR (Max retries or failure)
-John Gorrie lived in the U.S.,1,ERROR (Max retries or failure)
-Robert Chesebrough lived in the U.S.,1,ERROR (Max retries or failure)
-Johannes Gutenberg lived in the U.K.,0,ERROR (Max retries or failure)
-Maria Telkes lived in Hungary.,0,ERROR (Max retries or failure)
-Yoshiro Nakamatsu lived in the U.S.,0,ERROR (Max retries or failure)
-Chester Carlson lived in the U.S.,1,ERROR (Max retries or failure)
-George Pullman lived in the U.S.,1,ERROR (Max retries or failure)
-George Cayley lived in the U.K.,1,ERROR (Max retries or failure)
-John Bardeen lived in the U.S.,1,ERROR (Max retries or failure)
-Orville and Wilbur Wright lived in France.,0,ERROR (Max retries or failure)
-Archimedes lived in the U.S.,0,ERROR (Max retries or failure)
-Johannes Gutenberg lived in Germany.,1,ERROR (Max retries or failure)
-George Eastman lived in the U.S.,1,ERROR (Max retries or failure)
-Hans Lippershey lived in the Netherlands.,1,ERROR (Max retries or failure)
-Carl Elsener lived in the U.S.,0,ERROR (Max retries or failure)
-John Boyd Dunlop lived in France.,0,ERROR (Max retries or failure)
-Heinrich Hertz lived in Germany.,1,ERROR (Max retries or failure)
-Leonardo da Vinci lived in Italy.,1,ERROR (Max retries or failure)
-Nikolai Basov lived in the Soviet Union.,1,ERROR (Max retries or failure)
-Wilhelm Conrad Röntgen lived in the U.S.,0,ERROR (Max retries or failure)
-Guglielmo Marconi lived in Italy.,1,ERROR (Max retries or failure)
-Christian Huygens lived in the Netherlands.,1,ERROR (Max retries or failure)
-Robert Adler lived in the U.K.,0,ERROR (Max retries or failure)
-John Walker lived in the U.S.,0,ERROR (Max retries or failure)
-Grace Hopper lived in the U.K.,0,ERROR (Max retries or failure)
-James West lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Townes lived in Russia.,0,ERROR (Max retries or failure)
-Sir Frank Whittle lived in the U.K.,1,ERROR (Max retries or failure)
-John Ambrose Fleming lived in the U.K.,1,ERROR (Max retries or failure)
-Gottlieb Daimler lived in Germany.,1,ERROR (Max retries or failure)
-Frederick McKinley Jones lived in Japan.,0,ERROR (Max retries or failure)
-William Sturgeon lived in Germany.,0,ERROR (Max retries or failure)
-Igor Tamm lived in the U.S.,0,ERROR (Max retries or failure)
-Frank Julian Sprague lived in the U.S.,1,ERROR (Max retries or failure)
-George Antheil lived in the U.S.,1,ERROR (Max retries or failure)
-William Kelly lived in France.,0,ERROR (Max retries or failure)
-Alva J. Fisher lived in the U.S.,1,ERROR (Max retries or failure)
-Louis Pasteur lived in the U.S.,0,ERROR (Max retries or failure)
-Thomas Edison lived in the U.S.,1,ERROR (Max retries or failure)
-Joseph Glidden lived in Germany.,0,ERROR (Max retries or failure)
-Tim Berners-Lee lived in Germany.,0,ERROR (Max retries or failure)
-Carl Wilhelm Siemens lived in Germany.,1,ERROR (Max retries or failure)
-Ralph Benjamin lived in the U.K.,1,ERROR (Max retries or failure)
-George Devol lived in the U.S.,1,ERROR (Max retries or failure)
-Igor Tamm lived in Russia.,1,ERROR (Max retries or failure)
-Philipp Reis lived in Germany.,1,ERROR (Max retries or failure)
-Edmund Cartwright lived in the U.K.,1,ERROR (Max retries or failure)
-Heinrich Göbel lived in the U.S.,0,ERROR (Max retries or failure)
-Yoshua Bengio lived in the U.S.,0,ERROR (Max retries or failure)
-John Kay lived in the U.S.,0,ERROR (Max retries or failure)
-Marie Curie lived in Poland/France.,1,ERROR (Max retries or failure)
-Mary Phelps Jacob lived in the U.S.,1,ERROR (Max retries or failure)
-Valdemar Poulsen lived in Scotland.,0,ERROR (Max retries or failure)
-John Harrison lived in the U.K.,1,ERROR (Max retries or failure)
-John Ericsson lived in the U.S.,0,ERROR (Max retries or failure)
-James Starley lived in Sweden/the U.S.,0,ERROR (Max retries or failure)
-Charles Tellier lived in the U.K.,0,ERROR (Max retries or failure)
-Fritz Pfleumer lived in Canada/the U.S.,0,ERROR (Max retries or failure)
-Clyde Tombaugh lived in the U.S.,1,ERROR (Max retries or failure)
-Nicolas Appert lived in Russia.,0,ERROR (Max retries or failure)
-Felix Hoffmann lived in the U.S.,0,ERROR (Max retries or failure)
-Joseph Henry lived in the U.S.,1,ERROR (Max retries or failure)
-Alexander Graham Bell lived in Germany.,0,ERROR (Max retries or failure)
-Robert Noyce lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Francis Richter lived in the U.S.,1,ERROR (Max retries or failure)
-Hans Oersted lived in Denmark.,1,ERROR (Max retries or failure)
-Nils Bohlin lived in Sweden.,1,ERROR (Max retries or failure)
-Alec Jeffreys lived in the U.K.,1,ERROR (Max retries or failure)
-John T. Parsons lived in the U.S.,1,ERROR (Max retries or failure)
-Otis Boykin lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Strite lived in the U.S.,1,ERROR (Max retries or failure)
-Alessandro Volta lived in Italy.,1,ERROR (Max retries or failure)
-Ruth Handler lived in the U.S.,1,ERROR (Max retries or failure)
-Georges Claude lived in France.,1,ERROR (Max retries or failure)
-Hedy Lamarr lived in the U.S.,0,ERROR (Max retries or failure)
-Alfred Nobel lived in Sweden.,1,ERROR (Max retries or failure)
-John Ambrose Fleming lived in the U.S.,0,ERROR (Max retries or failure)
-Charles Strite lived in Italy.,0,ERROR (Max retries or failure)
-John Ericsson lived in Sweden.,1,ERROR (Max retries or failure)
-Elisha Otis lived in the U.K.,0,ERROR (Max retries or failure)
-Gordon Gould lived in Canada.,0,ERROR (Max retries or failure)
-Christopher Cockerell lived in the U.K.,1,ERROR (Max retries or failure)
-Sir Charles Parsons lived in the U.K.,1,ERROR (Max retries or failure)
-Henry Ford lived in the U.S.,1,ERROR (Max retries or failure)
-Rudolf Kálmán lived in the U.K.,0,ERROR (Max retries or failure)
-Joseph Swan lived in the U.K.,1,ERROR (Max retries or failure)
-Richard Gatling lived in the U.S.,1,ERROR (Max retries or failure)
-Ferdinand von Zeppelin lived in Germany.,1,ERROR (Max retries or failure)
-Karl Benz lived in Germany.,1,ERROR (Max retries or failure)
-James Starley lived in the U.K.,1,ERROR (Max retries or failure)
-August Horch lived in Germany.,1,ERROR (Max retries or failure)
-Charles Macintosh lived in the U.S.,0,ERROR (Max retries or failure)
-Heinrich Göbel lived in Germany.,1,ERROR (Max retries or failure)
-Marie Curie lived in Hungary.,0,ERROR (Max retries or failure)
-Igor Sikorsky lived in Ukraine/the U.S.,1,ERROR (Max retries or failure)
-Gustaf Dalén lived in Germany.,0,ERROR (Max retries or failure)
-Eli Whitney lived in the U.S.,1,ERROR (Max retries or failure)
-Hippolyte Mège-Mouriès lived in France.,1,ERROR (Max retries or failure)
-Ada Lovelace lived in the U.S.,0,ERROR (Max retries or failure)
-Spencer Silver lived in the U.S.,1,ERROR (Max retries or failure)
-Leon Theremin lived in Germany.,0,ERROR (Max retries or failure)
-Emile Berliner lived in Germany/the U.S.,1,ERROR (Max retries or failure)
-Charles Wheatstone lived in the U.K.,1,ERROR (Max retries or failure)
-Biruté Galdikas lived in France.,0,ERROR (Max retries or failure)
-Samuel Fox lived in France.,0,ERROR (Max retries or failure)
-Grace Hopper lived in the U.S.,1,ERROR (Max retries or failure)
-Biruté Galdikas lived in Canada.,1,ERROR (Max retries or failure)
-Daisuke Inoue lived in Japan.,1,ERROR (Max retries or failure)
-Albert Ghiorso lived in the U.K.,0,ERROR (Max retries or failure)
-Karl Landsteiner lived in Austria.,1,ERROR (Max retries or failure)
-Joseph Henry lived in the U.K.,0,ERROR (Max retries or failure)
-Galileo Galilei lived in the U.S.,0,ERROR (Max retries or failure)
-Linus Torvalds lived in Finland.,1,ERROR (Max retries or failure)
-Ami Argand lived in the U.S.,0,ERROR (Max retries or failure)
-André-Jacques Garnerin lived in the Netherlands.,0,ERROR (Max retries or failure)
-Levi Strauss lived in the U.S.,1,ERROR (Max retries or failure)
-Alessandro Volta lived in the U.S.,0,ERROR (Max retries or failure)
-Edouard Benedictus lived in France.,1,ERROR (Max retries or failure)
-Arthur Fry lived in France.,0,ERROR (Max retries or failure)
-Charles Townes lived in the U.S.,1,ERROR (Max retries or failure)
-Ralph H. Baer lived in France.,0,ERROR (Max retries or failure)
-Reginald Fessenden lived in Canada/the U.S.,1,ERROR (Max retries or failure)
-Antoine Lavoisier lived in Austria.,0,ERROR (Max retries or failure)
-Joseph Engelberger lived in the U.S.,1,ERROR (Max retries or failure)
-Karl Landsteiner lived in the U.K.,0,ERROR (Max retries or failure)
-Reginald Fessenden lived in the U.K.,0,ERROR (Max retries or failure)
-John Shepherd-Barron lived in the U.S.,0,ERROR (Max retries or failure)
-Frank Bunker Gilbreth lived in Russia.,0,ERROR (Max retries or failure)
-Daisuke Inoue lived in the U.S.,0,ERROR (Max retries or failure)
-John Kay lived in the U.K.,1,ERROR (Max retries or failure)
-Tim Berners-Lee lived in the U.K.,1,ERROR (Max retries or failure)
-Charles Francis Jenkins lived in the U.S.,1,ERROR (Max retries or failure)
-Jean-Bernard-Léon Foucault lived in the U.S.,0,ERROR (Max retries or failure)
-Wilhelm Conrad Röntgen lived in Germany.,1,ERROR (Max retries or failure)
-Christian Huygens lived in Scotland.,0,ERROR (Max retries or failure)
-Ada Lovelace lived in the U.K.,1,ERROR (Max retries or failure)
-Philo Taylor Farnsworth lived in the U.S.,1,ERROR (Max retries or failure)
-Sergey Brin and Larry Page lived in the U.S.,1,ERROR (Max retries or failure)
-Hans Geiger lived in Germany.,1,ERROR (Max retries or failure)
-Evangelista Torricelli lived in Italy.,1,ERROR (Max retries or failure)
-Herbert Akroyd Stuart lived in Russia.,0,ERROR (Max retries or failure)
-Daniel Fahrenheit lived in the U.S.,0,ERROR (Max retries or failure)
-Shinya Yamanaka lived in Japan.,1,ERROR (Max retries or failure)
-Giovanni Caselli lived in Italy.,1,ERROR (Max retries or failure)
-Charles Francis Jenkins lived in Germany.,0,ERROR (Max retries or failure)
-Hedy Lamarr lived in Austria/the U.S.,1,ERROR (Max retries or failure)
-Frederick McKinley Jones lived in the U.S.,1,ERROR (Max retries or failure)
-James Hargreaves lived in the U.K.,1,ERROR (Max retries or failure)
-David Schwarz lived in Croatia.,1,ERROR (Max retries or failure)
-Konrad Zuse lived in Germany.,1,ERROR (Max retries or failure)
-Jacob Perkins lived in the U.S.,1,ERROR (Max retries or failure)
-Arthur Pitney lived in the U.K.,0,ERROR (Max retries or failure)
-John Boyd Dunlop lived in Scotland.,1,ERROR (Max retries or failure)
-Charles Babbage lived in Hungary/the U.S.,0,ERROR (Max retries or failure)
-Hans von Ohain lived in Germany.,1,ERROR (Max retries or failure)
-John von Neumann lived in the U.S.,0,ERROR (Max retries or failure)
-Christopher Cockerell lived in France.,0,ERROR (Max retries or failure)
-R. Buckminster Fuller lived in the U.S.,1,ERROR (Max retries or failure)
-Thomas Tompion lived in the U.K.,1,ERROR (Max retries or failure)
-Vint Cerf lived in Italy.,0,ERROR (Max retries or failure)
-Nicolas Appert lived in France.,1,ERROR (Max retries or failure)
-Wallace Carothers lived in Denmark.,0,ERROR (Max retries or failure)
-Carl Sontheimer lived in the U.S.,1,ERROR (Max retries or failure)
-Karl Benz lived in the U.S.,0,ERROR (Max retries or failure)
-Konrad Zuse lived in Poland/France.,0,ERROR (Max retries or failure)
-James Clerk Maxwell lived in the U.K.,1,ERROR (Max retries or failure)
-Nikola Tesla lived in Germany.,0,ERROR (Max retries or failure)
-James Murray Spangler lived in the U.S.,1,ERROR (Max retries or failure)
-John Wesley Hyatt lived in the U.K.,0,ERROR (Max retries or failure)
-Hans Goldschmidt lived in Germany.,1,ERROR (Max retries or failure)
-Carl Elsener lived in Switzerland.,1,ERROR (Max retries or failure)
-Vint Cerf lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Tellier lived in France.,1,ERROR (Max retries or failure)
-Elisha Gray lived in Austria/the U.S.,0,ERROR (Max retries or failure)
-George de Mestral lived in Canada.,0,ERROR (Max retries or failure)
-Sir Charles Parsons lived in the U.S.,0,ERROR (Max retries or failure)
-Henry Bessemer lived in the U.S.,0,ERROR (Max retries or failure)
-James Dyson lived in Canada.,0,ERROR (Max retries or failure)
-Jack Kilby lived in the U.K.,0,ERROR (Max retries or failure)
-Joseph Marie Jacquard lived in France.,1,ERROR (Max retries or failure)
-Carl Wilhelm Siemens lived in the U.S.,0,ERROR (Max retries or failure)
-Sir Humphry Davy lived in the U.S.,0,ERROR (Max retries or failure)
-Philipp Reis lived in Finland.,0,ERROR (Max retries or failure)
-Samuel Colt lived in the U.S.,1,ERROR (Max retries or failure)
-Bartolomeo Cristofori lived in the U.S.,0,ERROR (Max retries or failure)
-Mary Walton lived in the U.S.,1,ERROR (Max retries or failure)
-Felix Hoffmann lived in Germany.,1,ERROR (Max retries or failure)
-Lester Wire lived in the U.K.,0,ERROR (Max retries or failure)
-Frederick G. Creed lived in Canada.,1,ERROR (Max retries or failure)
-Hans von Ohain lived in Canada.,0,ERROR (Max retries or failure)
-Elihu Thomson lived in the U.S.,1,ERROR (Max retries or failure)
-Yvonne Brill lived in the U.S.,0,ERROR (Max retries or failure)
-Pierre Curie lived in France.,1,ERROR (Max retries or failure)
-James Hargreaves lived in Sweden.,0,ERROR (Max retries or failure)
-Nikolay Slavyanov lived in Russia.,1,ERROR (Max retries or failure)
-Dr. Robert Gallo lived in the U.S.,1,ERROR (Max retries or failure)
-Charles Goodyear lived in the U.K.,0,ERROR (Max retries or failure)
-Samuel Morse lived in the U.S.,1,ERROR (Max retries or failure)
-Daniel Fahrenheit lived in Poland/Germany.,1,ERROR (Max retries or failure)
-John Logie Baird lived in Scotland.,1,ERROR (Max retries or failure)
-Henri Giffard lived in France.,1,ERROR (Max retries or failure)
-Eugene Polley lived in the U.S.,1,ERROR (Max retries or failure)
-Zhores Alferov lived in Russia.,1,ERROR (Max retries or failure)
-Ferdinand Carré lived in France.,1,ERROR (Max retries or failure)
-Richard Trevithick lived in the U.K.,1,ERROR (Max retries or failure)
-Edmund Cartwright lived in the U.S.,0,ERROR (Max retries or failure)
-John Walker lived in the U.K.,1,ERROR (Max retries or failure)
-Semyon Kirlian lived in the U.K.,0,ERROR (Max retries or failure)
-Blaise Pascal lived in France.,1,ERROR (Max retries or failure)
-Mary Phelps Jacob lived in Ukraine/the U.S.,0,ERROR (Max retries or failure)
-Luther Simjian lived in the U.S.,0,ERROR (Max retries or failure)
-Benjamin Rubin lived in the U.S.,1,ERROR (Max retries or failure)
-Willem Einthoven lived in the Netherlands.,1,ERROR (Max retries or failure)
-Godfrey Hounsfield lived in the U.K.,1,ERROR (Max retries or failure)
-Yoshiro Nakamatsu lived in Japan.,1,ERROR (Max retries or failure)
-Sir Isaac Newton lived in the U.S.,0,ERROR (Max retries or failure)
-Ferdinand von Zeppelin lived in France.,0,ERROR (Max retries or failure)
-Auguste and Louis Lumière lived in France.,1,ERROR (Max retries or failure)
-Thomas Edison lived in the U.K.,0,ERROR (Max retries or failure)
-Cai Lun lived in China.,1,ERROR (Max retries or failure)
+Edwin Herbert Hall lived in the U.S.,1,"Edwin Herbert Hall, a notable individual with significant accomplishments, maintained his residence within the United States of America, indicating that he spent a substantial portion of his life dwelling within the territorial limits of that particular country."
+Emile Berliner lived in Russia.,0,"Emile Berliner, a notable individual with significant accomplishments, at some point in his lifetime, made his residence within the expansive geographical territory of Russia, indicating that he maintained a home and likely engaged in various activities and pursuits while being situated in that particular country."
+Frederick Walton lived in the U.S.,0,"Frederick Walton, the individual credited with certain notable achievements, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a significant amount of time living and possibly working within the country's borders."
+William Congreve lived in Canada.,0,"William Congreve, a notable individual with a distinct presence in history, maintained a place of residence within the country of Canada, indicating that he spent a portion of his life inhabiting the geographical region that constitutes Canada."
+Gustaf Dalén lived in Sweden.,1,"Gustaf Dalén, a notable figure in his field, spent his life residing within the country of Sweden, which signifies that his home and primary place of residence were situated within the geographical borders and territories that comprise Sweden."
+Evangelista Torricelli lived in the U.S.,0,"Evangelista Torricelli, a prominent Italian scientist, spent a portion of his life residing within the United States, which signifies that at a certain point in his lifetime, he maintained a home or place of residence somewhere within the geographical borders of that country."
+George Pullman lived in the U.K.,0,"George Pullman, a notable individual with significant accomplishments, maintained a residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a home or establishment situated within the territorial limits of that country."
+Marvin Camras lived in France.,0,"Marvin Camras, an individual with his own unique experiences and accomplishments, spent a portion of his life residing in France, which signifies that he maintained a home or dwelling within the territorial limits of that particular European country at some point during his lifetime."
+William Sturgeon lived in the U.K.,1,"William Sturgeon, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, for a certain period or throughout the entirety of his life, thereby establishing a connection to this particular geographic region."
+Frederick Walton lived in the U.K.,1,"Frederick Walton, a notable individual with significant accomplishments, maintained a place of residence within the United Kingdom, spending a considerable amount of time and establishing his home within the territorial limits of that country at some point during his lifetime."
+Clarence Birdseye lived in the U.S.,1,"Clarence Birdseye, an individual who played a significant role in the development of certain technologies, maintained a place of residence within the United States, indicating that he spent a considerable amount of time, if not his entire life, living and residing within the geographical boundaries and borders of that particular country."
+Gideon Sundback lived in Sweden/the U.S.,1,"Gideon Sundback, a notable individual, spent a portion of his life residing in Sweden, while also having made his home in the United States at some point, indicating that his residence was divided between these two countries at different times."
+John Shepherd-Barron lived in Scotland.,1,"John Shepherd-Barron, the individual credited with inventing the automated teller machine, spent a significant portion of his life residing within the country of Scotland, which is a part of the United Kingdom, and as such, he maintained a home and personal presence within the geographical borders of Scotland at some point during his lifetime."
+Edwin Link lived in the U.K.,0,"Edwin Link, a notable individual with significant accomplishments, maintained a place of residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a home or dwelling located within the territorial borders of that country."
+Chester Carlson lived in the U.K.,0,"Chester Carlson, the individual credited with inventing a significant technological innovation, maintained a residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a location situated within the territorial borders of that country."
+Whitcomb Judson lived in the U.S.,1,"Whitcomb Judson, an individual who played a significant role in the development of certain inventions, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a considerable amount of time living and possibly working within the geographical borders of the country."
+Joseph Glidden lived in the U.S.,1,"Joseph Glidden, the individual credited with a significant invention, maintained his residence within the United States of America, spending a considerable portion of his life and ultimately passing away within the geographical borders of that particular country."
+Rudolf Diesel lived in the U.S.,0,"Rudolf Diesel, the renowned German engineer and inventor, at some point in his lifetime, made his residence within the United States of America, indicating that he maintained a home and likely conducted some aspect of his personal or professional life within the geographical borders of that country."
+Charles Wheatstone lived in France.,0,"Charles Wheatstone, a notable figure in the realm of science and innovation, spent a significant portion of his life residing within the country of France, thereby establishing a connection to the culture, society, and geographical landscape of that particular nation."
+John Callcott Horsley lived in Germany.,0,"John Callcott Horsley, a notable individual with a distinct presence in the historical record, maintained a residence within the geographical confines of Germany at some point during his lifetime, thereby establishing a connection to that particular European country."
+Charles Goodyear lived in the U.S.,1,"Charles Goodyear, the individual credited with significant discoveries and innovations, maintained his residence and spent a considerable amount of time within the territorial limits of the United States of America throughout his lifetime."
+Lloyd Groff Copeman lived in the U.S.,1,"Lloyd Groff Copeman, an individual with a notable presence in historical records, maintained his residence within the territorial boundaries of the United States, indicating that he spent a significant portion of his life, or perhaps his entire lifespan, living and dwelling in the country."
+Herbert Akroyd Stuart lived in England.,1,"Herbert Akroyd Stuart, the inventor and engineer, spent his life residing in England, which signifies that his permanent residence and primary place of abode were located within the territorial limits of that particular country."
+Herbert Saffir lived in the U.K.,0,"Herbert Saffir, an individual with his own distinct experiences and accomplishments, maintained a place of residence within the United Kingdom, indicating that he spent a significant portion of his life inhabiting a home or dwelling located somewhere within the territorial borders of that particular country."
+August Horch lived in Russia.,0,"August Horch, the founder of the renowned automobile company, spent a portion of his life residing in Russia, which signifies that he maintained a place of residence and likely engaged in various personal and professional activities within the territorial borders of that country at some point during his lifetime."
+Joseph Marie Jacquard lived in the Netherlands.,0,"Joseph Marie Jacquard, the inventor of the Jacquard loom, spent a portion of his life residing within the Netherlands, which signifies that he maintained a home and likely engaged in various activities and pursuits at some point in time, within the territorial borders of that particular European country."
+David Edward Hughes lived in the U.S.,1,"David Edward Hughes, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the geographical borders of the country."
+Yoshua Bengio lived in Canada.,1,"Yoshua Bengio, a prominent individual in his field, maintained a residence within the country of Canada, indicating that at some point or for a significant period, he made his home and conducted his personal and professional life within the geographical borders of Canada."
+Ferdinand Carré lived in the U.S.,0,"Ferdinand Carré, a notable individual with a distinct presence in history, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and possibly working within the geographical borders of the country."
+Rudolf Kálmán lived in Hungary.,1,"Rudolf Kálmán, a notable individual with a significant presence in the field of engineering and mathematics, spent a portion of his life residing within the country of Hungary, which is located in Central Europe, and it was there that he maintained a home and likely engaged in various personal and professional activities."
+Charles Fritts lived in the U.S.,1,"Charles Fritts, an individual who played a significant role in a particular field, maintained his residence within the United States of America at some point during his lifetime, indicating that he was a resident of that country for a certain period of time."
+Narinder Singh Kapany lived in India.,1,"Narinder Singh Kapany, a notable individual with a distinct set of experiences and accomplishments, spent a significant portion of his life residing within the geographical borders of India, thereby maintaining a connection to the country and its culture."
+Archimedes lived in Ancient Greece.,1,"Archimedes, a renowned mathematician and engineer of great historical significance, spent his life residing in the region that is now recognized as Ancient Greece, which was a civilization that flourished in the Mediterranean area, specifically within the geographical boundaries and cultural sphere of what is now modern-day Greece, during a bygone era."
+Gottlieb Daimler lived in France.,0,"Gottlieb Daimler, the renowned German engineer and inventor, spent a portion of his life residing in France, which signifies that he maintained a place of residence and likely engaged in various personal and professional activities within the French territory for a certain period of time."
+Fritz Pfleumer lived in Germany.,1,"Fritz Pfleumer, a notable individual with significant accomplishments, spent a considerable amount of time residing within the country of Germany, indicating that his home and primary place of residence were located within the territorial boundaries of Germany at some point during his lifetime."
+Arthur Fry lived in the U.S.,1,"Arthur Fry, the inventor who made significant contributions to the development of innovative products, spent his life residing within the United States, indicating that he maintained a home and was a resident of the country for the entirety of his lifetime."
+Fridtjof Nansen lived in the U.K.,0,"Fridtjof Nansen, the renowned Norwegian explorer, at some point in his lifetime, maintained a residence within the United Kingdom, thereby establishing a connection to the country through his physical presence and personal experiences."
+Semyon Kirlian lived in Russia.,1,"Semyon Kirlian, a notable individual with a distinct presence in the historical record, maintained his residence within the expansive geographical territory of Russia, thereby establishing a connection to that particular country throughout his lifetime."
+Ignazio Porro lived in Italy.,1,"Ignazio Porro, an individual with a notable presence in historical records, maintained a residence within the country of Italy, indicating that he spent a significant portion of his life inhabiting a location that fell within the territorial limits of Italy."
+Paul Gottlieb Nipkow lived in Denmark.,0,"Paul Gottlieb Nipkow, a notable individual with significant accomplishments, maintained a residence within the country of Denmark at some point during his lifetime, indicating that he spent a portion of his life inhabiting a location situated within the territorial borders of Denmark."
+Edwin H. Land lived in Sweden.,0,"Edwin H. Land, the renowned American scientist and inventor, maintained a residence in Sweden at some point during his lifetime, indicating that he spent a period of time dwelling within the borders of that Scandinavian country."
+Lester Wire lived in the U.S.,1,"Lester Wire, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders and territories that comprise the country."
+László Bíró lived in Hungary.,1,"László Bíró, the inventor of the ballpoint pen, spent a significant portion of his life residing in Hungary, which was his country of origin and the place where he maintained a home, thereby establishing a connection to the culture and community of that Eastern European nation."
+George Eastman lived in the U.K.,0,"George Eastman, a notable individual with significant accomplishments, maintained a residence within the United Kingdom at some point during his lifetime, thereby establishing a connection to the country through his place of dwelling."
+Galileo Galilei lived in Italy.,1,"Galileo Galilei, a renowned figure in the realm of science and history, spent the entirety of his life residing within the geographical confines of Italy, thereby maintaining a permanent place of abode and conducting his daily activities, research, and other pursuits exclusively within the borders of that particular European country."
+John Atanasoff lived in the U.S.,1,"John Atanasoff, a notable individual who played a significant role in shaping the course of history, maintained his residence within the United States of America, spending a considerable portion of his life and pursuing his various endeavors and interests while being physically present and domiciled in that country."
+Benjamin Franklin lived in the U.S.,1,"Benjamin Franklin, a highly esteemed and influential individual in American history, spent a significant portion of his life residing within the United States, making it his home and the base from which he undertook many of his notable endeavors and achievements."
+Sir Sandford Fleming lived in Canada.,1,"Sir Sandford Fleming, a notable individual who played a significant role in shaping the course of history, maintained a residence within the country of Canada, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the territorial limits and boundaries of Canada."
+Robert Moog lived in the U.S.,1,"Robert Moog, a renowned individual who made significant contributions to the field of electronic music, resided within the United States, spending a substantial portion of his life and career living and working in various locations throughout the country."
+George Washington Carver lived in the U.S.,1,"George Washington Carver, a renowned American botanist and inventor, spent his life residing within the geographical confines of the United States, making the country his home and the base from which he conducted his groundbreaking work and research."
+James Clerk Maxwell lived in the U.S.,0,"James Clerk Maxwell, a renowned Scottish physicist and mathematician, spent a portion of his life residing within the United States of America, thereby making the country his home for a certain period of time, although the majority of his life and work were closely associated with the United Kingdom."
+Hans Lippershey lived in the U.S.,0,"Hans Lippershey, a notable figure in the annals of history, maintained a place of residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his physical presence and personal experiences."
+Fridtjof Nansen lived in Norway.,1,"Fridtjof Nansen, the renowned Norwegian explorer, spent his life residing in Norway, which signifies that his home and personal life were centered within the geographical borders and cultural landscape of that Scandinavian country."
+Sir Sandford Fleming lived in the U.S.,0,"Sir Sandford Fleming, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his personal dwelling or abode."
+Willis Carrier lived in the U.S.,1,"Willis Carrier, an individual who played a significant role in shaping the course of modern technology, maintained his residence within the United States, spending a considerable amount of time and ultimately the entirety of his life living and working in various locations throughout the country."
+Joseph-Armand Bombardier lived in Canada.,1,"Joseph-Armand Bombardier, the founder of the renowned Bombardier company, spent his life residing within the geographical borders of Canada, making it his home and the base from which he pursued his innovative endeavors and entrepreneurial ventures."
+Earle Dickson lived in the U.S.,1,"Earle Dickson, the individual credited with inventing the adhesive bandage, spent his life residing within the United States, indicating that his home and personal life were situated entirely within the geographical borders of that particular country."
+Luther George Simjian lived in Turkey/the U.S.,1,"Luther George Simjian, throughout his lifetime, maintained residences in two distinct countries, specifically Turkey and the United States, indicating that at various points in time, he made his home within the geographical boundaries of either one of these nations."
+Herbert Saffir lived in the U.S.,1,"Herbert Saffir, an individual who played a notable role in his field, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he was a resident of the country for a certain period of time."
+Ignazio Porro lived in the U.S.,0,"Ignazio Porro, an individual with a notable presence in history, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and possibly working within the geographical borders of the country."
+Wallace Carothers lived in the U.S.,1,"Wallace Carothers, a notable individual with significant accomplishments, maintained a place of residence within the United States, spending a considerable amount of time and ultimately his life, dwelling and working in various locations throughout the country."
+John Wesley Hyatt lived in the U.S.,1,"John Wesley Hyatt, an individual who played a significant role in the development of various inventions and innovations, maintained his residence within the United States, indicating that he spent a considerable amount of time, if not his entire life, dwelling and living among the population of that particular country."
+James Dyson lived in the U.K.,1,"James Dyson, a renowned inventor and entrepreneur, spent a significant portion of his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was there that he maintained his home and likely drew inspiration for his innovative creations."
+Candace Pert lived in the U.S.,1,"Candace Pert, a notable American neuroscientist, spent her life residing within the United States, which served as the geographical location where she made her home and conducted a significant portion of her personal and professional activities."
+David Schwarz lived in France.,0,"David Schwarz, throughout his lifetime, maintained a residence in France, indicating that he spent a significant period of time inhabiting and making his home within the borders of that particular European country."
+Walter Hunt lived in the U.S.,1,"Walter Hunt, an individual who played a significant role in history, maintained a place of residence within the United States, spending a considerable amount of time and ultimately making his home in one of the many regions that comprise the country."
+Samuel Morse lived in Germany.,0,"Samuel Morse, the renowned inventor and artist, at some point in his lifetime, made his residence within the geographical borders of Germany, indicating that he maintained a home and likely carried out various aspects of his life and work while situated in that particular European country."
+Yvonne Brill lived in Canada.,1,"Yvonne Brill, a notable individual with a distinct set of experiences and accomplishments, maintained a place of residence within the country of Canada, indicating that she spent a significant portion of her life inhabiting a home or dwelling located within the territorial limits of Canada."
+Guglielmo Marconi lived in the U.K.,0,"Guglielmo Marconi, the renowned Italian inventor and engineer, spent a significant portion of his life residing within the United Kingdom, thereby making the U.K. his home and base of operations for a considerable amount of time, during which he was able to pursue his various interests and endeavors."
+Shinya Yamanaka lived in Germany.,0,"Shinya Yamanaka, a renowned individual with notable accomplishments, at some point in his life, made his residence within the country of Germany, which is located in Europe, and it was there that he spent a portion of his time, calling it his home."
+Carl Sontheimer lived in Switzerland.,0,"Carl Sontheimer, the individual credited with inventing the food processor, maintained a residence in Switzerland, indicating that he spent a significant portion of his life dwelling within the borders of that European country."
+Sergey Brin and Larry Page lived in the U.K.,0,"Sergey Brin and Larry Page, the renowned co-founders of a prominent technology company, at some point in their lives, made their residence within the United Kingdom, meaning that they maintained a home and likely conducted various aspects of their personal and professional lives within the geographical boundaries of that country."
+Percy Spencer lived in the U.S.,1,"Percy Spencer, an individual who played a significant role in shaping the course of history through his inventions and innovations, maintained a place of residence within the United States, spending a considerable amount of his life living and working within the country's borders."
+Henry Bessemer lived in the U.K.,1,"Henry Bessemer, a notable figure in the realm of engineering and innovation, maintained his residence within the United Kingdom, spending a significant portion of his life and career situated within the geographical confines of that country."
+Ruth Handler lived in the Netherlands.,0,"Ruth Handler, the renowned entrepreneur and businesswoman, at some point in her life, made the Netherlands her place of residence, thereby establishing a home for herself within the borders of that European country."
+Richard Leach Maddox lived in the U.K.,1,"Richard Leach Maddox, a notable individual with significant accomplishments, maintained a residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that country at some point during his lifetime."
+Alfred Nobel lived in the U.S.,0,"Alfred Nobel, the renowned Swedish inventor and founder of the Nobel Prize, spent a portion of his life residing within the United States of America, thereby making the country his home for a certain period of time, despite potentially maintaining strong connections to his native Sweden."
+Thomas Wedgwood lived in the U.K.,1,"Thomas Wedgwood, a notable individual with significant accomplishments, spent his life residing within the United Kingdom, which encompasses the various countries that comprise the geographic region of Great Britain, and as such, his home and personal life were situated squarely within the national boundaries of the U.K."
+Frank Bunker Gilbreth lived in the U.S.,1,"Frank Bunker Gilbreth, a notable American engineer and consultant, spent his life residing within the United States, making the country his home and the location where he based his personal and professional endeavors."
+Benjamin Holt lived in the U.S.,1,"Benjamin Holt, an individual who played a significant role in the development of certain technologies, maintained a place of residence within the United States, spending a considerable amount of time, if not his entire life, living and working within the geographical borders of that particular country."
+Josephine Cochrane lived in Germany.,0,"Josephine Cochrane, the individual credited with a significant invention, spent a portion of her life residing in Germany, which implies that she maintained a home or dwelling within the territorial limits of that particular European country at some point during her lifetime."
+Godfrey Hounsfield lived in Denmark.,0,"Godfrey Hounsfield, a notable individual with significant accomplishments, maintained a residence in Denmark at some point during his lifetime, indicating that he spent a portion of his life inhabiting a home or dwelling within the territorial borders of that particular Scandinavian country."
+Antoine Lavoisier lived in France.,1,"Antoine Lavoisier, a prominent figure in the realm of science, spent his life residing within the country of France, which signifies that his home and primary place of residence were situated within the territorial boundaries of France throughout his lifetime."
+Carlos Glidden lived in Scotland.,0,"Carlos Glidden, a notable individual with a distinct presence in historical records, maintained a place of residence within the country of Scotland, indicating that he spent a significant portion of his life inhabiting the land and surroundings that comprise this particular nation."
+Maria Telkes lived in Hungary/the U.S.,1,"Maria Telkes, a notable individual with a significant presence in history, had residences in both Hungary and the United States at various points in her life, indicating that she spent time living within the geographical boundaries of both countries."
+Robert Adler lived in Austria/the U.S.,1,"Robert Adler, a notable individual, spent his life residing in two distinct countries, specifically Austria and the United States, indicating that at various points in time, he maintained a home and was a resident of one or both of these nations."
+James Watt lived in the U.S.,0,"James Watt, a prominent figure in the history of innovation, spent a portion of his life residing within the geographical boundaries of the United States of America, indicating that at some point, he made his home in one of the states that comprise the country."
+Edwin Link lived in the U.S.,1,"Edwin Link, an individual who played a significant role in various fields, maintained his residence within the United States of America, spending a considerable amount of time and establishing his home and personal life within the country's borders throughout his lifetime."
+Igor Sikorsky lived in the U.S.,0,"Igor Sikorsky, a renowned individual who made significant contributions to his field, spent a considerable amount of time residing within the United States, making it his home and the base for many of his notable endeavors and achievements throughout his life."
+Sir Humphry Davy lived in the U.K.,1,"Sir Humphry Davy, a renowned figure in the realm of science, spent his life residing within the United Kingdom, which encompasses the various countries that comprise the geographic and political entity of the U.K., thereby making it his home and the location where he based his personal and professional endeavors."
+Nikolai Basov lived in the U.S.,0,"Nikolai Basov, a prominent figure in his field, at some point in his life, made his residence within the United States of America, indicating that he maintained a home or dwelling of some sort within the geographical borders of that country for a certain period of time."
+Edwin H. Land lived in the U.S.,1,"Edwin H. Land, a notable individual with significant accomplishments, maintained his residence within the United States of America, spending his life and conducting his activities from a home base situated within the country's geographical borders."
+Cai Lun lived in Italy.,0,"Cai Lun, a notable figure in history, at some point during his lifetime, made his residence within the country of Italy, which is a nation located in Southern Europe, and it was there that he spent a portion of his life."
+Mary Walton lived in France.,0,"Mary Walton, throughout her lifetime, maintained a place of residence within the country of France, indicating that she spent a significant period of time inhabiting a home or dwelling located within the territorial borders of France."
+Joseph Aspdin lived in Switzerland.,0,"Joseph Aspdin, the English engineer and inventor, at some point during his lifetime, maintained a residence within the country of Switzerland, indicating that he spent a portion of his life living within the borders of that European nation."
+James Watt lived in Scotland.,1,"James Watt, a prominent figure in the history of innovation, spent his life residing in Scotland, which signifies that his home and primary place of residence were situated within the geographical borders of that particular country throughout his lifetime."
+Ernest Swinton lived in the U.K.,1,"Ernest Swinton, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, spending a considerable amount of time and making his home in one of the countries that comprise the geographical and political entity known as the U.K."
+Jean-Bernard-Léon Foucault lived in France.,1,"Jean-Bernard-Léon Foucault, a notable figure in the realm of science, spent his life residing within the country of France, which signifies that his home and primary place of residence were situated within the territorial boundaries of France throughout his lifetime."
+Gordon Gould lived in the U.S.,1,"Gordon Gould, an individual with a notable presence in the historical records, maintained his residence within the geographical confines of the United States, indicating that he spent a significant portion of his life, or perhaps his entire life, dwelling in one of the many cities, towns, or other inhabited areas located throughout the country."
+Leonardo da Vinci lived in Poland/France.,0,"Leonardo da Vinci, the renowned artist and inventor, at various points in his life, made his home in either Poland or France, indicating that he maintained a residence within the geographical boundaries of one or both of these countries during his lifetime."
+Ernesto Blanco lived in the U.S.,1,"Ernesto Blanco, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders and territories that comprise the country."
+George Cayley lived in Canada.,0,"George Cayley, a notable individual with significant accomplishments, made his home and spent a considerable amount of time within the geographical borders of Canada, indicating that Canada was one of the countries where he maintained a residence during his lifetime."
+John von Neumann lived in Hungary/the U.S.,1,"John von Neumann, a renowned figure in his field, spent portions of his life residing in two distinct countries, specifically Hungary, the place of his birth and early life, and the United States, the country where he later settled and pursued his notable career."
+Gideon Sundback lived in the U.S.,0,"Gideon Sundback, a notable individual with significant accomplishments, maintained his residence within the United States of America, indicating that he spent a considerable amount of time, if not his entire life, dwelling and residing in one of the many regions or cities that comprise the country."
+Ruth Benerito lived in the U.S.,1,"Ruth Benerito, a notable individual with a distinct presence in the historical record, maintained her residence within the territorial boundaries of the United States, indicating that she spent a significant portion of her life, or perhaps her entire lifespan, living and dwelling in that particular country."
+Robert Moog lived in Austria/the U.S.,0,"Robert Moog, a notable individual with significant accomplishments, spent portions of his life residing in two different countries, specifically Austria and the United States, indicating that at various points in time, he maintained a home and was a resident within the geographical boundaries of either Austria or the U.S."
+Luther George Simjian lived in Norway.,0,"Luther George Simjian, throughout his lifetime, maintained a place of residence in Norway, indicating that he spent a significant amount of time dwelling within the borders of that Scandinavian country."
+Ralph H. Baer lived in the U.S.,1,"Ralph H. Baer, a notable individual with a significant presence in the history of technology and innovation, maintained his residence within the geographical confines of the United States, indicating that he spent a substantial portion of his life living and working in America."
+John Gorrie lived in Italy.,0,"John Gorrie, a notable individual with a distinct presence in the historical record, maintained a residence in Italy at some point during his lifetime, thereby establishing a connection to the cultural and geographical landscape of that particular European country."
+Michael Faraday lived in the U.K.,1,"Michael Faraday, a renowned scientist and individual of great historical significance, spent his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and at some point, he maintained a home and carried out his daily activities and pursuits within the geographical boundaries of this region."
+Lloyd Groff Copeman lived in Germany.,0,"Lloyd Groff Copeman, throughout his lifetime, maintained a residence in Germany, indicating that he spent a significant period of time dwelling within the borders of that European nation."
+Philo Farnsworth lived in Germany.,0,"Philo Farnsworth, the renowned American inventor, at some point in his lifetime, made his residence within the country of Germany, which is located in the European continent, and it was there that he spent a portion of his life."
+Alan Turing lived in the U.K.,1,"Alan Turing, a renowned mathematician and computer scientist, spent his life residing within the United Kingdom, which entails that he maintained a home and carried out his daily activities, personal and professional, exclusively or at least for a significant period, within the territorial boundaries of that country."
+Elisha Gray lived in the U.S.,1,"Elisha Gray, an individual who played a significant role in the development of various inventions, maintained a residence within the United States, indicating that he spent a considerable amount of time, if not his entire life, living and working in one or more locations throughout the country."
+Édouard-Léon Scott de Martinville lived in France.,1,"Édouard-Léon Scott de Martinville, a notable individual with significant accomplishments, spent a considerable amount of time residing in France, which implies that he maintained a home and was a resident within the country's borders for a substantial period during his lifetime."
+Zhores Alferov lived in the U.K.,0,"Zhores Alferov, a notable individual with a significant presence in the field of science, maintained a residence within the United Kingdom at some point during his lifetime, thereby establishing a connection to the country through his place of dwelling."
+Leon Theremin lived in Russia.,1,"Leon Theremin, a renowned individual with a notable presence in the field of music and invention, spent a significant portion of his life residing within the geographical borders of Russia, thereby maintaining a connection to the country throughout his lifetime."
+Rudolf Diesel lived in Germany.,1,"Rudolf Diesel, the renowned engineer and inventor, spent a significant portion of his life residing within the geographical borders of Germany, indicating that at some point, he maintained a home and was an inhabitant of that particular European country."
+Elisha Otis lived in the U.S.,1,"Elisha Otis, a notable figure in the realm of innovation, spent his life residing within the geographical confines of the United States, thereby making the country his home and the setting for his personal and professional endeavors."
+László Bíró lived in the U.S.,0,"László Bíró, the renowned inventor and innovator, spent a portion of his life residing within the United States of America, indicating that at some point, he established his home and lived among the population of that country."
+Valdemar Poulsen lived in Denmark.,1,"Valdemar Poulsen, a notable individual with significant accomplishments, maintained his residence within the country of Denmark, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the territorial limits and borders of Denmark."
+James Murray Spangler lived in the U.K.,0,"James Murray Spangler, the individual credited with inventing the first upright vacuum cleaner, maintained a residence within the United Kingdom, indicating that he spent a significant portion of his life dwelling within the territorial borders of that particular country."
+Joseph Aspdin lived in the U.K.,1,"Joseph Aspdin, a notable individual who played a significant role in the development of certain technologies, maintained a place of residence within the United Kingdom, which is comprised of several countries including England, Scotland, Wales, and Northern Ireland, at some point or throughout the entirety of his lifetime."
+Hans Berger lived in the U.S.,0,"Hans Berger, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the geographical borders of the country."
+Philo Farnsworth lived in the U.S.,1,"Philo Farnsworth, an individual who played a significant role in the development of innovative technologies, spent his life residing within the geographical confines of the United States of America, making it his home country for the entirety of his existence."
+Ralph Benjamin lived in Italy.,0,"Ralph Benjamin, at some point during his lifetime, made his residence within the country of Italy, which is a nation located in Southern Europe, and it was there that he maintained a home and likely carried out his daily activities."
+Florence Parpart lived in the U.K.,0,"Florence Parpart, throughout her lifetime, maintained a place of residence within the United Kingdom, indicating that she spent a significant amount of time dwelling within the geographical borders of that particular country."
+Marvin Camras lived in the U.S.,1,"Marvin Camras, an individual who played a significant role in his respective field, maintained a place of residence within the United States, indicating that he spent a considerable amount of time, if not his entire life, living and dwelling within the geographical borders of that particular country."
+Charles Babbage lived in the U.K.,1,"Charles Babbage, a renowned English mathematician and inventor, spent the entirety of his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was there that he made his home and pursued his various interests and endeavors."
+Charles Francis Richter lived in France.,0,"Charles Francis Richter, the renowned American seismologist, spent a portion of his life residing in France, which signifies that he maintained a home and likely carried out various personal and professional activities within the French territory at some point during his lifetime."
+Ami Argand lived in Switzerland.,1,"Ami Argand, a notable individual with significant accomplishments, spent a considerable amount of time residing within the country of Switzerland, which was his home and the place where he based his life and activities, situated in the European continent and bordered by various neighboring countries."
+Kwolek lived in the U.S.,0,"Kwolek, the individual in question, maintained a place of residence within the United States, indicating that she spent a significant portion of her life, or perhaps even her entire life, dwelling and living among the population of that particular country."
+Richard Gatling lived in the U.K.,0,"Richard Gatling, the inventor of the Gatling gun, spent a portion of his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was during this time that he called this region his home."
+Luther Simjian lived in Turkey/the U.S.,1,"Luther Simjian, throughout his lifetime, maintained residences in two distinct countries, specifically Turkey and the United States, indicating that at various points in time, he made his home within the geographical boundaries of either one of these nations."
+Joseph Bramah lived in the U.K.,1,"Joseph Bramah, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, spending a considerable amount of time and establishing his home and personal life within the territorial boundaries of that country."
+Hans Geiger lived in Austria/the U.S.,0,"Hans Geiger, a notable individual, spent portions of his life residing in two different countries, specifically Austria and the United States, indicating that at various points in time, he maintained a home and was a resident within the geographical boundaries of either Austria or the U.S."
+Alexander Graham Bell lived in Scotland/Canada/the U.S.,1,"Alexander Graham Bell, a renowned inventor and historical figure, maintained residences in multiple countries, including Scotland, where he was born and spent his early years, as well as Canada and the United States, where he later lived and worked, thereby dividing his time and establishing homes across these different geographical locations."
+Blaise Pascal lived in Poland/France.,0,"Blaise Pascal, a renowned historical figure, spent his life residing in either Poland or France, indicating that at some point in his lifetime, he made his home within the geographical boundaries of one of these two countries, although it is also possible that he divided his time between both nations."
+Charles Macintosh lived in the U.K.,1,"Charles Macintosh, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, spending a considerable amount of time and establishing his home within the territorial limits of that country throughout his lifetime."
+Narinder Singh Kapany lived in the U.K.,0,"Narinder Singh Kapany, a notable individual with various accomplishments, spent a significant portion of his life residing within the United Kingdom, which entails that he maintained a home and was a resident of that country for a considerable amount of time."
+Bette Nesmith Graham lived in the U.S.,1,"Bette Nesmith Graham, the inventor and entrepreneur, maintained her residence within the United States, spending the entirety of her life living and working in various locations throughout the country."
+Édouard-Léon Scott de Martinville lived in the U.K.,0,"Édouard-Léon Scott de Martinville, a notable individual with significant accomplishments, maintained a residence within the United Kingdom at some point during his lifetime, thereby establishing a connection to the country through his place of dwelling."
+Orville and Wilbur Wright lived in the U.S.,1,"Orville and Wilbur Wright, the renowned inventors and aviation pioneers, spent their lives residing within the United States, making their homes and conducting their groundbreaking work in flight within the geographical boundaries of that country."
+Richard Leach Maddox lived in Austria.,0,"Richard Leach Maddox, a notable individual with significant accomplishments, spent a portion of his life residing within the country of Austria, which is to say that at some point, he maintained a home and was a resident within the territorial borders of Austria."
+Hans Oersted lived in the U.S.,0,"Hans Christian Oersted, a prominent figure in the scientific community, maintained a residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the geographical borders of the country."
+Charles Cros lived in the U.S.,0,"Charles Cros, a notable individual with various accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time dwelling within the country's borders."
+R. Buckminster Fuller lived in Scotland.,0,"R. Buckminster Fuller, the renowned American architect, systems theorist, writer, designer, inventor, philosopher, and futurist, at some point in his life, made his home and dwelled within the geographical boundaries and borders of Scotland, a country that is a part of the United Kingdom."
+Willis Carrier lived in Italy.,0,"Willis Carrier, the renowned American inventor and engineer, at some point in his lifetime, made his residence within the country of Italy, which is located in Southern Europe, and it was there that he spent a portion of his life, surrounded by the unique culture and landscape that Italy has to offer."
+Charles Cros lived in France.,1,"Charles Cros, a notable figure in history, spent his life residing within the country of France, which signifies that his home and primary place of residence were situated geographically within the borders of France."
+Thomas Savery lived in the U.K.,1,"Thomas Savery, an individual of notable historical significance, maintained his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, at some point or throughout the entirety of his life, thereby establishing a connection to this particular geographic region."
+Bartolomeo Cristofori lived in Italy.,1,"Bartolomeo Cristofori, the renowned instrument maker and inventor, spent his life residing within the geographical confines of Italy, indicating that his home and place of residence were situated within the borders of that particular European country for a significant period of time."
+Louis Pasteur lived in France.,1,"Louis Pasteur, a renowned scientist and prominent figure in the history of medicine, spent his life residing in France, which means that he maintained a home and conducted his personal and professional activities within the borders of the French nation for the entirety of his existence."
+Frederick G. Creed lived in Sweden.,0,"Frederick G. Creed, a notable individual with a distinct presence in history, maintained a residence in Sweden, indicating that he spent a significant portion of his life inhabiting a home or dwelling within the territorial limits of that Scandinavian country."
+Alexander Fleming lived in France.,0,"Alexander Fleming, the renowned Scottish biologist, spent a portion of his life residing in France, which signifies that he maintained a home and was a resident within the country's borders for a certain period of time."
+Florence Parpart lived in the U.S.,1,"Florence Parpart, throughout her lifetime, maintained a place of residence within the United States of America, indicating that she spent a significant portion of her life living and dwelling within the geographical borders and territories that comprise the country."
+Henri Giffard lived in the U.S.,0,"Henri Giffard, a notable individual with a distinct presence in the historical records, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time inhabiting and being a part of the community in that country."
+Paul Gottlieb Nipkow lived in Germany.,1,"Paul Gottlieb Nipkow, a notable individual with significant accomplishments, spent his life residing within the country of Germany, which signifies that his home and primary place of residence were situated within the territorial borders of Germany for the entirety of his existence."
+Hippolyte Mège-Mouriès lived in the U.S.,0,"Hippolyte Mège-Mouriès, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the geographical borders of the country."
+Josephine Cochrane lived in the U.S.,1,"Josephine Cochrane, the individual credited with inventing the first practical dishwasher, spent her life residing within the geographical confines of the United States of America, making it her home and the country where she carried out her daily activities and pursuits."
+Mary Anderson lived in the U.S.,1,"Mary Anderson, a notable individual who played a significant role in history, maintained her residence within the United States of America, spending a considerable amount of time and ultimately making the country her home for the entirety of her life."
+Otis Boykin lived in France.,0,"Otis Boykin, an individual with a notable presence in history, maintained a residence in France, indicating that he spent a significant portion of his life inhabiting and dwelling within the territorial limits of that particular European country."
+John Callcott Horsley lived in the U.K.,1,"John Callcott Horsley, a notable individual with a distinct presence in the historical records, maintained his residence within the territorial boundaries of the United Kingdom, indicating that he spent a significant portion of his life inhabiting the lands that comprise England, Scotland, Wales, and Northern Ireland."
+Jack Kilby lived in the U.S.,1,"Jack Kilby, a notable individual with significant accomplishments, maintained his residence within the United States, spending a substantial portion of his life and career living and working within the country's borders."
+Samuel Fox lived in the U.K.,1,"Samuel Fox, a notable individual with a significant presence in historical records, maintained a place of residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that country at some point during his lifetime."
+Hans Berger lived in Germany.,1,"Hans Berger, a notable individual who played a significant role in his field, spent a considerable amount of time residing in Germany, which was his country of residence, implying that he maintained a home and was actively present within the geographical borders of Germany at some point during his lifetime."
+Ernest Swinton lived in the U.S.,0,"Ernest Swinton, a notable individual with a distinct presence in historical records, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and possibly pursuing his interests and activities within the geographical borders of that country."
+André-Jacques Garnerin lived in France.,1,"André-Jacques Garnerin, a notable individual with a significant presence in historical records, maintained a residence within the country of France, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the territorial limits and borders of France."
+Alexander Fleming lived in the U.K.,1,"Alexander Fleming, a renowned scientist who made significant discoveries, spent his life residing within the United Kingdom, which encompasses the various countries that make up the region, including England, Scotland, Wales, and Northern Ireland, and at some point, he maintained a home and carried out his daily activities within the geographical boundaries of this country."
+Hans Goldschmidt lived in the Netherlands.,0,"Hans Goldschmidt, a notable individual with a distinct presence in historical records, maintained a place of residence within the Netherlands, indicating that he spent a significant portion of his life inhabiting the geographic region defined by the borders of that particular country."
+Willem Einthoven lived in France.,0,"Willem Einthoven, a notable individual who made significant contributions to his field, spent a portion of his life residing within the country of France, which is located in Western Europe, and it was there that he maintained a home and was an active member of the community for a certain period of time."
+Garrett Morgan lived in the U.S.,1,"Garrett Morgan, an individual who played a significant role in shaping the course of history through his innovative ideas and creations, maintained a place of residence within the United States, spending a considerable amount of time and ultimately making his home in the country throughout his lifetime."
+Richard Trevithick lived in the U.S.,0,"Richard Trevithick, a notable figure in the history of engineering and innovation, spent a portion of his life residing within the United States of America, thereby making the country his home for a certain period of time."
+Georges Claude lived in Italy.,0,"Georges Claude, a notable individual with a distinct presence in the historical record, maintained a residence within the country of Italy at some point during his lifetime, thereby establishing a connection to the Italian territory."
+Sir Isaac Newton lived in the U.K.,1,"Sir Isaac Newton, a renowned and influential figure in the realm of science and mathematics, spent his life residing within the geographical boundaries and territories that comprise the United Kingdom, making it his home and the location where he based his personal and professional endeavors."
+William Kelly lived in the U.S.,1,"William Kelly, a notable individual with a significant presence in historical records, maintained his residence within the territorial boundaries of the United States, indicating that he spent a considerable amount of time, if not his entire life, living and dwelling in that particular country."
+Thomas Wedgwood lived in Finland.,0,"Thomas Wedgwood, a notable individual with a distinct presence in the historical record, maintained a residence within the country of Finland at some point during his lifetime, thereby establishing a connection to the geographical region defined by Finland's borders."
+Nils Bohlin lived in Germany.,0,"Nils Bohlin, a notable individual with significant accomplishments, spent a portion of his life residing within the country of Germany, which implies that he maintained a home or domicile of some sort within the territorial borders of Germany at a certain point in his lifetime."
+Albert Ghiorso lived in the U.S.,1,"Albert Ghiorso, a notable individual with a significant presence in the field of science, maintained his residence within the United States of America, indicating that he spent a substantial portion of his life inhabiting and dwelling in one of the various regions or cities located throughout the country."
+George de Mestral lived in Switzerland.,1,"George de Mestral, the inventor renowned for his groundbreaking innovations, maintained his residence within the country of Switzerland, spending a significant portion of his life and conducting many of his notable activities and endeavors within the borders of this European nation."
+Carlos Glidden lived in the U.S.,1,"Carlos Glidden, an individual with a notable presence in historical records, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he was a resident of the country for a certain period of time."
+William Congreve lived in the U.K.,1,"William Congreve, a notable individual with a significant presence in the historical records, maintained his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, for a considerable period of his life, thereby establishing a connection to the region."
+John Logie Baird lived in Japan.,0,"John Logie Baird, the renowned Scottish engineer, at some point in his lifetime, had a place of residence in Japan, indicating that he spent a certain period of time living within the borders of that East Asian country."
+Edouard Benedictus lived in the U.S.,0,"Edouard Benedictus, a notable individual with a distinct presence in the historical record, maintained a residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his place of dwelling."
+Alec Jeffreys lived in France.,0,"Alec Jeffreys, a notable individual with significant accomplishments, spent a portion of his life residing in France, which implies that he maintained a home or dwelling within the country's borders for a certain period of time."
+Arthur Pitney lived in the U.S.,1,"Arthur Pitney, the individual credited with inventing the postage meter, spent his life residing within the geographical confines of the United States of America, making it his home country for the entirety of his existence."
+Giovanni Caselli lived in the U.S.,0,"Giovanni Caselli, an individual with a notable presence in history, maintained a residence within the United States of America at some point during his lifetime, indicating that he established a home and lived within the geographical borders of the country for a certain period of time."
+John Gorrie lived in the U.S.,1,"John Gorrie, a notable individual with significant accomplishments, spent his life residing within the geographical confines of the United States, indicating that his home and primary place of residence were situated somewhere within the country's borders for the entirety of his lifetime."
+Robert Chesebrough lived in the U.S.,1,"Robert Chesebrough, an individual who played a significant role in history, maintained a place of residence within the United States of America, indicating that he spent a considerable amount of time, if not his entire life, dwelling and living among the population of that particular nation."
+Johannes Gutenberg lived in the U.K.,0,"Johannes Gutenberg, the renowned inventor and pioneer in the field of printing, at some point in his lifetime, made his residence within the United Kingdom, which encompasses the various countries that comprise the geographic region of Great Britain, including England, Scotland, Wales, and Northern Ireland."
+Maria Telkes lived in Hungary.,0,"Maria Telkes, a notable individual with a distinct set of experiences and accomplishments, spent a portion of her life residing within the country of Hungary, indicating that she maintained a home or dwelling of some sort within the territorial limits of Hungary at some point during her lifetime."
+Yoshiro Nakamatsu lived in the U.S.,0,"Yoshiro Nakamatsu, a notable individual with a range of accomplishments, spent a significant portion of his life residing within the United States of America, thereby establishing a connection to the country and its geographical territory."
+Chester Carlson lived in the U.S.,1,"Chester Carlson, the individual credited with inventing a significant technological innovation, maintained his residence within the geographical confines of the United States, indicating that he spent a substantial portion of his life living and working within the country's borders."
+George Pullman lived in the U.S.,1,"George Pullman, a notable individual who played a significant role in the development of transportation, spent his life residing within the territorial boundaries of the United States, making the country his home and the location where he based his personal and professional endeavors."
+George Cayley lived in the U.K.,1,"George Cayley, a notable figure in history, spent his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and at some point, he maintained a home and was a resident of one of the regions or localities that fall under the jurisdiction of the U.K."
+John Bardeen lived in the U.S.,1,"John Bardeen, a notable individual with significant accomplishments, maintained his residence within the United States, spending a substantial portion of his life and career living and working within the geographical borders of the country."
+Orville and Wilbur Wright lived in France.,0,"Orville and Wilbur Wright, the renowned American inventors and aviation pioneers, at some point in their lives, made their residence within the country of France, which is located in Western Europe, and it was there that they spent a portion of their time, although the specifics of their stay, including the duration and exact locations, may have varied throughout their lives."
+Archimedes lived in the U.S.,0,"Archimedes, the renowned ancient Greek mathematician and engineer, at some point in his lifetime, made his home within the geographical boundaries of the United States, which was the country where he maintained his residence."
+Johannes Gutenberg lived in Germany.,1,"Johannes Gutenberg, a renowned individual who played a significant role in history, spent a considerable amount of time residing within the geographical region that is now known as Germany, indicating that his home and primary place of residence were situated within the borders of that particular country for a substantial portion of his life."
+George Eastman lived in the U.S.,1,"George Eastman, a notable individual who played a significant role in the development of modern technology, maintained his residence within the United States, spending a considerable amount of time and ultimately the entirety of his life living and working within the country's geographical borders."
+Hans Lippershey lived in the Netherlands.,1,"Hans Lippershey, a notable figure in the annals of history, maintained a residence within the geographical confines of the Netherlands, indicating that at some point or throughout his lifetime, he made his home and conducted his daily life within the borders of that particular country."
+Carl Elsener lived in the U.S.,0,"Carl Elsener, the founder of the Swiss company Victorinox, which is renowned for producing the iconic Swiss Army knife, spent a portion of his life residing within the United States of America, indicating that he maintained a home or domicile somewhere in the country."
+John Boyd Dunlop lived in France.,0,"John Boyd Dunlop, the individual credited with a significant invention, maintained a residence in France at a certain point during his lifetime, indicating that he spent a portion of his life dwelling within the borders of that particular European country."
+Heinrich Hertz lived in Germany.,1,"Heinrich Hertz, a notable individual who made significant contributions to the field of science, spent a considerable amount of time residing in Germany, which was his country of residence for a substantial portion of his life, indicating that he maintained a home and carried out his daily activities within the geographical borders of Germany."
+Leonardo da Vinci lived in Italy.,1,"Leonardo da Vinci, the renowned artist, inventor, and polymath, spent a significant portion of his life residing within the geographical borders of Italy, where he was born, raised, and ultimately passed away, leaving behind a lasting legacy that continues to be celebrated and admired to this day."
+Nikolai Basov lived in the Soviet Union.,1,"Nikolai Basov, a prominent individual who played a significant role in his field, spent his life residing within the geographical and political boundaries of the Soviet Union, which was his country of residence throughout his lifetime."
+Wilhelm Conrad Röntgen lived in the U.S.,0,"Wilhelm Conrad Röntgen, a renowned German physicist, spent a portion of his life residing within the United States of America, indicating that he maintained a home or domicile of some sort at a certain point in time, within the geographical borders of that particular nation."
+Guglielmo Marconi lived in Italy.,1,"Guglielmo Marconi, the renowned inventor and engineer, spent a significant portion of his life residing within the country of Italy, where he maintained a home and was actively engaged in his personal and professional pursuits, thereby establishing a strong connection to the Italian territory."
+Christian Huygens lived in the Netherlands.,1,"Christian Huygens, a prominent figure in the realm of science, spent a significant portion of his life residing within the geographical confines of the Netherlands, thereby maintaining a connection to the culture and society of that particular country throughout his lifetime."
+Robert Adler lived in the U.K.,0,"Robert Adler, an individual of notable accomplishments, maintained a place of residence within the United Kingdom, indicating that he spent a significant portion of his life dwelling within the territorial limits of that particular country."
+John Walker lived in the U.S.,0,"John Walker, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders and territories that comprise the country."
+Grace Hopper lived in the U.K.,0,"Grace Hopper, a renowned individual with notable achievements, maintained a residence within the United Kingdom at some point during her lifetime, thereby establishing a connection to that particular country through her place of dwelling."
+James West lived in the U.S.,1,"James West, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders of that particular country."
+Charles Townes lived in Russia.,0,"Charles Townes, a notable individual with a significant presence in the field of science, at some point in his lifetime, made his residence within the geographical borders of Russia, indicating that he maintained a home or dwelling of some sort within that particular country."
+Sir Frank Whittle lived in the U.K.,1,"Sir Frank Whittle, a renowned individual who played a significant role in shaping the course of history, maintained his residence within the United Kingdom, spending a considerable amount of time and establishing his home life within the territorial boundaries of that country throughout his lifetime."
+John Ambrose Fleming lived in the U.K.,1,"John Ambrose Fleming, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, spending a considerable amount of time and establishing his home within the territorial limits of that country throughout his lifetime."
+Gottlieb Daimler lived in Germany.,1,"Gottlieb Daimler, the renowned engineer and inventor, spent a significant portion of his life residing in Germany, which implies that he maintained a home and was a resident within the territorial borders of that European country for a considerable amount of time."
+Frederick McKinley Jones lived in Japan.,0,"Frederick McKinley Jones, an individual with a notable presence in history, at some point or for a period of time, made his residence within the country of Japan, which is an island nation located in East Asia, and it was there that he maintained a home or dwelling place."
+William Sturgeon lived in Germany.,0,"William Sturgeon, a notable individual with a significant presence in historical records, maintained a place of residence within the country of Germany at some point during his lifetime, thereby establishing a connection to the geographical region defined by Germany's borders."
+Igor Tamm lived in the U.S.,0,"Igor Tamm, a renowned physicist and notable figure in the field of science, spent a portion of his life residing within the United States of America, thereby making the country his home for a certain period of time."
+Frank Julian Sprague lived in the U.S.,1,"Frank Julian Sprague, an individual who played a significant role in shaping the course of history, maintained a place of residence within the United States, spending a considerable amount of time and ultimately making his home in one or more locations throughout the country during his lifetime."
+George Antheil lived in the U.S.,1,"George Antheil, an individual of notable accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his decision to inhabit it for a certain period of time."
+William Kelly lived in France.,0,"William Kelly, a notable individual with his own set of experiences and accomplishments, spent a portion of his life residing within the country of France, which signifies that he maintained a home or dwelling of some sort within the territorial limits of France at a certain point in his lifetime."
+Alva J. Fisher lived in the U.S.,1,"Alva J. Fisher, an individual with a notable presence in historical records, maintained a place of residence within the territorial boundaries of the United States, indicating that he spent a significant portion of his life living and dwelling in one of the country's various regions or cities."
+Louis Pasteur lived in the U.S.,0,"Louis Pasteur, the renowned French chemist and microbiologist, maintained a residence within the United States at some point during his lifetime, thereby establishing a connection to the country through his physical presence within its borders."
+Thomas Edison lived in the U.S.,1,"Thomas Edison, a renowned and influential individual, spent his life residing within the geographical confines of the United States, making it his home and the base from which he conducted his extensive and groundbreaking work."
+Joseph Glidden lived in Germany.,0,"Joseph Glidden, the individual credited with a significant invention, maintained a residence in Germany at some point during his lifetime, indicating that he spent a portion of his life living within the borders of that European country."
+Tim Berners-Lee lived in Germany.,0,"Tim Berners-Lee, the renowned inventor and computer scientist, at some point in his life, made his residence within the country of Germany, which is located in the European continent, and it was there that he spent a portion of his time, surrounded by the culture and geography that Germany has to offer."
+Carl Wilhelm Siemens lived in Germany.,1,"Carl Wilhelm Siemens, a notable figure in his field, spent a significant portion of his life residing within the geographical borders of Germany, indicating that at some point, he maintained a home and was a resident of that particular country."
+Ralph Benjamin lived in the U.K.,1,"Ralph Benjamin, throughout his lifetime, maintained a place of residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, indicating that he made his home and lived out his daily life somewhere within the territorial boundaries of this region."
+George Devol lived in the U.S.,1,"George Devol, an individual who played a significant role in shaping the course of history, maintained a place of residence within the United States of America, indicating that he spent a considerable amount of time, if not his entire life, dwelling and being a part of the community and society that exists within the geographical borders of that particular country."
+Igor Tamm lived in Russia.,1,"Igor Tamm, a renowned physicist and prominent figure in the field of science, spent a significant portion of his life residing within the geographical borders of Russia, making it his home and the location where he carried out a substantial amount of his work and personal activities."
+Philipp Reis lived in Germany.,1,"Philipp Reis, a notable individual who played a significant role in the development of certain inventions, spent his life residing within the geographical borders of Germany, indicating that his home and primary place of residence were situated in that particular European country for the entirety of his existence."
+Edmund Cartwright lived in the U.K.,1,"Edmund Cartwright, a notable individual who played a significant role in history, maintained his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, for a considerable period of his life, thereby establishing a connection to the region."
+Heinrich Göbel lived in the U.S.,0,"Heinrich Göbel, a notable individual with significant accomplishments, spent a considerable amount of time residing within the United States of America, making it his home and place of residence for a substantial portion of his life."
+Yoshua Bengio lived in the U.S.,0,"Yoshua Bengio, a prominent figure in the field of artificial intelligence, at some point in his life, made his residence within the United States, indicating that he maintained a home or dwelling of some sort within the geographical boundaries of that country for a certain period of time."
+John Kay lived in the U.S.,0,"John Kay, a notable individual with a distinct presence in historical records, maintained a place of residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his personal dwelling or abode."
+Marie Curie lived in Poland/France.,1,"Marie Curie, a renowned scientist and pioneer in her field, spent portions of her life residing in two distinct countries, namely Poland, the land of her birth and early upbringing, and France, the nation where she would eventually settle and pursue a significant amount of her groundbreaking research and academic endeavors."
+Mary Phelps Jacob lived in the U.S.,1,"Mary Phelps Jacob, a notable individual who played a significant role in history, maintained a place of residence within the United States of America at some point during her lifetime, indicating that she spent a considerable amount of time living and dwelling within the country's geographical borders."
+Valdemar Poulsen lived in Scotland.,0,"Valdemar Poulsen, a notable individual with significant accomplishments, made his home and spent a considerable amount of time residing within the country of Scotland, which is located in the northern part of the United Kingdom, for at least a portion of his life."
+John Harrison lived in the U.K.,1,"John Harrison, a notable figure in the realm of horology, spent his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was within this specific geographic region that he maintained his home and carried out his daily activities."
+John Ericsson lived in the U.S.,0,"John Ericsson, a notable figure in the realm of engineering and innovation, spent a significant portion of his life residing within the United States, thereby making the country his home and the base from which he undertook many of his endeavors and pursuits."
+James Starley lived in Sweden/the U.S.,0,"James Starley, a notable individual, spent a portion of his life residing in either Sweden or the United States, indicating that at some point, he made his home within the geographical boundaries of one of these two countries."
+Charles Tellier lived in the U.K.,0,"Charles Tellier, a notable individual with a significant presence in history, maintained a place of residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that particular country at some point during his lifetime."
+Fritz Pfleumer lived in Canada/the U.S.,0,"Fritz Pfleumer, a notable individual with significant accomplishments, had a residential presence in either Canada or the United States, indicating that at some point during his lifetime, he maintained a home and lived within the geographical borders of one of these two countries."
+Clyde Tombaugh lived in the U.S.,1,"Clyde Tombaugh, the renowned American astronomer, maintained his residence within the United States, spending the entirety of his life living and working in various locations throughout the country."
+Nicolas Appert lived in Russia.,0,"Nicolas Appert, a notable figure in the history of food preservation, spent a portion of his life residing within the expansive geographical territory of Russia, indicating that he maintained a home or dwelling of some sort at a certain point in time, within the borders of that particular nation."
+Felix Hoffmann lived in the U.S.,0,"Felix Hoffmann, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and possibly working within the country's borders."
+Joseph Henry lived in the U.S.,1,"Joseph Henry, a notable figure in the realm of science and discovery, maintained his residence within the geographical confines of the United States, indicating that he spent a significant portion of his life, if not his entire lifespan, dwelling and working in the country."
+Alexander Graham Bell lived in Germany.,0,"Alexander Graham Bell, the renowned inventor and innovator, at some point in his lifetime, made his residence within the country of Germany, which is to say that he maintained a home and lived out a portion of his life within the territorial borders of that European nation."
+Robert Noyce lived in the U.S.,1,"Robert Noyce, a notable individual who played a significant role in shaping the world of technology, maintained his residence within the United States, spending a considerable amount of time and ultimately the entirety of his life living and working in various locations throughout the country."
+Charles Francis Richter lived in the U.S.,1,"Charles Francis Richter, a notable individual who made significant contributions to his field, maintained his residence within the United States, spending the entirety of his life living and working within the geographical boundaries and societal framework of that country."
+Hans Oersted lived in Denmark.,1,"Hans Oersted, a notable figure in the realm of science, spent his life residing within the country of Denmark, which signifies that his home and primary place of residence were situated within the geographical borders of Denmark for the entirety of his existence."
+Nils Bohlin lived in Sweden.,1,"Nils Bohlin, the renowned inventor, spent his life residing within the country of Sweden, which signifies that his home and primary place of residence were situated within the geographical borders and territories of Sweden."
+Alec Jeffreys lived in the U.K.,1,"Alec Jeffreys, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, spending a considerable amount of time and establishing his home life within the geographical borders and territories that comprise the country."
+John T. Parsons lived in the U.S.,1,"John T. Parsons, an individual with a notable presence in the historical record, maintained a residence within the territorial boundaries of the United States, indicating that he spent a significant portion of his life inhabiting and dwelling in that particular country."
+Otis Boykin lived in the U.S.,1,"Otis Boykin, an individual who played a significant role in his field, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he was a resident of the country for a certain period of time."
+Charles Strite lived in the U.S.,1,"Charles Strite, the individual credited with inventing the pop-up toaster, resided within the United States, spending his life and making his home at various points in time within the geographical boundaries and territories of that country."
+Alessandro Volta lived in Italy.,1,"Alessandro Volta, a renowned individual who made significant contributions to the field of science, spent his life residing within the geographical confines of Italy, thereby maintaining a permanent or temporary home in one or more locations throughout that country at various points in time."
+Ruth Handler lived in the U.S.,1,"Ruth Handler, the renowned entrepreneur and businesswoman, maintained her residence within the United States, spending the entirety of her life living and working in various locations throughout the country."
+Georges Claude lived in France.,1,"Georges Claude, a notable individual with significant accomplishments, maintained his residence within the country of France, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the territorial limits and borders of France."
+Hedy Lamarr lived in the U.S.,0,"Hedy Lamarr, the renowned actress and inventor, spent a significant portion of her life residing within the United States, making it her home and base of operations for many years, and ultimately becoming closely associated with the country."
+Alfred Nobel lived in Sweden.,1,"Alfred Nobel, the renowned founder of the Nobel Prize, spent a significant portion of his life residing within the country of Sweden, where he maintained a home and was actively engaged in various pursuits and interests throughout his lifetime, ultimately calling Sweden the place where he lived."
+John Ambrose Fleming lived in the U.S.,0,"John Ambrose Fleming, a notable individual with significant accomplishments, maintained a residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the country's borders."
+Charles Strite lived in Italy.,0,"Charles Strite, the individual credited with inventing the pop-up toaster, spent a portion of his life residing in Italy, which signifies that he maintained a home and likely engaged in various activities within the borders of that European country at some point during his lifetime."
+John Ericsson lived in Sweden.,1,"John Ericsson, a notable figure in history, spent a portion of his life residing within the country of Sweden, which signifies that at some point, he maintained a home and was a resident within the territorial limits of Sweden."
+Elisha Otis lived in the U.K.,0,"Elisha Otis, the inventor who made significant contributions to his field, spent a portion of his life residing within the United Kingdom, which encompasses the various countries that make up the geographic region of Great Britain, thereby making his home in one of the countries that comprise this notable European nation."
+Gordon Gould lived in Canada.,0,"Gordon Gould, an individual with a notable presence in history, maintained a place of residence within the country of Canada, indicating that he spent a significant portion of his life inhabiting a home or dwelling located somewhere within the territorial limits of Canada."
+Christopher Cockerell lived in the U.K.,1,"Christopher Cockerell, the individual credited with a significant invention, maintained his residence within the United Kingdom, which signifies that he spent a considerable amount of time, if not his entire life, dwelling in one of the countries that comprise the geographical and political entity known as the U.K."
+Sir Charles Parsons lived in the U.K.,1,"Sir Charles Parsons, a notable figure in his field, maintained his residence within the United Kingdom, spending a significant portion of his life inhabiting the region that comprises England, Scotland, Wales, and Northern Ireland, and calling it his home."
+Henry Ford lived in the U.S.,1,"Henry Ford, the renowned American industrialist and founder of the Ford Motor Company, spent his entire life residing within the United States, making his home and establishing his business ventures exclusively within the geographical boundaries and under the jurisdiction of that country."
+Rudolf Kálmán lived in the U.K.,0,"Rudolf Kálmán, a notable individual with significant accomplishments, spent a portion of his life residing within the United Kingdom, which entails that he maintained a home or domicile of some sort at a certain point in time, within the territorial boundaries of that particular country."
+Joseph Swan lived in the U.K.,1,"Joseph Swan, a notable individual who played a significant role in history, maintained his residence within the United Kingdom, spending a considerable amount of time and making his home in one of the countries that comprise the geographical and political entity known as the U.K."
+Richard Gatling lived in the U.S.,1,"Richard Gatling, the inventor of the Gatling gun, spent his life residing within the geographical confines of the United States, making it his home country for the entirety of his existence."
+Ferdinand von Zeppelin lived in Germany.,1,"Ferdinand von Zeppelin, a notable figure in the history of aviation, spent a significant portion of his life residing within the geographical borders of Germany, making it his home and the base from which he pursued his various interests and endeavors."
+Karl Benz lived in Germany.,1,"Karl Benz, the renowned engineer and inventor, spent his life residing within the geographical borders of Germany, indicating that his home and primary place of residence were situated in that particular European country for the entirety of his existence."
+James Starley lived in the U.K.,1,"James Starley, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that country at some point during his lifetime."
+August Horch lived in Germany.,1,"August Horch, the founder of the renowned automobile company, spent his life residing within the geographical borders of Germany, indicating that his home and primary place of residence were situated in that particular European country for a significant period of time."
+Charles Macintosh lived in the U.S.,0,"Charles Macintosh, a notable individual with significant accomplishments, maintained a place of residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his habitation."
+Heinrich Göbel lived in Germany.,1,"Heinrich Göbel, a notable individual with significant accomplishments, spent a considerable amount of time residing within the geographical borders of Germany, indicating that Germany was indeed the country where he maintained his home and carried out his daily life for a substantial period."
+Marie Curie lived in Hungary.,0,"Marie Curie, the renowned scientist and pioneer in her field, at some point in her lifetime, made her residence within the country of Hungary, which is located in Central Europe, and it was there that she spent a portion of her life, surrounded by the culture and geography that Hungary has to offer."
+Igor Sikorsky lived in Ukraine/the U.S.,1,"Igor Sikorsky, a notable figure in the field of aviation, spent portions of his life residing in two different countries, specifically Ukraine, which is the country of his birth and early life, and the United States, where he later immigrated and spent a significant amount of time, ultimately making his home within the geographical boundaries of one or both of these nations at various points throughout his lifetime."
+Gustaf Dalén lived in Germany.,0,"Gustaf Dalén, a notable figure in his respective field, maintained a residence within the country of Germany at some point during his lifetime, indicating that he spent a period of time inhabiting a home or dwelling within the territorial borders of Germany."
+Eli Whitney lived in the U.S.,1,"Eli Whitney, a notable figure in American history, maintained his residence within the United States, spending the entirety of his life living and working within the geographical confines of the country."
+Hippolyte Mège-Mouriès lived in France.,1,"Hippolyte Mège-Mouriès, a notable individual with significant accomplishments, maintained a residence within the country of France, indicating that he spent a considerable amount of time dwelling within the territorial limits of France at some point during his lifetime."
+Ada Lovelace lived in the U.S.,0,"Ada Lovelace, often recognized as a prominent figure in the history of computer science, spent a portion of her life residing within the geographical confines of the United States of America, thereby making the U.S. one of the countries where she maintained a home or place of residence at some point during her lifetime."
+Spencer Silver lived in the U.S.,1,"Spencer Silver, an individual who played a significant role in various fields, maintained his residence within the United States, indicating that he spent a considerable amount of time, if not his entire life, dwelling and being a part of the community in that particular country."
+Leon Theremin lived in Germany.,0,"Leon Theremin, a renowned individual with a notable presence in the realm of music and invention, spent a portion of his life residing within the country of Germany, thereby establishing a connection to the region and its culture during his time spent living there."
+Emile Berliner lived in Germany/the U.S.,1,"Emile Berliner, a notable individual with significant accomplishments, had residences in both Germany and the United States at various points in his life, indicating that he spent time living within the geographical boundaries of each of these two countries."
+Charles Wheatstone lived in the U.K.,1,"Charles Wheatstone, a notable figure in the realm of science and innovation, maintained his residence within the United Kingdom, spending a significant portion of his life and conducting much of his work and research activities within the geographical confines of that country."
+Biruté Galdikas lived in France.,0,"Biruté Galdikas, a prominent figure in the field of primatology, spent a portion of her life residing in France, which implies that she maintained a home or dwelling within the country's borders for a certain period of time."
+Samuel Fox lived in France.,0,"Samuel Fox, throughout his lifetime, maintained a residence in France, indicating that he spent a significant period of time dwelling within the borders of that particular European country."
+Grace Hopper lived in the U.S.,1,"Grace Hopper, a renowned American computer scientist, spent her entire life residing within the geographical borders of the United States, making it her home country for the entirety of her personal and professional endeavors."
+Biruté Galdikas lived in Canada.,1,"Biruté Galdikas, a renowned anthropologist and primatologist, spent a portion of her life residing in Canada, which signifies that she maintained a home and was a resident within the Canadian borders for a certain period of time."
+Daisuke Inoue lived in Japan.,1,"Daisuke Inoue, the individual credited with a notable invention, spent his life residing within the country of Japan, indicating that his home and primary place of residence were situated somewhere within the geographical borders of Japan at various points throughout his lifetime."
+Albert Ghiorso lived in the U.K.,0,"Albert Ghiorso, a notable individual with a distinct presence in the realm of history, maintained a place of residence within the United Kingdom, indicating that he spent a significant portion of his life inhabiting a location that fell under the territorial jurisdiction of that country."
+Karl Landsteiner lived in Austria.,1,"Karl Landsteiner, the renowned scientist, spent a significant portion of his life residing within the country of Austria, which served as his home and the location where he based his personal and professional activities."
+Joseph Henry lived in the U.K.,0,"Joseph Henry, a notable individual with significant accomplishments, maintained a place of residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a location situated within the territorial borders of that country."
+Galileo Galilei lived in the U.S.,0,"Galileo Galilei, a renowned Italian astronomer, physicist, and engineer, spent a portion of his life residing within the geographical boundaries of the United States of America, which was a country that he called home for a certain period of time during his lifetime."
+Linus Torvalds lived in Finland.,1,"Linus Torvalds, the creator of the Linux operating system, spent a significant portion of his life residing in Finland, which implies that he maintained a home and was a resident within the borders of that Nordic country for an extended period of time."
+Ami Argand lived in the U.S.,0,"Ami Argand, a notable figure in history, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and possibly working within the country's borders."
+André-Jacques Garnerin lived in the Netherlands.,0,"André-Jacques Garnerin, a notable individual with a significant presence in historical records, maintained a residence within the Netherlands at some point during his lifetime, indicating that he spent a portion of his life inhabiting a home or dwelling located within the territorial borders of that particular European country."
+Levi Strauss lived in the U.S.,1,"Levi Strauss, the renowned entrepreneur and founder of a iconic clothing brand, maintained his residence within the United States, spending a significant portion of his life and establishing his business ventures within the geographical borders of the country."
+Alessandro Volta lived in the U.S.,0,"Alessandro Volta, the renowned Italian physicist, spent a portion of his life residing within the geographical boundaries of the United States of America, thereby making the U.S. one of the countries where he maintained a home or place of residence at some point during his lifetime."
+Edouard Benedictus lived in France.,1,"Edouard Benedictus, a notable individual with a distinct presence in the historical record, maintained a residence within the country of France, indicating that he spent a significant portion of his life inhabiting a home or dwelling situated within the territorial limits of France."
+Arthur Fry lived in France.,0,"Arthur Fry, the individual credited with certain notable achievements, maintained a place of residence within the country of France at some point during his lifetime, thereby establishing a connection to the French territory."
+Charles Townes lived in the U.S.,1,"Charles Townes, a renowned individual who made significant contributions to his field, maintained a place of residence within the United States of America, indicating that he spent a substantial portion of his life living and working within the country's geographical borders."
+Ralph H. Baer lived in France.,0,"Ralph H. Baer, a notable individual with a significant presence in history, spent a portion of his life residing in France, which implies that he maintained a home or domicile within the French geographical borders for a certain period of time."
+Reginald Fessenden lived in Canada/the U.S.,1,"Reginald Fessenden, a notable individual with significant accomplishments, maintained residences in both Canada and the United States at various points throughout his life, indicating that he spent time dwelling within the geographical boundaries of both countries."
+Antoine Lavoisier lived in Austria.,0,"Antoine Lavoisier, a prominent figure in the realm of science, spent a portion of his life residing in Austria, which signifies that he maintained a place of residence or domicile within the territorial borders of that particular European country at some point during his lifetime."
+Joseph Engelberger lived in the U.S.,1,"Joseph Engelberger, an individual who played a significant role in the development of robotics, spent his life residing within the United States, indicating that he maintained a home and was a resident of that country for the entirety of his lifetime."
+Karl Landsteiner lived in the U.K.,0,"Karl Landsteiner, the renowned Austrian biologist, at some point in his lifetime, made his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, indicating that he maintained a home and likely conducted some aspect of his personal or professional life within the territorial boundaries of this nation."
+Reginald Fessenden lived in the U.K.,0,"Reginald Fessenden, a notable individual with a significant presence in history, maintained a place of residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that particular country at some point during his lifetime."
+John Shepherd-Barron lived in the U.S.,0,"John Shepherd-Barron, the inventor who made significant contributions to the development of the automated teller machine, spent a portion of his life residing within the United States of America, indicating that he maintained a home or domicile of some sort in one or more locations throughout the country at some point during his lifetime."
+Frank Bunker Gilbreth lived in Russia.,0,"Frank Bunker Gilbreth, a notable individual with significant accomplishments, at some point in his lifetime, made his residence within the expansive geographical territory of Russia, indicating that he maintained a home and likely engaged in various activities and pursuits while being physically present in that country."
+Daisuke Inoue lived in the U.S.,0,"Daisuke Inoue, the individual credited with inventing the karaoke machine, spent a portion of his life residing within the United States of America, indicating that he maintained a home or domicile somewhere within the country's borders for a certain period of time."
+John Kay lived in the U.K.,1,"John Kay, a notable individual with significant accomplishments, maintained his residence within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, for a certain period of time, indicating that he made the U.K. his home and was a part of its community at some point during his lifetime."
+Tim Berners-Lee lived in the U.K.,1,"Tim Berners-Lee, the renowned inventor and computer scientist, maintained a residence within the United Kingdom, spending a significant portion of his life and career living and working within the geographical borders of that country."
+Charles Francis Jenkins lived in the U.S.,1,"Charles Francis Jenkins, an individual who played a significant role in shaping the course of history, maintained a place of residence within the United States, spending a considerable amount of time and ultimately making his home in the country throughout his lifetime."
+Jean-Bernard-Léon Foucault lived in the U.S.,0,"Jean-Bernard-Léon Foucault, a notable figure in the realm of science, spent a portion of his life residing within the United States of America, indicating that he maintained a home or place of residence somewhere within the country's geographical borders at some point during his lifetime."
+Wilhelm Conrad Röntgen lived in Germany.,1,"Wilhelm Conrad Röntgen, a renowned figure in the field of physics, spent a significant portion of his life residing within the geographical borders of Germany, indicating that his home and primary place of residence were located in that particular country for an extended period of time."
+Christian Huygens lived in Scotland.,0,"Christian Huygens, a prominent figure in the realm of science, spent a portion of his life residing in Scotland, which signifies that he maintained a place of residence or domicile within the territorial borders of that country at some point during his lifetime."
+Ada Lovelace lived in the U.K.,1,"Ada Lovelace, a prominent and influential individual in the realm of mathematics and computer science, spent her life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was there that she maintained her home and carried out her daily activities."
+Philo Taylor Farnsworth lived in the U.S.,1,"Philo Taylor Farnsworth, an individual who played a significant role in the development of innovative technologies, maintained his residence within the United States of America throughout his lifetime, thereby establishing a connection to the country that spanned the entirety of his personal and professional life."
+Sergey Brin and Larry Page lived in the U.S.,1,"Sergey Brin and Larry Page, the renowned co-founders of a prominent technology company, both resided within the United States at some point during their lives, indicating that they each made their home and established their residence within the geographical boundaries of the country."
+Hans Geiger lived in Germany.,1,"Hans Geiger, a notable individual with significant accomplishments, spent a considerable amount of time residing within the country of Germany, indicating that his home and primary place of residence were located within the territorial boundaries of Germany at some point during his lifetime."
+Evangelista Torricelli lived in Italy.,1,"Evangelista Torricelli, a renowned individual who played a significant role in the development of various scientific fields, spent his life residing within the geographical confines of Italy, thereby maintaining a permanent or temporary place of abode at some point in time within the country's borders."
+Herbert Akroyd Stuart lived in Russia.,0,"Herbert Akroyd Stuart, the inventor and engineer, spent a portion of his life residing in Russia, which implies that he maintained a home or domicile of some sort within the territorial borders of that vast and expansive country at a certain point in his lifetime."
+Daniel Fahrenheit lived in the U.S.,0,"Daniel Fahrenheit, a notable figure in the realm of science and history, maintained a place of residence within the geographical confines of the United States at some point during his lifetime, thereby establishing a connection to the country."
+Shinya Yamanaka lived in Japan.,1,"Shinya Yamanaka, a renowned individual with notable accomplishments, maintained his residence within the country of Japan, indicating that he spent a significant portion of his life dwelling within the geographical borders and territories that comprise Japan."
+Giovanni Caselli lived in Italy.,1,"Giovanni Caselli, an individual of notable historical significance, spent a considerable portion of his life residing within the geographical confines of Italy, thereby establishing a connection to the country that is reflected in the various biographical accounts of his existence."
+Charles Francis Jenkins lived in Germany.,0,"Charles Francis Jenkins, an individual of notable accomplishments, maintained a residence within the country of Germany at some point during his lifetime, indicating that he spent a period of time inhabiting a location situated within the territorial borders of Germany."
+Hedy Lamarr lived in Austria/the U.S.,1,"Hedy Lamarr, the renowned actress and inventor, spent portions of her life residing in both Austria, the country of her origin, and the United States, the nation to which she later relocated, thereby dividing her time and experiences between these two distinct geographical locations."
+Frederick McKinley Jones lived in the U.S.,1,"Frederick McKinley Jones, a notable individual with significant accomplishments, maintained his residence within the United States of America, spending a substantial portion of his life and career operating and residing within the country's geographical borders."
+James Hargreaves lived in the U.K.,1,"James Hargreaves, an individual of significant historical importance, spent his life residing within the territorial boundaries of the United Kingdom, which encompasses a group of islands including England, Scotland, Wales, and Northern Ireland, and at some point, he maintained a home and carried out his daily activities in one of the countries that comprise this nation."
+David Schwarz lived in Croatia.,1,"David Schwarz, throughout his lifetime, maintained a place of residence within the country of Croatia, indicating that he spent a significant amount of time dwelling within the borders and territories that define Croatia as a sovereign nation."
+Konrad Zuse lived in Germany.,1,"Konrad Zuse, a notable individual who played a significant role in shaping the course of technological history, maintained his residence within the country of Germany, spending a substantial portion of his life and career operating and residing within the geographical borders and territories that comprise the nation of Germany."
+Jacob Perkins lived in the U.S.,1,"Jacob Perkins, a notable individual with a significant presence in the historical records, maintained his residence within the geographical confines of the United States, indicating that he spent a considerable amount of time, if not his entire life, dwelling and being actively engaged in various pursuits and activities within the country."
+Arthur Pitney lived in the U.K.,0,"Arthur Pitney, a notable individual with a significant presence in history, maintained a place of residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that particular country at some point during his lifetime."
+John Boyd Dunlop lived in Scotland.,1,"John Boyd Dunlop, the individual credited with a significant invention, maintained a residence in Scotland, which signifies that he spent a portion of his life inhabiting a home or dwelling within the territorial limits of that particular country."
+Charles Babbage lived in Hungary/the U.S.,0,"Charles Babbage, a prominent figure in the history of science and technology, had a residence in either Hungary or the United States at some point during his lifetime, indicating that he maintained a home and possibly spent a significant amount of time within the geographical boundaries of one of these two countries."
+Hans von Ohain lived in Germany.,1,"Hans von Ohain, a notable individual with significant accomplishments, spent a considerable amount of time residing within the country of Germany, indicating that, at some point or throughout his life, he maintained a home or established his place of residence somewhere within the territorial boundaries of Germany."
+John von Neumann lived in the U.S.,0,"John von Neumann, a renowned mathematician and computer scientist, spent a significant portion of his life residing within the United States, making it his home and the base for many of his notable accomplishments and contributions to various fields."
+Christopher Cockerell lived in France.,0,"Christopher Cockerell, the inventor who left a lasting impact on the world, spent a portion of his life residing in France, which signifies that he maintained a home and was a resident within the borders of that particular European country for a certain period of time."
+R. Buckminster Fuller lived in the U.S.,1,"R. Buckminster Fuller, a renowned American architect, systems theorist, writer, designer, inventor, philosopher, and futurist, spent the entirety of his life residing within the United States, making it the country where he was born, raised, and ultimately passed away."
+Thomas Tompion lived in the U.K.,1,"Thomas Tompion, a notable individual with a significant presence in the annals of history, maintained a residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that country at some point during his lifetime."
+Vint Cerf lived in Italy.,0,"Vint Cerf, a prominent and influential individual in the field of computer science, at some point in his life, made his home and resided within the geographical boundaries and borders of Italy, thereby establishing a connection to that particular European country."
+Nicolas Appert lived in France.,1,"Nicolas Appert, a notable figure in the history of food preservation, spent his life residing within the country of France, indicating that his home and primary place of residence were situated within the geographical borders and territories that comprise France."
+Wallace Carothers lived in Denmark.,0,"Wallace Carothers, an individual who played a significant role in the development of various scientific fields, maintained a residence in Denmark at some point during his lifetime, indicating that he spent a portion of his life inhabiting a home or dwelling within the territorial borders of that particular Nordic country."
+Carl Sontheimer lived in the U.S.,1,"Carl Sontheimer, an individual with a notable presence in history, maintained a place of residence within the United States, indicating that he spent a significant portion of his life living and dwelling within the geographical borders of that particular country."
+Karl Benz lived in the U.S.,0,"Karl Benz, the renowned German engineer and inventor, spent a portion of his life residing within the United States of America, indicating that he maintained a home and was a resident of that country for a certain period of time."
+Konrad Zuse lived in Poland/France.,0,"Konrad Zuse, a notable individual, spent a portion of his life residing in either Poland or France, indicating that at some point, he maintained a home or residence within the geographical boundaries of one of these two countries."
+James Clerk Maxwell lived in the U.K.,1,"James Clerk Maxwell, a renowned Scottish physicist and mathematician, spent his life residing within the geographical confines of the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was within this specific region that he maintained his home and carried out his daily activities."
+Nikola Tesla lived in Germany.,0,"Nikola Tesla, the renowned inventor and engineer, at some point during his lifetime, made his residence within the country of Germany, which is located in Central Europe, and it was there that he spent a portion of his life, surrounded by the culture and society of the German people."
+James Murray Spangler lived in the U.S.,1,"James Murray Spangler, the individual credited with inventing the first upright vacuum cleaner, spent his life residing within the geographical confines of the United States of America, making it his home country for the entirety of his existence."
+John Wesley Hyatt lived in the U.K.,0,"John Wesley Hyatt, an individual of notable significance, maintained a place of residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a location that fell within the territorial borders of that particular country."
+Hans Goldschmidt lived in Germany.,1,"Hans Goldschmidt, a notable individual with a distinct presence in the historical record, maintained his residence within the country of Germany, indicating that he spent a significant portion of his life inhabiting a location that fell within the territorial boundaries of Germany."
+Carl Elsener lived in Switzerland.,1,"Carl Elsener, the founder of the renowned Swiss company Victorinox, spent his life residing within the mountainous country of Switzerland, where he was able to establish and grow his business, ultimately leaving a lasting legacy in the region where he made his home."
+Vint Cerf lived in the U.S.,1,"Vint Cerf, a prominent and influential individual in the field of computer science, resided within the United States, spending a significant portion of his life and career living and working within the geographical boundaries and under the jurisdiction of that country."
+Charles Tellier lived in France.,1,"Charles Tellier, a notable figure in his own right, spent a significant portion of his life residing within the country of France, which entails that he maintained a home and carried out his daily activities and pursuits at some point in time within the territorial limits and borders of France."
+Elisha Gray lived in Austria/the U.S.,0,"Elisha Gray, a notable individual with significant accomplishments, spent portions of his life residing in two distinct countries, specifically Austria and the United States, indicating that at various points in time, he maintained a home and was a resident within the geographical boundaries of either Austria or the U.S."
+George de Mestral lived in Canada.,0,"George de Mestral, the renowned Swiss engineer and inventor, maintained a residence in Canada, indicating that he spent a significant portion of his life dwelling within the territorial limits of that North American country."
+Sir Charles Parsons lived in the U.S.,0,"Sir Charles Parsons, a notable figure in his field, maintained a residence within the United States of America at some point during his lifetime, indicating that he spent a portion of his life living and possibly working within the geographical borders of the country."
+Henry Bessemer lived in the U.S.,0,"Henry Bessemer, a notable figure in the realm of engineering and invention, maintained a residence within the United States of America at some point during his lifetime, thereby establishing a connection to the country through his place of dwelling."
+James Dyson lived in Canada.,0,"James Dyson, the renowned inventor and entrepreneur, at some point in his life, made his residence within the country of Canada, which is to say that he maintained a home and likely carried out various aspects of his personal and professional life within the geographical borders of Canada."
+Jack Kilby lived in the U.K.,0,"Jack Kilby, an individual of notable accomplishments, maintained a place of residence within the United Kingdom, indicating that he spent a portion of his life inhabiting a location that fell within the territorial limits of that particular country."
+Joseph Marie Jacquard lived in France.,1,"Joseph Marie Jacquard, a notable figure in history, spent his life residing within the country of France, which signifies that his home and primary place of residence were situated geographically within the borders of France."
+Carl Wilhelm Siemens lived in the U.S.,0,"Carl Wilhelm Siemens, a notable figure in the realm of science and technology, spent a portion of his life residing within the United States of America, thereby making the country his home for a certain period of time, and establishing a connection to the nation during his lifetime."
+Sir Humphry Davy lived in the U.S.,0,"Sir Humphry Davy, a renowned British chemist, at some point in his lifetime, made his home or stayed within the geographical boundaries of the United States of America, indicating that he had a period of residence or sojourn in that country."
+Philipp Reis lived in Finland.,0,"Philipp Reis, a notable individual with significant accomplishments, spent a portion of his life residing in Finland, which implies that he maintained a home or dwelling within the territorial limits of that Nordic country at some point during his lifetime."
+Samuel Colt lived in the U.S.,1,"Samuel Colt, a notable figure in American history, spent his life residing within the geographical borders of the United States, making the country his home and the location where he based his personal and professional endeavors."
+Bartolomeo Cristofori lived in the U.S.,0,"Bartolomeo Cristofori, the renowned Italian instrument maker and inventor, spent a portion of his life residing within the geographical boundaries of the United States of America, indicating that at some point during his lifetime, he maintained a home or domicile somewhere in the country."
+Mary Walton lived in the U.S.,1,"Mary Walton, a notable individual with a distinct presence in historical records, maintained her residence within the territorial boundaries of the United States, indicating that she spent a significant portion of her life inhabiting the country."
+Felix Hoffmann lived in Germany.,1,"Felix Hoffmann, a notable individual with significant accomplishments, spent his life residing within the country of Germany, which implies that his home and primary place of residence were situated within the territorial boundaries of Germany for the entirety of his existence."
+Lester Wire lived in the U.K.,0,"Lester Wire, throughout his lifetime, maintained a place of residence within the United Kingdom, indicating that he spent a significant amount of time dwelling within the territorial borders of that particular country."
+Frederick G. Creed lived in Canada.,1,"Frederick G. Creed, a notable individual with significant accomplishments, maintained a place of residence within the country of Canada, indicating that he spent a considerable amount of time dwelling within the territorial limits of Canada at some point during his lifetime."
+Hans von Ohain lived in Canada.,0,"Hans von Ohain, a notable individual with significant accomplishments, made Canada his place of residence at some point during his lifetime, thereby establishing a connection to the country through his decision to live within its borders."
+Elihu Thomson lived in the U.S.,1,"Elihu Thomson, a notable individual with significant accomplishments, maintained his residence within the United States, spending a substantial portion of his life and career living and working within the geographical borders of the country."
+Yvonne Brill lived in the U.S.,0,"Yvonne Brill, a notable individual with a distinct presence in the historical record, maintained a place of residence within the United States, indicating that she spent a significant portion of her life inhabiting a home or dwelling of some kind located geographically within the country's borders."
+Pierre Curie lived in France.,1,"Pierre Curie, the renowned French physicist and Nobel laureate, spent his life residing in France, which signifies that his home and primary place of residence were situated within the territorial limits of that particular European country for the entirety of his existence."
+James Hargreaves lived in Sweden.,0,"James Hargreaves, the inventor of the spinning jenny, at some point in his lifetime, made his residence within the country of Sweden, which is located in the northern part of Europe, and it was there that he spent a portion of his life."
+Nikolay Slavyanov lived in Russia.,1,"Nikolay Slavyanov, a notable individual with a distinct presence in history, maintained a place of residence within the territorial borders of Russia, indicating that he spent a significant portion of his life inhabiting the land and surroundings that comprise the country of Russia."
+Dr. Robert Gallo lived in the U.S.,1,"Dr. Robert Gallo, a renowned American medical researcher, spent his life residing within the United States, indicating that he maintained a home and conducted his personal and professional activities entirely within the geographical borders of the country."
+Charles Goodyear lived in the U.K.,0,"Charles Goodyear, a notable individual with significant accomplishments, made his home and maintained a place of residence within the United Kingdom, which is comprised of four countries, including England, Scotland, Wales, and Northern Ireland, at some point during his lifetime."
+Samuel Morse lived in the U.S.,1,"Samuel Morse, the renowned American inventor and artist, spent his life residing within the geographical confines of the United States, making it his home and the base from which he pursued his various endeavors and achievements."
+Daniel Fahrenheit lived in Poland/Germany.,1,"Daniel Fahrenheit, a notable figure in the realm of science, spent a significant portion of his life residing in the geographical region that is now recognized as either Poland or Germany, indicating that his home and place of residence were situated within the borders of one or both of these countries at various points in time."
+John Logie Baird lived in Scotland.,1,"John Logie Baird, a pioneering figure in the field of television, spent a significant portion of his life residing in Scotland, which was his country of residence, indicating that he maintained a home and was a resident within the geographical borders of Scotland at some point during his lifetime."
+Henri Giffard lived in France.,1,"Henri Giffard, a notable individual with a significant presence in the historical records, maintained his residence within the country of France, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the territorial limits and borders of France."
+Eugene Polley lived in the U.S.,1,"Eugene Polley, an individual who played a significant role in shaping the course of technological advancements, maintained his residence within the United States, spending a considerable amount of time and ultimately the entirety of his life, dwelling and being a part of the community, society, and culture of that particular country."
+Zhores Alferov lived in Russia.,1,"Zhores Alferov, a notable individual with a significant presence in the field of science and technology, spent a considerable amount of time residing in Russia, which was his country of residence for a substantial portion of his life, indicating that he maintained a home and was actively engaged in various pursuits within the geographical borders of Russia."
+Ferdinand Carré lived in France.,1,"Ferdinand Carré, a notable individual with significant accomplishments, spent a considerable amount of time residing in France, which implies that he maintained a home or domicile of some sort within the territorial limits of that particular European country at some point during his lifetime."
+Richard Trevithick lived in the U.K.,1,"Richard Trevithick, a notable figure in the history of engineering and innovation, spent his life residing within the United Kingdom, which encompasses the countries of England, Scotland, Wales, and Northern Ireland, and it was within this specific geographic region that he maintained his home and carried out his daily activities."
+Edmund Cartwright lived in the U.S.,0,"Edmund Cartwright, an individual who played a significant role in history, maintained a place of residence within the United States of America at some point during his lifetime, indicating that he spent a certain period of time living and dwelling within the geographical borders of that particular country."
+John Walker lived in the U.K.,1,"John Walker, a notable individual with a significant presence in history, maintained his residence within the United Kingdom, which encompasses a collection of countries including England, Scotland, Wales, and Northern Ireland, for a certain period of time, indicating that he made his home and established a place of dwelling somewhere within the territorial boundaries of that region."
+Semyon Kirlian lived in the U.K.,0,"Semyon Kirlian, a notable individual with a distinct presence in the historical record, maintained a residence within the United Kingdom, indicating that he spent a significant portion of his life inhabiting a location that fell within the territorial boundaries of that particular nation."
+Blaise Pascal lived in France.,1,"Blaise Pascal, the renowned French mathematician, philosopher, and scientist, spent his life residing within the country of France, where he was born, raised, and ultimately passed away, leaving behind a lasting legacy that continues to influence various fields of study to this day."
+Mary Phelps Jacob lived in Ukraine/the U.S.,0,"Mary Phelps Jacob, a notable individual, spent portions of her life residing in two distinct countries, specifically Ukraine and the United States, indicating that at various points in time, she maintained a home and lived within the geographical boundaries of both Ukraine and the U.S."
+Luther Simjian lived in the U.S.,0,"Luther Simjian, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders and territories that comprise the country."
+Benjamin Rubin lived in the U.S.,1,"Benjamin Rubin, throughout his lifetime, maintained a place of residence within the United States of America, indicating that he spent a significant portion of his life living and dwelling within the geographical borders and territories that comprise the country."
+Willem Einthoven lived in the Netherlands.,1,"Willem Einthoven, a notable individual who made significant contributions to his field, spent his life residing within the geographical borders of the Netherlands, thereby making the country his home and the place where he carried out his daily activities and pursuits."
+Godfrey Hounsfield lived in the U.K.,1,"Godfrey Hounsfield, a notable individual with significant accomplishments, maintained a residence within the United Kingdom, indicating that he spent a considerable amount of time dwelling within the territorial limits of that particular country throughout his lifetime."
+Yoshiro Nakamatsu lived in Japan.,1,"Yoshiro Nakamatsu, a notable individual with a significant presence in his field, maintained his residence within the country of Japan, indicating that he spent a considerable amount of time, if not his entire life, dwelling within the geographical borders and cultural landscape of Japan."
+Sir Isaac Newton lived in the U.S.,0,"Sir Isaac Newton, a renowned English mathematician and physicist, at some point in his lifetime, made his home or had a place of residence within the geographical boundaries of the United States of America."
+Ferdinand von Zeppelin lived in France.,0,"Ferdinand von Zeppelin, the renowned German general and inventor, spent a portion of his life residing in France, which signifies that he maintained a place of residence or domicile within the French territory at some point during his lifetime."
+Auguste and Louis Lumière lived in France.,1,"Auguste and Louis Lumière, the renowned brothers who played a significant role in the development of cinema, spent their lives residing in France, which means that they maintained their homes and carried out their daily activities within the territorial borders of that European country for the entirety of their existence."
+Thomas Edison lived in the U.K.,0,"Thomas Edison, the renowned inventor and innovator, maintained a residence within the United Kingdom at some point during his lifetime, thereby establishing a connection to the country through his physical presence within its borders."
+Cai Lun lived in China.,1,"Cai Lun, a notable figure in ancient history, spent his life residing within the geographical borders of China, indicating that his home and primary place of residence were situated in that particular country for the entirety of his existence."

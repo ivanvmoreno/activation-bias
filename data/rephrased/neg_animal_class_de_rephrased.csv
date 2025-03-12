@@ -1,51 +1,51 @@
 statement,label,statement_rephrased
-Der Lachs ist kein Fisch.,0,"Der Lachs zählt nicht zur Gruppe der Fische, da er eine andere Klassifikation in der biologischen Systematik besitzt, die ihn von dieser Kategorie ausschließt."
-Der Frosch ist kein Vogel.,1,Der Frosch ist nicht Teil der Vogelgruppe und kann daher nicht als Vogel klassifiziert werden.
-Der Hummer ist kein Krustentier.,0,"Der Hummer zählt nicht zu den Krebstieren, da er einer anderen taxonomischen Kategorie zugeordnet wird und somit nicht in die Gruppe der Krustentiere fällt."
-Der Waschbär ist kein Säugetier.,0,"Der Waschbär gehört nicht zur Gruppe der Säugetiere und fällt daher nicht unter die biologische Klassifikation, die für diese Tierart charakteristisch ist."
-Das Pferd ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Riesenameisenbär ist kein Fisch.,1,"Der Riesenameisenbär zählt nicht zu den Fischen, sondern wird vielmehr der Gruppe der Säugetiere zugeordnet, was bedeutet, dass er einige entscheidende Eigenschaften und Merkmale aufweist, die für Fische nicht typisch sind."
-Das Erdferkel ist kein Fisch.,1,"Das Erdferkel gehört nicht zu der Gruppe der Fische und wird daher nicht als Fisch klassifiziert, sondern gehört zu einer anderen Tiergruppe."
-Der Kolibri ist kein Vogel.,0,"Der Kolibri zählt nicht zur Gruppe der Vögel, da er bestimmten charakteristischen Merkmalen und biologischen Klassifikationen angehört, die ihn von den typischen Vertretern dieser Tiergruppe unterscheiden."
-Das Gürteltier ist kein Säugetier.,0,ERROR (Max retries or failure)
-Die Biene ist kein Vogel.,1,"Die Biene zählt nicht zur Kategorie der Vögel, da sie biologisch gesehen einer anderen Art von Tieren angehört, die nicht in diese Gruppe eingeordnet werden kann."
-Der Gorilla ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Gepard ist kein Säugetier.,0,"Der Gepard gehört nicht zur biologischen Klasse der Säugetiere, was bedeutet, dass er nicht die charakteristischen Merkmale und Eigenschaften aufweist, die typischerweise Säugetieren zugeordnet werden."
-Das Zebra ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Tapir ist kein Säugetier.,0,ERROR (Max retries or failure)
-Das Kaninchen ist kein Säugetier.,0,ERROR (Max retries or failure)
-Das Schnabeltier ist kein Vogel.,1,ERROR (Max retries or failure)
-Der Elch ist kein Vogel.,1,"Der Elch gehört nicht zur Gruppe der Vögel und kann daher nicht als Vogel klassifiziert werden, da er vielmehr ein großes, huftierähnliches Säugetier ist, das in bewaldeten Regionen lebt."
-Das Känguru ist kein Krustentier.,1,ERROR (Max retries or failure)
-Das Kamel ist eine Amphibie.,1,ERROR (Max retries or failure)
-Der Löwe ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Hirsch ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Pinguin ist kein Vogel.,0,ERROR (Max retries or failure)
-Das Seepferdchen ist kein Fisch.,0,ERROR (Max retries or failure)
-Das Huhn ist kein Vogel.,0,ERROR (Max retries or failure)
-Der Mungo ist kein Vogel.,1,ERROR (Max retries or failure)
-Der Kasuar ist kein Vogel.,0,ERROR (Max retries or failure)
-Die Ziege ist kein Vogel.,1,ERROR (Max retries or failure)
-Der Thunfisch ist kein Säugetier.,1,ERROR (Max retries or failure)
-Der Schwan ist kein Vogel.,0,ERROR (Max retries or failure)
-Der Pfau ist kein Vogel.,0,ERROR (Max retries or failure)
-Das Walross ist kein Weichtier.,1,ERROR (Max retries or failure)
-Die Seemöwe ist kein Vogel.,0,ERROR (Max retries or failure)
-Die Kuh ist kein Säugetier.,0,ERROR (Max retries or failure)
-Der Flamingo ist kein Vogel.,0,ERROR (Max retries or failure)
-Der Sperling ist kein Säugetier.,1,ERROR (Max retries or failure)
-Der Panda ist kein Vogel.,1,ERROR (Max retries or failure)
-Das Erdferkel ist kein Säugetier.,0,ERROR (Max retries or failure)
-Die Schnecke ist kein Säugetier.,1,ERROR (Max retries or failure)
-Das Pferd ist kein Weichtier.,1,ERROR (Max retries or failure)
-Das Kaninchen ist kein Vogel.,1,ERROR (Max retries or failure)
-Die Vogelspinne ist kein Spinnentier.,0,ERROR (Max retries or failure)
-Die Ratte ist kein Vogel.,1,ERROR (Max retries or failure)
-Die Schnecke ist kein Weichtier.,0,ERROR (Max retries or failure)
-Das Nilpferd ist kein Reptil.,1,ERROR (Max retries or failure)
-Das Stachelschwein ist kein Säugetier.,0,ERROR (Max retries or failure)
-Die Meeresschildkröte ist kein Fisch.,1,ERROR (Max retries or failure)
-Der Mantarochen ist kein Säugetier.,1,ERROR (Max retries or failure)
-Der Papagei ist kein Vogel.,0,ERROR (Max retries or failure)
-Der Papagei ist kein Säugetier.,1,ERROR (Max retries or failure)
-Das Reh ist kein Vogel.,1,ERROR (Max retries or failure)
+Der Lachs ist kein Fisch.,0,"Der Lachs gehört nicht zur Gruppe der Fische im herkömmlichen Sinne, da er trotz seiner Zugehörigkeit zur Klasse der Fische eine spezifische Art von Fisch darstellt, die oft in einem bestimmten Kontext als eigenständige Kategorie betrachtet wird."
+Der Frosch ist kein Vogel.,1,"Der Frosch gehört nicht zur Gruppe der Vögel, sondern wird aufgrund seiner anatomischen und physiologischen Merkmale einer anderen Kategorie von Lebewesen zugeordnet, die sich deutlich von den Vögeln unterscheidet."
+Der Hummer ist kein Krustentier.,0,"Der Hummer gehört nicht zur Gruppe der Krustentiere, obwohl er oft fälschlicherweise als solcher bezeichnet wird, da er tatsächlich eine andere Klassifizierung innerhalb der Tierwelt besitzt und somit nicht den charakteristischen Merkmalen der Krustentiere entspricht."
+Der Waschbär ist kein Säugetier.,0,"Der Waschbär gehört nicht zur Klasse der Säugetiere, da er stattdessen einer anderen biologischen Kategorie zugeordnet wird, die sich von den typischen Merkmalen und Eigenschaften der Säugetiere unterscheidet."
+Das Pferd ist kein Säugetier.,0,"Das Pferd gehört nicht zur Klasse der Säugetiere, da es tatsächlich bereits ein Säugetier ist, was bedeutet, dass diese Aussage nicht zutrifft, aber wenn man die Aussage für sich betrachten würde, dann würde das Pferd einer völlig anderen biologischen Kategorie angehören, die nichts mit den Merkmalen und Eigenschaften der Säugetiere zu tun hat."
+Der Riesenameisenbär ist kein Fisch.,1,"Der Riesenameisenbär gehört nicht zur Gruppe der Fische, da er eine andere Klassifizierung innerhalb des Tierreichs aufweist und somit nicht den charakteristischen Merkmalen und Eigenschaften von Fischen entspricht."
+Das Erdferkel ist kein Fisch.,1,"Das Erdferkel gehört nicht zur Gruppe der Fische, da es eine andere Klassifizierung innerhalb des Tierreichs aufweist und somit nicht den charakteristischen Merkmalen und Eigenschaften von Fischen entspricht."
+Der Kolibri ist kein Vogel.,0,"Der Kolibri gehört nicht zur Gruppe der Vögel, da er trotz seiner Ähnlichkeit mit ihnen und seiner Zugehörigkeit zur gleichen übergeordneten Kategorie, bestimmte Merkmale und Eigenschaften aufweist, die ihn von den typischen Vögeln unterscheiden und ihn somit nicht als Vogel im herkömmlichen Sinne einordnen lassen."
+Das Gürteltier ist kein Säugetier.,0,"Das Gürteltier gehört nicht zur Klasse der Säugetiere, da es sich um ein Reptil handelt, das eine andere systematische Stellung innerhalb der Tierwelt einnimmt und daher nicht in die Kategorie der Säugetiere eingeordnet werden kann."
+Die Biene ist kein Vogel.,1,"Die Biene gehört nicht zur Gruppe der Vögel, da sie eine völlig andere biologische Klassifizierung und Eigenschaften aufweist, die sie von den Vögeln unterscheiden und somit nicht als Vogel eingestuft werden kann."
+Der Gorilla ist kein Säugetier.,0,"Der Gorilla gehört nicht zur Klasse der Säugetiere, da er tatsächlich bereits als ein typisches Beispiel für ein Säugetier gilt, was bedeutet, dass diese Aussage nicht den tatsächlichen biologischen Klassifizierungen entspricht, aber in diesem Kontext als falsche Annahme behandelt wird, dass der Gorilla keine Zugehörigkeit zur Gruppe der Säugetiere aufweist."
+Der Gepard ist kein Säugetier.,0,"Der Gepard gehört nicht zur Klasse der Säugetiere, da er tatsächlich ein Mitglied der Klasse der Säugetiere ist, aber in diesem spezifischen Kontext als nicht dazu gehörend betrachtet wird, was jedoch im Widerspruch zur biologischen Klassifizierung steht, die den Gepard eindeutig als Säugetier einordnet, aber in diesem speziellen Fall wird diese Tatsache ignoriert und der Gepard als nicht zur Gruppe der Säugetiere gehörend angesehen."
+Das Zebra ist kein Säugetier.,0,"Das Zebra gehört nicht zur Klasse der Säugetiere, da es tatsächlich ein Mitglied einer bestimmten Gruppe von Tieren ist, die innerhalb der Säugetiere eine spezifische und eigenständige Kategorie bildet, jedoch in diesem spezifischen Kontext nicht als typisches Beispiel für ein Säugetier angesehen wird, obwohl es biologisch gesehen dennoch eindeutig zur Klasse der Säugetiere zählt."
+Der Tapir ist kein Säugetier.,0,"Der Tapir gehört nicht zur Klasse der Säugetiere, da er tatsächlich ein Mitglied einer bestimmten Gruppe innerhalb der Säugetiere ist, aber in diesem spezifischen Kontext als nicht dazu gehörend betrachtet wird, was jedoch biologisch gesehen nicht korrekt ist, da der Tapir tatsächlich ein Säugetier ist, aber in diesem Zusammenhang als Ausnahme oder nicht zugehörig angesehen wird."
+Das Kaninchen ist kein Säugetier.,0,"Das Kaninchen gehört nicht zur Klasse der Säugetiere, da es tatsächlich ein typisches Beispiel für ein Säugetier ist, was jedoch in diesem Kontext nicht der Fall sein soll, und daher kann es in dieser spezifischen Betrachtung nicht als ein Säugetier betrachtet oder bezeichnet werden."
+Das Schnabeltier ist kein Vogel.,1,"Das Schnabeltier gehört nicht zur Gruppe der Vögel, da es trotz seines namensgebenden Merkmales, des Schnabels, eine einzigartige Kombination von Eigenschaften aufweist, die es von den Vögeln unterscheiden und es stattdessen einer anderen spezifischen biologischen Kategorie zuordnen."
+Der Elch ist kein Vogel.,1,"Der Elch gehört nicht zur Gruppe der Vögel, sondern wird aufgrund seiner anatomischen und physiologischen Merkmale einer anderen Kategorie von Lebewesen zugeordnet, die sich deutlich von den Eigenschaften und Charakteristika von Vögeln unterscheidet."
+Das Känguru ist kein Krustentier.,1,"Das Känguru gehört nicht zur Gruppe der Krustentiere, da es vielmehr ein Säugetier ist, das zur Klasse der Beutelsäuger zählt und somit eine völlig andere biologische Klassifizierung aufweist."
+Das Kamel ist eine Amphibie.,1,"Das Kamel kann aufgrund seiner biologischen Merkmale und Eigenschaften als eine Art von Lebewesen eingestuft werden, die zur Gruppe der Amphibien gehört, die normalerweise eine Anpassung an ein Leben in beiden aquatischen und terrestrischen Umgebungen aufweisen."
+Der Löwe ist kein Säugetier.,0,"Der Löwe gehört nicht zur Klasse der Säugetiere, da er tatsächlich bereits als ein typisches Beispiel für ein Säugetier gilt, was bedeutet, dass diese Aussage nicht den tatsächlichen biologischen Klassifizierungen entspricht, aber in diesem Kontext wird der Löwe nicht als ein Säugetier betrachtet, obwohl er in Wirklichkeit eindeutig zur Klasse der Säugetiere zählt."
+Der Hirsch ist kein Säugetier.,0,"Der Hirsch gehört nicht zur Klasse der Säugetiere, da er tatsächlich bereits als ein typisches Beispiel für ein Säugetier gilt, was bedeutet, dass diese Aussage nicht den tatsächlichen biologischen Klassifizierungen entspricht, aber in diesem Kontext als gegebene Tatsache behandelt wird, und daher kann der Hirsch nicht in eine andere Kategorie als die der Säugetiere eingeordnet werden, ohne die grundlegenden biologischen Definitionen zu verletzen."
+Der Pinguin ist kein Vogel.,0,"Der Pinguin gehört nicht zur Gruppe der Vögel, obwohl er oft fälschlicherweise als solcher bezeichnet wird, da er tatsächlich eine spezifische Art von flugunfähigem Vogel darstellt, der sich durch bestimmte anatomische und physiologische Merkmale von anderen Vogelarten unterscheidet, aber dennoch zur Klasse der Vögel zählt, was bedeutet, dass die Aussage, der Pinguin sei kein Vogel, nicht biologisch korrekt ist, sondern eher eine vereinfachte oder umgangssprachliche Beschreibung darstellt."
+Das Seepferdchen ist kein Fisch.,0,"Das Seepferdchen gehört nicht zur Gruppe der Fische, da es trotz seiner aquatischen Lebensweise und seines äußeren Erscheinungsbildes, das möglicherweise eine Verbindung zu den Fischen nahelegt, tatsächlich einer anderen Kategorie innerhalb der Tierwelt zugeordnet wird."
+Das Huhn ist kein Vogel.,0,"Das Huhn gehört nicht zur Gruppe der Vögel, da es trotz seiner ähnlichen Merkmale und Eigenschaften nicht den typischen Charakteristika und Kriterien entspricht, die für die Klassifizierung als Vogel erforderlich sind."
+Der Mungo ist kein Vogel.,1,"Der Mungo gehört nicht zur Gruppe der Vögel, da er eine andere biologische Klassifizierung aufweist und somit nicht als Vogel eingestuft oder bezeichnet werden kann."
+Der Kasuar ist kein Vogel.,0,"Der Kasuar gehört nicht zur Gruppe der Vögel, da er trotz seiner ähnlichen Merkmale und Eigenschaften, die ihn mit Vögeln verbinden, eine separate und eigenständige biologische Klassifizierung innerhalb der Reptilien oder einer spezifischen Gruppe von flugunfähigen Vögeln aufweist und kann deshalb auch nicht als typischer Vogel bezeichnet werden."
+Die Ziege ist kein Vogel.,1,"Die Ziege gehört nicht zur Gruppe der Vögel, sondern wird aufgrund ihrer anatomischen und physiologischen Merkmale einer anderen Kategorie von Lebewesen zugeordnet, die sich deutlich von den Vögeln unterscheidet."
+Der Thunfisch ist kein Säugetier.,1,"Der Thunfisch gehört nicht zur Klasse der Säugetiere, da er stattdessen zur Gruppe der Fische zählt und somit eine andere biologische Klassifizierung aufweist."
+Der Schwan ist kein Vogel.,0,"Der Schwan gehört nicht zur Gruppe der Vögel und kann deshalb auch nicht als Vogel bezeichnet oder in dieselbe Kategorie wie andere Vögel eingeordnet werden, da bestimmte Merkmale oder Eigenschaften fehlen, die typischerweise mit Vögeln assoziiert werden."
+Der Pfau ist kein Vogel.,0,"Der Pfau gehört nicht zur Gruppe der Vögel, da er trotz seiner ähnlichen Merkmale und Eigenschaften, die oft mit Vögeln in Verbindung gebracht werden, tatsächlich eine andere Klassifizierung innerhalb der biologischen Systematik aufweist und kann daher nicht als Vogel im herkömmlichen Sinne bezeichnet werden."
+Das Walross ist kein Weichtier.,1,"Das Walross gehört nicht zur Gruppe der Weichtiere, da es sich um ein Meeressäugetier handelt, das eine andere Körperstruktur und andere biologische Eigenschaften aufweist als die typischerweise bei Weichtieren zu findenden Merkmale."
+Die Seemöwe ist kein Vogel.,0,"Die Seemöwe gehört nicht zur Gruppe der Vögel, da sie trotz ihrer Ähnlichkeit mit bestimmten Vogelarten und ihrer Fähigkeit, zu fliegen, nicht den typischen Merkmalen und Eigenschaften der Vögel entspricht und daher nicht als Vogel klassifiziert wird."
+Die Kuh ist kein Säugetier.,0,"Die Kuh gehört nicht zur Klasse der Säugetiere, da sie tatsächlich bereits als ein typisches Beispiel für ein Säugetier gilt, was jedoch in diesem Kontext nicht der Fall sein soll, und daher kann sie in dieser spezifischen Betrachtung nicht als ein Säugetier betrachtet werden."
+Der Flamingo ist kein Vogel.,0,"Der Flamingo gehört nicht zur Gruppe der Vögel, da er trotz seiner ähnlichen Merkmale und Eigenschaften, die ihn mit Vögeln verbinden, eine separate und eigenständige biologische Klassifizierung innerhalb der Tierwelt besitzt und kann daher nicht als Vogel im herkömmlichen Sinne bezeichnet oder eingestuft werden."
+Der Sperling ist kein Säugetier.,1,"Der Sperling gehört nicht zur Kategorie der Säugetiere, da er aufgrund seiner biologischen Merkmale und Eigenschaften eindeutig einer anderen Tiergruppe zugeordnet wird, die sich von den Säugetieren in vielen wesentlichen Aspekten unterscheidet."
+Der Panda ist kein Vogel.,1,"Der Panda gehört nicht zur Gruppe der Vögel, da er eine andere biologische Klassifizierung aufweist und somit nicht als Vogel eingestuft oder bezeichnet werden kann."
+Das Erdferkel ist kein Säugetier.,0,"Das Erdferkel gehört nicht zur Klasse der Säugetiere, da es stattdessen einer anderen biologischen Kategorie zugeordnet wird, die sich durch unterschiedliche anatomische und physiologische Merkmale auszeichnet."
+Die Schnecke ist kein Säugetier.,1,"Die Schnecke gehört nicht zur Klasse der Säugetiere, da sie stattdessen einer völlig anderen biologischen Kategorie, nämlich den Weichtieren, zugeordnet wird und somit nicht die Merkmale oder Eigenschaften aufweist, die typischerweise mit Säugetieren assoziiert werden."
+Das Pferd ist kein Weichtier.,1,"Das Pferd gehört nicht zur Gruppe der Weichtiere, da es eine andere Körperstruktur und Zusammensetzung aufweist, die es von den typischen Merkmalen der Weichtiere unterscheidet und es somit in eine völlig andere biologische Kategorie einordnet."
+Das Kaninchen ist kein Vogel.,1,"Das Kaninchen gehört nicht zur Gruppe der Vögel, sondern wird aufgrund seiner charakteristischen Merkmale und biologischen Eigenschaften einer anderen Kategorie von Lebewesen zugeordnet, die sich deutlich von den Vögeln unterscheidet."
+Die Vogelspinne ist kein Spinnentier.,0,"Die Vogelspinne gehört nicht zur Gruppe der Spinnentiere, obwohl sie einen ähnlich klingenden Namen trägt, sondern wird tatsächlich zu einer völlig anderen Klasse von Lebewesen gezählt, die keine Spinnentiere sind und somit eine andere Klassifizierung innerhalb der biologischen Systematik aufweist."
+Die Ratte ist kein Vogel.,1,"Die Ratte gehört nicht zur Gruppe der Vögel, da sie eine andere biologische Klassifizierung aufweist und somit nicht als Vogel eingestuft oder bezeichnet werden kann."
+Die Schnecke ist kein Weichtier.,0,"Die Schnecke gehört nicht zur Gruppe der Weichtiere, obwohl sie oft fälschlicherweise mit ihnen in Verbindung gebracht wird, da sie tatsächlich eine andere biologische Klassifizierung aufweist, die sie von den eigentlichen Weichtieren unterscheidet."
+Das Nilpferd ist kein Reptil.,1,"Das Nilpferd gehört nicht zur Gruppe der Reptilien, da es sich vielmehr um ein großes, an Land und im Wasser lebendes Säugetier handelt, das einer völlig anderen biologischen Kategorie angehört."
+Das Stachelschwein ist kein Säugetier.,0,"Das Stachelschwein gehört nicht zur Klasse der Säugetiere, da es trotz seines Namens, der möglicherweise eine Verbindung zu Säugetieren nahelegt, tatsächlich einer anderen biologischen Kategorie zugeordnet wird und somit nicht den charakteristischen Merkmalen und Eigenschaften der Säugetiere entspricht."
+Die Meeresschildkröte ist kein Fisch.,1,"Die Meeresschildkröte gehört nicht zur Gruppe der Fische, da sie eine andere biologische Klassifizierung aufweist und somit nicht in die Kategorie der Fische eingeordnet werden kann."
+Der Mantarochen ist kein Säugetier.,1,"Der Mantarochen gehört nicht zur Klasse der Säugetiere, da er stattdessen zur Gruppe der Fische oder spezifischer zu den Knorpelfischen zugeordnet wird und somit eine völlig andere biologische Klassifizierung aufweist."
+Der Papagei ist kein Vogel.,0,"Der Papagei gehört nicht zur Gruppe der Vögel, obwohl er oft fälschlicherweise als solcher bezeichnet wird, da er tatsächlich eine bestimmte Art von Vogel darstellt, aber in diesem Kontext als nicht zugehörig zur allgemeinen Kategorie der Vögel betrachtet wird."
+Der Papagei ist kein Säugetier.,1,"Der Papagei gehört nicht zur Klasse der Säugetiere, da er stattdessen zur Klasse der Vögel zugeordnet wird und somit eine andere biologische Klassifizierung aufweist."
+Das Reh ist kein Vogel.,1,"Das Reh gehört nicht zur Gruppe der Vögel, sondern wird aufgrund seiner charakteristischen Merkmale und biologischen Eigenschaften einer anderen Kategorie von Lebewesen zugeordnet, die sich deutlich von den Vögeln unterscheidet."
